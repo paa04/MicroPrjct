@@ -68,3 +68,34 @@ Each historical prediction is made using parameters fitted before the start of i
 The matched static reference uses the same candidate mask and feature pipeline as the dynamic variants; original repository baseline differs in features and mask. These are exploratory retrospective comparisons on previously examined outcomes, not fresh test estimates. 2026 subset has only 3 observations; none of the new variants hits a first prediction within 300m there. Remaining difficulty: recent experts/mode finds 7/7 mall-near openings in top3, but only 3/10 other openings. Do not claim domain shift fully eliminated. Full historical snapshots, property owner, vacancy and rent not recovered; current OSM is used. Closed clubs absent from catalogs may bias evaluation. No historical claim of economic profit optimality.
 
 Local reconstruction (45 outside-holdout Moscow openings up to 2026-11-27; current market; not a historical backtest): static first distances 50m (Люблю Молл) and 1058m (Экран), recent experts/mode 50m and 519m. Local recommendations from recent experts/mode are 55.648161,37.736019; 55.652653,37.742388; 55.658042,37.751942. Their scenario net network gains are 6.47, 8.36, 12.54 pp respectively at tau=800 and housing proxy. Predictive mode is distinct from robust economic recommendation. For current local planning preserve the robust scenario analysis and consider the market location as a compromise. Test assertions verified against committed reports (chronology, probability normalization, market accounting). Main branch unchanged.
+
+
+## Extended Moscow-only ablations: multiscale, relative and commercial regimes, local gate
+
+```bash
+node multiscale_experiment.js
+node relative_experiment.js
+node commercial_regime_experiment.js
+node local_gate_experiment.js
+node local_gate_maryino.js
+node test_extended.js
+```
+
+All reports are committed. The initial wider multiscale search timed out; the measured search uses three specifications, 22 optimizer iterations, 100m candidates and 200m demand quadrature. Forward validation on 13 openings in 2023–24 uses earlier events only; 17 openings in 2025–26 are evaluated chronologically. The prior 2025+ test has been repeatedly examined, so results remain exploratory.
+
+Data audit: "outside 150m of a mall POI" does not mean non-commercial premises. DDX Airport/Baku, Bibirevo/Lenta and Shelepikha/Prichalny are examples from the catalog. In some cases current OSM has no nearby commercial footprint. Adding a commercial footprint >=1000m² within 150m changes regime counts from 21/28 and 7/17 to 25/28 and 12/17; a >=1500m² footprint within 250m gives 25/28 and 14/17. These are geographic proxies, not verified historical building categories.
+
+| Specification / decision | Hit1 | Hit3 | Median top1 m | Median top3 m |
+|---|---:|---:|---:|---:|
+| Original joint | 4/17 | 10/17 | 1551 | 230 |
+| Matched fixed gate / mode | 4/17 | 10/17 | 1062 | 223 |
+| Multiscale commercial / mode | 4/17 | 8/17 | 1804 | 313 |
+| Relative ranks / mode | 4/17 | 8/17 | 1551 | 431 |
+| Commercial regime / mass | 5/17 | 9/17 | 997 | 266 |
+| Commercial regime + competition / mass | 4/17 | 8/17 | 849 | 342 |
+| Local gate / mode | 4/17 | 11/17 | 1062 | 143 |
+| Local structural / mass | 5/17 | 8/17 | 997 | 315 |
+
+Local gate: logistic adjustment to the time-varying prior using the fraction of available near-mall cells and differences in average venue and housing features between regimes. Estimated from earlier openings only, with ridge regularization. Matched comparison: one gained top3 hit (Bibirevo, 431m to 32m), no lost hits; near-mall 7/7 and other 4/10. Exact-cell NLL 5.528 vs 5.534, radius NLL 2.945 vs 2.924. The local gate/mode is the retrospective hit3 leader, not the pre-2025 selected model. Forward validation in the local-gate experiment selected local_structural/mass, which did not beat the fixed baseline on hit3 (8/17 vs 10/17). Other forward-selected ablations also did not improve hit3. Do not claim validated superiority from this reused set.
+
+Maryino: 45 outside-district observations up to 2026-11-27; the fixed and local gate/mode give the same three recommendations and reconstruction errors (50m and 519m). Local gate is 0.505 versus fixed 0.490. The Bratislavsky market zone gives the highest scenario net gain among the three (12.54 pp), but the robust demand maximizer is still a separate result. The test assertions on committed reports were actually executed and passed. No change to main, no new historical infrastructure or real-estate availability data, no nationwide expansion.
