@@ -1,0 +1,675 @@
+{
+  "candidates": [
+    {
+      "id": "icx-24489",
+      "address": "Братиславская улица, 20",
+      "lon": 37.7609183,
+      "lat": 55.6563218,
+      "status": "advertised_lease_unconfirmed",
+      "area_m2": 1300,
+      "monthly_rent_rub": null,
+      "distance_to_robust_m": 253.3310493883153,
+      "nearest_district_cell_m": 37.19071863410059,
+      "unoccupied_radius_150": true,
+      "min_gain_pp": 8.838063858088212,
+      "max_gain_pp": 23.439145064933193,
+      "scenarios": [
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 22.309839481859843,
+          "gross_pp": 28.963457063605034,
+          "own_transfer_pp": 6.653617581745194
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 20.209225934042074,
+          "gross_pp": 25.530365599375514,
+          "own_transfer_pp": 5.32113966533344
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 22.524157574962917,
+          "gross_pp": 30.5815011028533,
+          "own_transfer_pp": 8.057343527890382
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 22.536528981671843,
+          "gross_pp": 23.673491888110863,
+          "own_transfer_pp": 1.1369629064390208
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 20.427031973293857,
+          "gross_pp": 21.487589562880142,
+          "own_transfer_pp": 1.0605575895862835
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 23.439145064933193,
+          "gross_pp": 25.03098429951709,
+          "own_transfer_pp": 1.5918392345838972
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 14.924358911939429,
+          "gross_pp": 21.01251720416381,
+          "own_transfer_pp": 6.088158292224382
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 13.94226058442685,
+          "gross_pp": 19.31015270900377,
+          "own_transfer_pp": 5.36789212457692
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 14.685567084521779,
+          "gross_pp": 21.737234750468467,
+          "own_transfer_pp": 7.05166766594669
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 13.33999707980297,
+          "gross_pp": 16.3120912346422,
+          "own_transfer_pp": 2.972094154839228
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 12.527991572006753,
+          "gross_pp": 15.19326160908559,
+          "own_transfer_pp": 2.6652700370788374
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 13.202337247829174,
+          "gross_pp": 16.67891544087684,
+          "own_transfer_pp": 3.4765781930476662
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 10.554305812315263,
+          "gross_pp": 16.870214329349796,
+          "own_transfer_pp": 6.315908517034531
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 9.957157710298432,
+          "gross_pp": 15.852824535125071,
+          "own_transfer_pp": 5.895666824826638
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 10.568601446081036,
+          "gross_pp": 17.465871997833172,
+          "own_transfer_pp": 6.897270551752137
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 9.378639190784007,
+          "gross_pp": 12.547190211235357,
+          "own_transfer_pp": 3.168551020451349
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 8.838063858088212,
+          "gross_pp": 11.777610294415924,
+          "own_transfer_pp": 2.9395464363277113
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 9.450352443189272,
+          "gross_pp": 12.888807206834743,
+          "own_transfer_pp": 3.438454763645471
+        }
+      ]
+    },
+    {
+      "id": "robust",
+      "address": "robust",
+      "lon": 37.76467935515967,
+      "lat": 55.65714408911247,
+      "status": "model_zone_not_listing",
+      "area_m2": null,
+      "monthly_rent_rub": null,
+      "distance_to_robust_m": 0,
+      "nearest_district_cell_m": 1.350255561217148e-10,
+      "unoccupied_radius_150": true,
+      "min_gain_pp": 8.818933089892447,
+      "max_gain_pp": 24.764607409561787,
+      "scenarios": [
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 24.7550885270808,
+          "gross_pp": 30.296128473497657,
+          "own_transfer_pp": 5.5410399464168565
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 23.19144156972123,
+          "gross_pp": 27.658480467442526,
+          "own_transfer_pp": 4.467038897721295
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 23.527222819998254,
+          "gross_pp": 30.089496142506334,
+          "own_transfer_pp": 6.562273322508077
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 24.764607409561787,
+          "gross_pp": 25.632502438999115,
+          "own_transfer_pp": 0.8678950294373294
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 23.235210877350447,
+          "gross_pp": 24.07887236040017,
+          "own_transfer_pp": 0.8436614830497235
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 24.034299830203594,
+          "gross_pp": 25.274694868245938,
+          "own_transfer_pp": 1.2403950380423467
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 15.384927652892449,
+          "gross_pp": 21.04291741726245,
+          "own_transfer_pp": 5.657989764370003
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 14.63779638754411,
+          "gross_pp": 19.65321881226883,
+          "own_transfer_pp": 5.015422424724717
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 14.459588006412579,
+          "gross_pp": 20.851209549052776,
+          "own_transfer_pp": 6.3916215426401966
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 13.87853084707295,
+          "gross_pp": 16.646105613885727,
+          "own_transfer_pp": 2.767574766812775
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 13.290446940059805,
+          "gross_pp": 15.800937886635271,
+          "own_transfer_pp": 2.510490946575467
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 13.061569307092471,
+          "gross_pp": 16.195518046632056,
+          "own_transfer_pp": 3.1339487395395853
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 10.415859046336445,
+          "gross_pp": 16.432119768579092,
+          "own_transfer_pp": 6.016260722242647
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 9.899872323204692,
+          "gross_pp": 15.539062507379128,
+          "own_transfer_pp": 5.639190184174437
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 10.180368751718268,
+          "gross_pp": 16.653470409773867,
+          "own_transfer_pp": 6.473101658055601
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 9.279865105838175,
+          "gross_pp": 12.319657908062366,
+          "own_transfer_pp": 3.0397928022241922
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 8.818933089892447,
+          "gross_pp": 11.656441765766381,
+          "own_transfer_pp": 2.8375086758739356
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 9.107024593825145,
+          "gross_pp": 12.340558400724772,
+          "own_transfer_pp": 3.233533806899627
+        }
+      ]
+    },
+    {
+      "id": "compromise",
+      "address": "compromise",
+      "lon": 37.75353383992627,
+      "lat": 55.658042400287464,
+      "status": "model_zone_not_listing",
+      "area_m2": null,
+      "monthly_rent_rub": null,
+      "distance_to_robust_m": 707.1067811867078,
+      "nearest_district_cell_m": 1.9829881867188803e-10,
+      "unoccupied_radius_150": true,
+      "min_gain_pp": 8.323489761138116,
+      "max_gain_pp": 18.14340791901229,
+      "scenarios": [
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 16.422093104711003,
+          "gross_pp": 25.578636354890484,
+          "own_transfer_pp": 9.15654325017948
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 13.263750270992494,
+          "gross_pp": 19.98515605449297,
+          "own_transfer_pp": 6.721405783500472
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 16.54711036376376,
+          "gross_pp": 28.023238105303093,
+          "own_transfer_pp": 11.476127741539335
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 17.09139848502733,
+          "gross_pp": 18.791945000053893,
+          "own_transfer_pp": 1.700546515026563
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 13.64781372670909,
+          "gross_pp": 14.956205921334037,
+          "own_transfer_pp": 1.3083921946249466
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 18.14340791901229,
+          "gross_pp": 20.517943825344236,
+          "own_transfer_pp": 2.374535906331948
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 13.173112912998597,
+          "gross_pp": 19.462708595915625,
+          "own_transfer_pp": 6.289595682917029
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 11.383139210569563,
+          "gross_pp": 16.63585761282556,
+          "own_transfer_pp": 5.252718402255997
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 13.608967226332819,
+          "gross_pp": 21.02169001678236,
+          "own_transfer_pp": 7.412722790449541
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 11.602376604477426,
+          "gross_pp": 14.673302805750085,
+          "own_transfer_pp": 3.07092620127266
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 10.020780919009958,
+          "gross_pp": 12.60477565250724,
+          "own_transfer_pp": 2.5839947334972804
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 12.10714629562047,
+          "gross_pp": 15.793891900987667,
+          "own_transfer_pp": 3.686745605367196
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 10.359045700093326,
+          "gross_pp": 16.801414254314434,
+          "own_transfer_pp": 6.442368554221107
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 9.449667642960058,
+          "gross_pp": 15.300592351839725,
+          "own_transfer_pp": 5.850924708879668
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 10.607671915836892,
+          "gross_pp": 17.706154009952787,
+          "own_transfer_pp": 7.098482094115894
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 9.161269436687764,
+          "gross_pp": 12.382561524949402,
+          "own_transfer_pp": 3.221292088261639
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 8.323489761138116,
+          "gross_pp": 11.221000875605753,
+          "own_transfer_pp": 2.8975111144676378
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 9.458963760972633,
+          "gross_pp": 13.008435148866237,
+          "own_transfer_pp": 3.549471387893605
+        }
+      ]
+    },
+    {
+      "id": "historical",
+      "address": "historical",
+      "lon": 37.742388324692875,
+      "lat": 55.650855910887536,
+      "status": "model_zone_not_listing",
+      "area_m2": null,
+      "monthly_rent_rub": null,
+      "distance_to_robust_m": 1565.2475842495833,
+      "nearest_district_cell_m": 1.7607142553773407e-10,
+      "unoccupied_radius_150": true,
+      "min_gain_pp": 5.283423723637847,
+      "max_gain_pp": 9.219447398758254,
+      "scenarios": [
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 6.494299500911473,
+          "gross_pp": 10.372094888221023,
+          "own_transfer_pp": 3.87779538730955
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 5.807150163601533,
+          "gross_pp": 9.151221807216734,
+          "own_transfer_pp": 3.344071643615202
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 8.231720887269473,
+          "gross_pp": 13.052223593389526,
+          "own_transfer_pp": 4.820502706120052
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 5.9594658883400795,
+          "gross_pp": 8.42915153706641,
+          "own_transfer_pp": 2.469685648726331
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 5.283423723637847,
+          "gross_pp": 7.4184077649787,
+          "own_transfer_pp": 2.134984041340853
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 7.678945073810641,
+          "gross_pp": 10.696650142222227,
+          "own_transfer_pp": 3.017705068411586
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 7.946112699232947,
+          "gross_pp": 13.844987049248529,
+          "own_transfer_pp": 5.89887435001558
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 7.363293872889081,
+          "gross_pp": 12.844967467338355,
+          "own_transfer_pp": 5.481673594449275
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 9.163922318408002,
+          "gross_pp": 15.873093390548638,
+          "own_transfer_pp": 6.709171072140635
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 7.0632699542344985,
+          "gross_pp": 10.016502488554652,
+          "own_transfer_pp": 2.9532325343201533
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 6.537977810716933,
+          "gross_pp": 9.248631726214425,
+          "own_transfer_pp": 2.7106539154974922
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 8.200308159011191,
+          "gross_pp": 11.663359419233373,
+          "own_transfer_pp": 3.4630512602221817
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 8.742878684322077,
+          "gross_pp": 15.026169075535531,
+          "own_transfer_pp": 6.283290391213455
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 8.39594599454387,
+          "gross_pp": 14.41828193199247,
+          "own_transfer_pp": 6.022335937448597
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 9.219447398758254,
+          "gross_pp": 16.04318054277342,
+          "own_transfer_pp": 6.823733144015165
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 7.689924502895701,
+          "gross_pp": 10.715851353094802,
+          "own_transfer_pp": 3.025926850199101
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 7.355217968640508,
+          "gross_pp": 10.221649305395925,
+          "own_transfer_pp": 2.8664313367554164
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 8.188738231393357,
+          "gross_pp": 11.516471718842833,
+          "own_transfer_pp": 3.3277334874494775
+        }
+      ]
+    }
+  ],
+  "screened_out": [
+    {
+      "id": "apex-1091699",
+      "address": "Братиславская улица (номер не раскрыт)",
+      "status": "advertised_lease_unconfirmed",
+      "area_m2": "955",
+      "note": "Exact address missing; not eligible for coordinate ranking"
+    },
+    {
+      "id": "cian-335197725",
+      "address": "Люблинская улица, 153",
+      "status": "existing_ddx_building_excluded",
+      "area_m2": "1297",
+      "note": "Same shopping center as current DDX; exclude new location"
+    },
+    {
+      "id": "shopandmall-1720",
+      "address": "Братиславская улица, 20",
+      "status": "historical_ad_not_current",
+      "area_m2": "1176.7",
+      "note": "Historical advertisement; do not treat as additional current option"
+    },
+    {
+      "id": "cian-market",
+      "address": "Мячковский бульвар, 3А",
+      "status": "building_only_no_large_space_verified",
+      "area_m2": "",
+      "note": "Building catalog only; contiguous vacancy unknown"
+    }
+  ],
+  "limitations": "One geocoded >=1000m2 advertised lead in this small nonexhaustive sample. Actual availability, layout, zoning, lease price, capacity and dates not verified. Exact-address centroid, not entrance. Euclidean 18 scenarios; normalized demand, not profit. Reference zones are not claimed available."
+}
