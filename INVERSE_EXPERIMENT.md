@@ -1,0 +1,7 @@
+# Inverse spatial competition experiment
+
+Run `node inverse_experiment.js` from the repository root (Node 18+, no npm dependencies). Output: `results/inverse_experiment/report.json`.
+
+The experiment compares a uniform choice baseline, site characteristics, demand proxies, and a structural incremental network-share feature. Hyperparameters are selected by coordinate RMSE in grouped training-only spatial CV. Reports include historical RMSE, log loss, top-1/top-3 radius hits, Maryino DDX leave-one-out, and a separate minimax-regret economic recommendation. Do not select the model using the historical test scores.
+
+The housing CSV could not be retrieved through the connector, so the citywide experiment uses store and office proxies; the local sensitivity analysis additionally uses existing housing-based weights. The historic choice set is conditional on the actual opening's 3.6 km tile, not a citywide prediction. Modern POIs and surviving clubs imply retrospective bias; undated rivals are omitted from historic markets. The existing 2025+ test set has already been used in project development. No profit, rent or vacancy data are available. The optimizer has a fixed iteration budget and convergence has not been independently established. Full real-data execution exceeded the interactive execution limit; synthetic capture and decision checks passed. Do not interpret this branch as a validated improvement.
