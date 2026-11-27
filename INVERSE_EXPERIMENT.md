@@ -99,3 +99,33 @@ Data audit: "outside 150m of a mall POI" does not mean non-commercial premises. 
 Local gate: logistic adjustment to the time-varying prior using the fraction of available near-mall cells and differences in average venue and housing features between regimes. Estimated from earlier openings only, with ridge regularization. Matched comparison: one gained top3 hit (Bibirevo, 431m to 32m), no lost hits; near-mall 7/7 and other 4/10. Exact-cell NLL 5.528 vs 5.534, radius NLL 2.945 vs 2.924. The local gate/mode is the retrospective hit3 leader, not the pre-2025 selected model. Forward validation in the local-gate experiment selected local_structural/mass, which did not beat the fixed baseline on hit3 (8/17 vs 10/17). Other forward-selected ablations also did not improve hit3. Do not claim validated superiority from this reused set.
 
 Maryino: 45 outside-district observations up to 2026-11-27; the fixed and local gate/mode give the same three recommendations and reconstruction errors (50m and 519m). Local gate is 0.505 versus fixed 0.490. The Bratislavsky market zone gives the highest scenario net gain among the three (12.54 pp), but the robust demand maximizer is still a separate result. The test assertions on committed reports were actually executed and passed. No change to main, no new historical infrastructure or real-estate availability data, no nationwide expansion.
+
+
+## Developer portfolio and actual premises leads
+
+```bash
+node owner_experiment.js
+node owner_lag_experiment.js
+node owner_maryino.js
+node listing_screen.js
+node test_owner.js
+```
+
+Data: 25 of the 39 historical ADG portfolio sites now have property-source coordinates (8 external coordinates, 11 branded OSM matches, 6 provisional OSM matches); strict run excludes the 6 provisional records. The remaining 14 have no geocode. Branded matches are not independently address-geocoded, and present-day OSM mapping may induce retrospective selection bias. No DDX club coordinates were used to create the owner layer. The 2020 report provides 15 planned GBA/GLA figures, not actual vacant space; 2020-05-06 is taken from the report filename and is not independently verified as its publication date. Treat the area feature as exploratory. The 180-day lag sensitivity is for owner/area information only, not for all historical covariates. Announcements naming DDX locations and the address-based audit are not read by the model.
+
+| Model / rule | Hit1 | Hit3 | Median top1 m | Median top3 m |
+|---|---:|---:|---:|---:|
+| Matched reference / mode | 4/17 | 11/17 | 1062 | 143 |
+| Owner strict / mass | 7/17 | 10/17 | 898 | 196 |
+| Owner strict / mass, 180-day lag | 8/17 | 10/17 | 741 | 196 |
+| Owner area / mass | 8/17 | 10/17 | 741 | 196 |
+| Owner structural / mass | 8/17 | 9/17 | 645 | 231 |
+| Owner broad / mass, pre-2025 selected | 7/17 | 8/17 | 864 | 315 |
+
+The owner-area mass model predicts 4/4 strict owner-near test openings within 300m first, and 4/13 remaining openings. Matched reference mass is 3/4 and 2/13 respectively. Validation before 2025 selected owner_broad/mass (5/13 hit1 and 8/13 hit3 on validation, median nearest of 3 81m); on reused 2025+ test this gets 7/17 and 8/17. Do not select by test outcomes or interpret the exploratory best as an independent estimate. All forecasts know the actual 3.6km tile; historical rivals and OSM are still incomplete.
+
+Maryino, 45 outside-district observations: owner model / mode reconstructs the two present DDX points within 50m (Люблю Молл) and 32m (Экран), vs matched reference 50m and 519m. This is a geographically held-out *current-market reconstruction*, not a time-correct historical forecast. Owner association helps reconstruct an ADG building, but it does not prove demand or profitability; the site is already occupied. The three mode recommendations remain the same set, reordered: 55.652653,37.742388; 55.648161,37.736019; 55.658042,37.751942.
+
+Actual-premises screening: a public rental lead at Bratislavskaya 20 advertises 1300m². Address centroid (55.6563218,37.7609183) is 253m from the previous minimax candidate. Exact-address evaluation in the same 18 demand scenarios yields gain 8.84–23.44 pp, vs 8.82–24.76 pp at the minimax grid zone. This is not a new optimum over all commercial premises; just one geocoded >=1000m² rental lead in a small nonexhaustive sample. Availability, rent, layout, floor load and permissions not verified. Another advertisement (1297m², Lublinskaya 153) is excluded because DDX already occupies the center; 955m² offer on Bratislavskaya lacks a house number. A historic advertisement at Bratislavskaya 20 is not counted as another live offer. Full rental history and actual costs still unavailable.
+
+Assertions on dates, splits, normalization, model outputs and scenario demand accounting were executed and passed. Main untouched.
