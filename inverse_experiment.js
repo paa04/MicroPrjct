@@ -46,7 +46,7 @@ function kernel(points,sites,tau){
 }
 function capture(points,sites,clubs,rho,tau,K=null,network='DDX'){
   // Gaussian distance utility; outside option corresponds to 1200 metres.
-  let n=points.length, den=new Float64Array(n), own=new Float64Array(n), gross=[],gain=[], outside=Math.exp(-1200**2/(2*tau*tau));
+  let n=points.length, den=new Float64Array(n), own=new Float64Array(n), gross=[],gain=[], outside=Math.exp(-(1200**2)/(2*tau*tau));
   for(let j=0;j<n;j++){den[j]=outside;for(let c of clubs){let w=Math.exp(-sq(points[j],c.p)/(2*tau*tau));den[j]+=w;if(c.network===network)own[j]+=w;}}
   for(let i=0;i<sites.length;i++){let g=0,b=0;for(let j=0;j<n;j++){let w=K?K[i*n+j]:Math.exp(-sq(sites[i],points[j])/(2*tau*tau)),p=w/(den[j]+w);b+=rho[j]*p;g+=rho[j]*p*(1-own[j]/den[j]);}gross.push(b);gain.push(g);}
   return {gain,gross};
