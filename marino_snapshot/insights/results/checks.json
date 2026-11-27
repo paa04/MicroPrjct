@@ -1,0 +1,8 @@
+{
+  "population": true,
+  "all_nonnegative_regret": true,
+  "nearest_matches_final_loo": true,
+  "diversion_conservation": true,
+  "metro_zero_matches": true,
+  "boundary_zero_matches": true
+}

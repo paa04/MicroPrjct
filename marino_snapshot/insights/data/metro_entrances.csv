@@ -1,0 +1,15 @@
+osm_type,osm_id,category,name,lon,lat,address,brand,operator,osm_url
+node,247942548,metro_entrance,,37.7438784,55.6509282,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/247942548
+node,247942556,metro_entrance,,37.7432257,55.6508328,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/247942556
+node,249330568,metro_entrance,,37.7437314,55.6512893,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/249330568
+node,249331000,metro_entrance,,37.7430707,55.6512257,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/249331000
+node,249331088,metro_entrance,,37.7446643,55.648909,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/249331088
+node,249331159,metro_entrance,,37.7445255,55.6492614,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/249331159
+node,249331166,metro_entrance,,37.7440212,55.6488088,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/249331166
+node,249331181,metro_entrance,,37.7438674,55.6491765,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/249331181
+node,296936108,metro_entrance,,37.7489092,55.6586774,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/296936108
+node,296936183,metro_entrance,,37.749895,55.6590491,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/296936183
+node,296936222,metro_entrance,,37.7527677,55.6601182,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/296936222
+node,296936233,metro_entrance,,37.7517507,55.6600207,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/296936233
+node,1000075239,metro_entrance,,37.7520979,55.659861,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1000075239
+node,1168205136,metro_entrance,,37.7497434,55.659269,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1168205136

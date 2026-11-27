@@ -1,0 +1,14 @@
+{
+  "retrieved_utc": "2026-11-27T12:48:46Z",
+  "source": "https://api.openstreetmap.org/api/0.6/map",
+  "license": "ODbL 1.0; © OpenStreetMap contributors",
+  "tile_count": 42,
+  "buffer_m": 3000,
+  "boundary_osm_relation": 455222,
+  "all_building_polygons": 1426,
+  "residential_buildings": 365,
+  "graph_nodes": 98748,
+  "graph_edges": 234546,
+  "simplified": false,
+  "note": "Map API snapshot; no foot=no/private or motorway/trunk. Largest connected component; straight access links to unsimplified graph nodes."
+}

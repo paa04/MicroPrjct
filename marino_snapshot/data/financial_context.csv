@@ -1,0 +1,7 @@
+metric,value,unit,period,source,note
+penetration_moscow,16.5,percent,2025 Q1,https://fitnessdata.ru/tpost/j7mxvlkrc1-itogi-i-kv-2025-goda-na-rinke-fitnes-usl,Агрегированный московский ориентир; не доля жителей Марьино
+clients_moscow,2180000.0,clients,2025 Q1,https://fitnessdata.ru/tpost/j7mxvlkrc1-itogi-i-kv-2025-goda-na-rinke-fitnes-usl,Агрегированная оценка
+penetration_russia,4.85,percent,2025 Q1,https://fitnessdata.ru/tpost/ufcv6iup31-novii-vipusk-novostei-industrii,Общероссийский ориентир; не локальная оценка
+DDX_clubs,151.0,clubs,2025,https://corporate.ddxfitness.ru/,Снимок масштаба сети
+DDX_clients,800000.0,clients,2025,https://corporate.ddxfitness.ru/,Снимок клиентской базы; не число клиентов Марьино
+DDX_clubs_rating,178.0,clubs,2026 September,https://www.acra-ratings.ru/press-releases/7348/?lang=ru,Данные кредитного анализа; не вместимость

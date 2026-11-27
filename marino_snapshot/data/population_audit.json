@@ -1,0 +1,10 @@
+{
+  "population_scale": 273463.0,
+  "residential_polygons": 365,
+  "apartments": 364,
+  "registry_mkd_count": 358,
+  "registry_source": "https://doma.proverka-kvartiry.ru/marino/",
+  "observed_floors": 365,
+  "unknown_address_polygons": 160,
+  "note": "Counts not one-to-one; address-level matching still needed."
+}

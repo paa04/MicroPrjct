@@ -1,0 +1,1037 @@
+﻿osm_type,osm_id,category,name,lon,lat,address,brand,operator,osm_url
+node,311622264,bus_stop,Улица Марьинский Парк,37.7787631,55.6607906,,,,https://www.openstreetmap.org/node/311622264
+node,311622597,bus_stop,Улица Марьинский Парк,37.7803000,55.6610628,,,,https://www.openstreetmap.org/node/311622597
+node,311622755,bus_stop,Новомарьинская улица,37.7729875,55.6626703,,,,https://www.openstreetmap.org/node/311622755
+node,311622800,bus_stop,Новомарьинская улица,37.7727541,55.6617111,,,,https://www.openstreetmap.org/node/311622800
+node,311622883,bus_stop,"Белореченская улица, 30",37.7709400,55.6643794,,,,https://www.openstreetmap.org/node/311622883
+node,311623002,bus_stop,"Белореченская улица, 24",37.7691213,55.6658861,,,,https://www.openstreetmap.org/node/311623002
+node,311623364,bus_stop,Цимлянская улица,37.7650096,55.6684245,,,,https://www.openstreetmap.org/node/311623364
+node,311625065,bus_stop,"Улица Перерва, 68",37.7697811,55.6668968,,,,https://www.openstreetmap.org/node/311625065
+node,311625311,bus_stop,"Улица Верхние Поля, 38",37.7742715,55.6671573,,,,https://www.openstreetmap.org/node/311625311
+node,491872083,bus_stop,Метро «Марьино» (южный вход),37.7444088,55.6494469,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/491872083
+node,491872085,bus_stop,"Улица Перерва, 56",37.7468383,55.6581457,,,,https://www.openstreetmap.org/node/491872085
+node,491899941,bus_stop,МФЦ «Марьино»,37.7415963,55.6566308,,,Московский Транспорт,https://www.openstreetmap.org/node/491899941
+node,610768579,bus_stop,Марьино-2,37.7437119,55.6467393,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/610768579
+node,610819175,bus_stop,Районный центр «Экран»,37.7296779,55.6469181,,,,https://www.openstreetmap.org/node/610819175
+node,618112495,bus_stop,Улица Маршала Голованова,37.7290677,55.6509836,,,,https://www.openstreetmap.org/node/618112495
+node,618112498,bus_stop,"Улица Маршала Голованова, 7",37.7292221,55.6488192,,,,https://www.openstreetmap.org/node/618112498
+node,1112685112,bus_stop,Почта,37.7376689,55.6467932,,,,https://www.openstreetmap.org/node/1112685112
+node,1112685141,bus_stop,Почта,37.7392572,55.6471893,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1112685141
+node,1112689314,bus_stop,Районный центр «Экран»,37.7277214,55.6463948,,,,https://www.openstreetmap.org/node/1112689314
+node,1112689320,bus_stop,Районный центр «Экран»,37.7246265,55.6464970,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1112689320
+node,1184045491,bus_stop,Школа «Марьино»,37.7188541,55.6427134,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1184045491
+node,1206954749,bus_stop,"Батайский проезд, 5",37.7147114,55.6423787,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1206954749
+node,1231898117,bus_stop,Метро «Марьино» (южный вход),37.7439131,55.6492929,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1231898117
+node,1231898143,bus_stop,Метро «Марьино»,37.7419036,55.6482857,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1231898143
+node,1400989471,bus_stop,"Новочеркасский бульвар, 20",37.7200654,55.6464094,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1400989471
+node,1400989472,bus_stop,"Новочеркасский бульвар, 20",37.7208056,55.6462425,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1400989472
+node,1440182115,bus_stop,Автобаза «Мослифт»,37.7240517,55.6550302,,,,https://www.openstreetmap.org/node/1440182115
+node,1440182116,bus_stop,Автобаза «Мослифт»,37.7230571,55.6545575,,,,https://www.openstreetmap.org/node/1440182116
+node,1440182117,bus_stop,"Донецкая улица, 26",37.7135025,55.6478908,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1440182117
+node,1440182118,bus_stop,"Донецкая улица, 26",37.7145067,55.6483849,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1440182118
+node,1440182119,bus_stop,Донецкая улица,37.7107155,55.6457259,,,,https://www.openstreetmap.org/node/1440182119
+node,1440182120,bus_stop,Донецкая улица,37.7083955,55.6451654,,,,https://www.openstreetmap.org/node/1440182120
+node,1440182122,bus_stop,Стоматологическая поликлиника,37.7177422,55.6506489,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1440182122
+node,1440182123,bus_stop,Стоматологическая поликлиника,37.7170487,55.6503842,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1440182123
+node,1440182124,bus_stop,"Улица Нижние Поля, 21",37.7352198,55.6595155,,,,https://www.openstreetmap.org/node/1440182124
+node,1440182126,bus_stop,Улица Перерва,37.7203516,55.6527034,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1440182126
+node,1440182127,bus_stop,Улица Перерва,37.7219024,55.6534983,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1440182127
+node,1440182129,bus_stop,Учебный комбинат,37.7307805,55.6578041,,,,https://www.openstreetmap.org/node/1440182129
+node,1442938723,bus_stop,Метро «Марьино»,37.7409538,55.6479912,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1442938723
+node,1443547620,bus_stop,"Люблинская улица, 96",37.7407558,55.6572700,,,Московский Транспорт,https://www.openstreetmap.org/node/1443547620
+node,1443547621,bus_stop,Метро «Марьино» (северная),37.7429836,55.6514033,,,Московский Транспорт,https://www.openstreetmap.org/node/1443547621
+node,1443547623,bus_stop,Метро «Марьино» (северная),37.7435955,55.6515516,,,Московский Транспорт,https://www.openstreetmap.org/node/1443547623
+node,1443547625,bus_stop,МФЦ «Марьино»,37.7415571,55.6553023,,,Московский Транспорт,https://www.openstreetmap.org/node/1443547625
+node,1443547631,bus_stop,Управа района Марьино,37.7427780,55.6545903,,,Московский Транспорт,https://www.openstreetmap.org/node/1443547631
+node,1488460067,bus_stop,Автохозяйство,37.7246118,55.6576245,,,,https://www.openstreetmap.org/node/1488460067
+node,1488460070,bus_stop,Иловайская улица,37.7164437,55.6586118,,,,https://www.openstreetmap.org/node/1488460070
+node,1488460075,bus_stop,Краснодонская улица,37.7530924,55.6665150,,,,https://www.openstreetmap.org/node/1488460075
+node,1488460106,bus_stop,МЦД Перерва,37.7205954,55.6600166,,,,https://www.openstreetmap.org/node/1488460106
+node,1488460131,bus_stop,Улица Нижние Поля,37.7424775,55.6623870,,,,https://www.openstreetmap.org/node/1488460131
+node,1488460134,bus_stop,Инспекция труда,37.7480788,55.6648975,,,,https://www.openstreetmap.org/node/1488460134
+node,1488460160,bus_stop,43-й квартал Марьинского парка,37.7597715,55.6675643,,,,https://www.openstreetmap.org/node/1488460160
+node,1488759249,bus_stop,Аптека,37.7322447,55.6464973,,,,https://www.openstreetmap.org/node/1488759249
+node,1488759251,bus_stop,Братиславская улица,37.7586067,55.6605108,,,,https://www.openstreetmap.org/node/1488759251
+node,1488759252,bus_stop,"Братиславская улица, 8",37.7535739,55.6627690,,,,https://www.openstreetmap.org/node/1488759252
+node,1488759253,bus_stop,"Братиславская улица, 8",37.7544555,55.6636868,,,,https://www.openstreetmap.org/node/1488759253
+node,1488759254,bus_stop,Графитный проезд,37.7340527,55.6533942,,,,https://www.openstreetmap.org/node/1488759254
+node,1488759255,bus_stop,Графитный проезд,37.7359649,55.6538733,,,,https://www.openstreetmap.org/node/1488759255
+node,1488759256,bus_stop,"Новочеркасский бульвар, 10",37.7144023,55.6461376,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1488759256
+node,1488759257,bus_stop,"Новочеркасский бульвар, 10",37.7143059,55.6463841,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1488759257
+node,1488759258,bus_stop,Краснодонская улица,37.7522731,55.6657680,,,,https://www.openstreetmap.org/node/1488759258
+node,1488759263,bus_stop,Люблинская улица,37.7434793,55.6568770,,,Московский Транспорт,https://www.openstreetmap.org/node/1488759263
+node,1488759264,bus_stop,Улица Перерва,37.7222118,55.6525195,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1488759264
+node,1488759265,bus_stop,Улица Перерва,37.7222580,55.6527262,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1488759265
+node,1488759266,bus_stop,Метро «Братиславская»,37.7504369,55.6592110,,,,https://www.openstreetmap.org/node/1488759266
+node,1488759267,bus_stop,Метро «Братиславская»,37.7517836,55.6597495,,,,https://www.openstreetmap.org/node/1488759267
+node,1488759268,bus_stop,Метро «Братиславская»,37.7510726,55.6597814,,,,https://www.openstreetmap.org/node/1488759268
+node,1488759271,bus_stop,Подольская улица,37.7088399,55.6514687,,,,https://www.openstreetmap.org/node/1488759271
+node,1488759272,bus_stop,Подольская улица,37.7097400,55.6520760,,,,https://www.openstreetmap.org/node/1488759272
+node,1488759273,bus_stop,"Подольская улица, 1",37.7115845,55.6546990,,,,https://www.openstreetmap.org/node/1488759273
+node,1488759274,bus_stop,"Подольская улица, 1",37.7121500,55.6549065,,,,https://www.openstreetmap.org/node/1488759274
+node,1488759275,bus_stop,"Подольская улица, 33",37.7107053,55.6474298,,,,https://www.openstreetmap.org/node/1488759275
+node,1488759276,bus_stop,"Подольская улица, 33",37.7105442,55.6477417,,,,https://www.openstreetmap.org/node/1488759276
+node,1488759281,bus_stop,Улица Маршала Голованова,37.7280158,55.6517919,,,,https://www.openstreetmap.org/node/1488759281
+node,1488759282,bus_stop,Улица Маршала Голованова,37.7306439,55.6518797,,,,https://www.openstreetmap.org/node/1488759282
+node,1488759283,bus_stop,"Улица Перерва, 10",37.7200023,55.6536483,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1488759283
+node,1488759284,bus_stop,МФЦ «Марьино»,37.7392169,55.6554019,,,,https://www.openstreetmap.org/node/1488759284
+node,1488759285,bus_stop,Люблинская улица,37.7433864,55.6565876,,,Московский Транспорт,https://www.openstreetmap.org/node/1488759285
+node,1488759286,bus_stop,"Улица Перерва, 56",37.7459685,55.6576017,,,,https://www.openstreetmap.org/node/1488759286
+node,1488759287,bus_stop,"Улица Перерва, 58",37.7574647,55.6631789,,,,https://www.openstreetmap.org/node/1488759287
+node,1488759288,bus_stop,"Улица Перерва, 6",37.7163025,55.6551484,,,,https://www.openstreetmap.org/node/1488759288
+node,1488759289,bus_stop,"Улица Перерва, 6",37.7156694,55.6556497,,,,https://www.openstreetmap.org/node/1488759289
+node,1489610176,bus_stop,База Мосэнерго,37.7869664,55.6585554,,,,https://www.openstreetmap.org/node/1489610176
+node,1489610177,bus_stop,База Мосэнерго,37.7855103,55.6592561,,,,https://www.openstreetmap.org/node/1489610177
+node,1489610178,bus_stop,"Белореченская улица, 24",37.7694936,55.6651485,,,,https://www.openstreetmap.org/node/1489610178
+node,1489610179,bus_stop,"Белореченская улица, 30",37.7719119,55.6631695,,,,https://www.openstreetmap.org/node/1489610179
+node,1489610188,bus_stop,Новомарьинская улица,37.7741089,55.6617482,,,,https://www.openstreetmap.org/node/1489610188
+node,1489610189,bus_stop,Перервинский бульвар,37.7619353,55.6639300,,,,https://www.openstreetmap.org/node/1489610189
+node,1489610190,bus_stop,Перервинский бульвар,37.7636070,55.6643255,,,,https://www.openstreetmap.org/node/1489610190
+node,1489610195,bus_stop,Улица Марьинский Парк,37.7781689,55.6606708,,,,https://www.openstreetmap.org/node/1489610195
+node,1489610196,bus_stop,"Улица Перерва, 58",37.7595635,55.6627974,,,,https://www.openstreetmap.org/node/1489610196
+node,1489610197,bus_stop,"Улица Перерва, 66",37.7669887,55.6658504,,,,https://www.openstreetmap.org/node/1489610197
+node,1493086931,bus_stop,"Батайский проезд, 33",37.7254588,55.6431213,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1493086931
+node,1493086932,bus_stop,"Батайский проезд, 33",37.7259414,55.6433208,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1493086932
+node,1493086933,bus_stop,Батайский проезд,37.7104576,55.6425694,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1493086933
+node,1493086934,bus_stop,Батайский проезд,37.7093633,55.6429810,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1493086934
+node,1493086935,bus_stop,"Батайский проезд, 41",37.7344498,55.6432063,,,,https://www.openstreetmap.org/node/1493086935
+node,1493086936,bus_stop,"Батайский проезд, 41",37.7336544,55.6434154,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1493086936
+node,1493086937,bus_stop,"Батайский проезд, 5",37.7155414,55.6422221,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1493086937
+node,1493086938,bus_stop,"Батайский проезд, 51",37.7404760,55.6429159,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1493086938
+node,1493086939,bus_stop,"Батайский проезд, 51",37.7395283,55.6430811,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1493086939
+node,1493086940,bus_stop,"Люблинская улица, 171",37.7464368,55.6471445,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1493086940
+node,1493086941,bus_stop,Братеевский мост,37.7441402,55.6434230,,,,https://www.openstreetmap.org/node/1493086941
+node,1493086942,bus_stop,Братеевский мост,37.7449713,55.6441145,,,,https://www.openstreetmap.org/node/1493086942
+node,1493086943,bus_stop,Школа «Марьино»,37.7197518,55.6426061,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1493086943
+node,1493228973,bus_stop,Западные Марьинские пруды,37.7268832,55.6480491,,,,https://www.openstreetmap.org/node/1493228973
+node,1493228983,bus_stop,Западные Марьинские пруды,37.7265985,55.6486165,,,,https://www.openstreetmap.org/node/1493228983
+node,1493228984,bus_stop,"Мячковский бульвар, 8",37.7516511,55.6568920,,,,https://www.openstreetmap.org/node/1493228984
+node,1493228993,bus_stop,Поликлиника,37.7489001,55.6515004,,,,https://www.openstreetmap.org/node/1493228993
+node,1493228994,bus_stop,Метро «Братиславская»,37.7497481,55.6584614,,,,https://www.openstreetmap.org/node/1493228994
+node,1493229006,bus_stop,Метро «Марьино» (южный вход),37.7454856,55.6490906,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1493229006
+node,1493229013,bus_stop,Улица Маршала Голованова,37.7265149,55.6499746,,,,https://www.openstreetmap.org/node/1493229013
+node,1493229016,bus_stop,Улица Маршала Голованова,37.7267254,55.6504274,,,,https://www.openstreetmap.org/node/1493229016
+node,1493229024,bus_stop,3-й микрорайон Марьинского Парка,37.7546505,55.6533649,,,,https://www.openstreetmap.org/node/1493229024
+node,1494060642,bus_stop,Братиславская улица,37.7582901,55.6594974,,,,https://www.openstreetmap.org/node/1494060642
+node,1494060643,bus_stop,Луговой проезд,37.7515934,55.6504521,,,,https://www.openstreetmap.org/node/1494060643
+node,1494060644,bus_stop,Луговой проезд,37.7517100,55.6508907,,,,https://www.openstreetmap.org/node/1494060644
+node,1494060645,bus_stop,"Луговой проезд, 7",37.7529296,55.6470256,,,,https://www.openstreetmap.org/node/1494060645
+node,1494060646,bus_stop,"Луговой проезд, 7",37.7530374,55.6475257,,,,https://www.openstreetmap.org/node/1494060646
+node,1494060647,bus_stop,"Новомарьинская улица, 16",37.7602974,55.6555669,,,,https://www.openstreetmap.org/node/1494060647
+node,1494060648,bus_stop,Детская библиотека,37.7617289,55.6569882,,,,https://www.openstreetmap.org/node/1494060648
+node,1494060649,bus_stop,"Новомарьинская улица, 14",37.7567791,55.6539839,,,,https://www.openstreetmap.org/node/1494060649
+node,1494060650,bus_stop,"Новомарьинская улица, 16",37.7598498,55.6551773,,,,https://www.openstreetmap.org/node/1494060650
+node,1494060651,bus_stop,"Поречная улица, 3",37.7502354,55.6440369,,,,https://www.openstreetmap.org/node/1494060651
+node,1494060652,bus_stop,"Поречная улица, 3",37.7491561,55.6440606,,,,https://www.openstreetmap.org/node/1494060652
+node,1494060653,bus_stop,"Поречная улица, 5",37.7525400,55.6445226,,,,https://www.openstreetmap.org/node/1494060653
+node,1494060654,bus_stop,"Поречная улица, 5",37.7539457,55.6451805,,,,https://www.openstreetmap.org/node/1494060654
+node,1494060655,bus_stop,Метро «Братиславская»,37.7501276,55.6584396,,,,https://www.openstreetmap.org/node/1494060655
+node,1494060657,bus_stop,3-й микрорайон Марьинского Парка,37.7537558,55.6528312,,,,https://www.openstreetmap.org/node/1494060657
+node,1494430238,bus_stop,"Братиславская улица, 26",37.7640247,55.6547704,,,,https://www.openstreetmap.org/node/1494430238
+node,1494430240,bus_stop,Поречная улица,37.7676318,55.6511801,,,,https://www.openstreetmap.org/node/1494430240
+node,1494430241,bus_stop,Поречная улица,37.7674263,55.6522251,,,,https://www.openstreetmap.org/node/1494430241
+node,1494430244,bus_stop,Марьинский бульвар,37.7597247,55.6501413,,,,https://www.openstreetmap.org/node/1494430244
+node,1494430251,bus_stop,Марьинский бульвар,37.7583779,55.6515573,,,,https://www.openstreetmap.org/node/1494430251
+node,1494430252,bus_stop,Мячковский бульвар,37.7636028,55.6479635,,,,https://www.openstreetmap.org/node/1494430252
+node,1494430253,bus_stop,Мячковский бульвар,37.7620738,55.6484546,,,,https://www.openstreetmap.org/node/1494430253
+node,1494430258,bus_stop,Спортивная школа,37.7562737,55.6529905,,,,https://www.openstreetmap.org/node/1494430258
+node,1494430261,bus_stop,"Новомарьинская улица, 17",37.7640545,55.6567809,,,,https://www.openstreetmap.org/node/1494430261
+node,1494430264,bus_stop,"Новомарьинская улица, 17",37.7660367,55.6577416,,,,https://www.openstreetmap.org/node/1494430264
+node,1494430265,bus_stop,Перервинский бульвар,37.7635150,55.6634456,,,,https://www.openstreetmap.org/node/1494430265
+node,1494430267,bus_stop,Поликлиника,37.7456755,55.6509316,,,Московский Транспорт,https://www.openstreetmap.org/node/1494430267
+node,1494430273,bus_stop,"Поречная улица, 21",37.7658587,55.6490135,,,,https://www.openstreetmap.org/node/1494430273
+node,1494430275,bus_stop,"Поречная улица, 21",37.7678233,55.6499982,,,,https://www.openstreetmap.org/node/1494430275
+node,1494430277,bus_stop,"Братиславская улица, 28",37.7657000,55.6533459,,,,https://www.openstreetmap.org/node/1494430277
+node,1494430278,bus_stop,"Братиславская улица, 28",37.7657453,55.6536461,,,,https://www.openstreetmap.org/node/1494430278
+node,1494430280,bus_stop,7-й микрорайон Марьинского Парка,37.7682434,55.6585506,,,,https://www.openstreetmap.org/node/1494430280
+node,1494430286,bus_stop,7-й микрорайон Марьинского Парка,37.7686644,55.6594268,,,,https://www.openstreetmap.org/node/1494430286
+node,1494430288,bus_stop,9-й микрорайон Марьинского Парка,37.7663582,55.6610272,,,,https://www.openstreetmap.org/node/1494430288
+node,1494430289,bus_stop,9-й микрорайон Марьинского Парка,37.7656184,55.6620446,,,,https://www.openstreetmap.org/node/1494430289
+node,1494485337,bus_stop,Мячковский бульвар,37.7616577,55.6474493,,,,https://www.openstreetmap.org/node/1494485337
+node,1494485340,bus_stop,"Мячковский бульвар, 8",37.7523749,55.6565267,,,,https://www.openstreetmap.org/node/1494485340
+node,1494485342,bus_stop,Спортивная школа,37.7552621,55.6541234,,,,https://www.openstreetmap.org/node/1494485342
+node,1494485348,bus_stop,"Поречная улица, 13",37.7576877,55.6459148,,,,https://www.openstreetmap.org/node/1494485348
+node,1494485350,bus_stop,"Поречная улица, 13",37.7589011,55.6461674,,,,https://www.openstreetmap.org/node/1494485350
+node,1494485351,bus_stop,"Поречная улица, 5",37.7548507,55.6447974,,,,https://www.openstreetmap.org/node/1494485351
+node,1495311407,bus_stop,"Перервинский бульвар, 21",37.7722565,55.6561235,,,,https://www.openstreetmap.org/node/1495311407
+node,1495311408,bus_stop,"Перервинский бульвар, 27",37.7740096,55.6546694,,,,https://www.openstreetmap.org/node/1495311408
+node,1495311409,bus_stop,"Поречная улица, 10",37.7724488,55.6515708,,,,https://www.openstreetmap.org/node/1495311409
+node,1495311410,bus_stop,7-й микрорайон Марьинского Парка,37.7696195,55.6583463,,,,https://www.openstreetmap.org/node/1495311410
+node,1495311411,bus_stop,8-й микрорайон Марьинского Парка,37.7756118,55.6527528,,,,https://www.openstreetmap.org/node/1495311411
+node,1497279419,bus_stop,7-й микрорайон Марьинского Парка,37.7702344,55.6591706,,,,https://www.openstreetmap.org/node/1497279419
+node,1732230374,bus_stop,"Перервинский бульвар, 21",37.7720207,55.6566831,,,,https://www.openstreetmap.org/node/1732230374
+node,1732230375,bus_stop,"Перервинский бульвар, 27",37.7756348,55.6536173,,,,https://www.openstreetmap.org/node/1732230375
+node,1732230376,bus_stop,Улица Марьинский Парк,37.7788899,55.6596815,,,,https://www.openstreetmap.org/node/1732230376
+node,1732230377,bus_stop,"Улица Марьинский Парк, 7",37.7779167,55.6568412,,,,https://www.openstreetmap.org/node/1732230377
+node,1749420474,bus_stop,"Улица Верхние Поля, 42",37.7781325,55.6656533,,,,https://www.openstreetmap.org/node/1749420474
+node,2990509156,bus_stop,Торговый центр,37.7400021,55.6601460,,,,https://www.openstreetmap.org/node/2990509156
+node,4297017105,bus_stop,12-й микрорайон Марьинского Парка,37.7816966,55.6631855,,,,https://www.openstreetmap.org/node/4297017105
+node,8285707123,bus_stop,12-й микрорайон Марьинского Парка,37.7811896,55.6640296,,,,https://www.openstreetmap.org/node/8285707123
+node,8330201887,bus_stop,МЦД Курьяново,37.7046330,55.6485691,,,,https://www.openstreetmap.org/node/8330201887
+node,8330201888,bus_stop,МЦД Курьяново,37.7046382,55.6490809,,,,https://www.openstreetmap.org/node/8330201888
+node,9317367645,bus_stop,"Улица Марьинский Парк, 12",37.7812018,55.6599103,,,,https://www.openstreetmap.org/node/9317367645
+node,9798626971,bus_stop,Жилой комплекс «Домашний»,37.7034432,55.6472751,,,,https://www.openstreetmap.org/node/9798626971
+node,10717855481,bus_stop,Торговый центр,37.7406844,55.6605470,,,,https://www.openstreetmap.org/node/10717855481
+node,10719097496,bus_stop,Метро «Марьино»,37.7399777,55.6475843,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/10719097496
+node,10723166785,bus_stop,Метро «Братиславская»,37.7503780,55.6595105,,,,https://www.openstreetmap.org/node/10723166785
+node,10723166789,bus_stop,Метро «Братиславская»,37.7502412,55.6583591,,,,https://www.openstreetmap.org/node/10723166789
+node,10723179605,bus_stop,Детская библиотека,37.7610236,55.6572908,,,,https://www.openstreetmap.org/node/10723179605
+node,10723179612,bus_stop,"Улица Марьинский Парк, 7",37.7782314,55.6572473,,,,https://www.openstreetmap.org/node/10723179612
+node,10723179622,bus_stop,8-й микрорайон Марьинского Парка,37.7769238,55.6530598,,,,https://www.openstreetmap.org/node/10723179622
+node,10723179626,bus_stop,"Поречная улица, 10",37.7731647,55.6516237,,,,https://www.openstreetmap.org/node/10723179626
+node,10723401924,bus_stop,Аптека,37.7335015,55.6467292,,,,https://www.openstreetmap.org/node/10723401924
+node,10723432248,bus_stop,Жилой комплекс «Домашний»,37.7020043,55.6461192,,,,https://www.openstreetmap.org/node/10723432248
+node,10723432250,bus_stop,Курьяновская набережная,37.7002256,55.6441579,,,,https://www.openstreetmap.org/node/10723432250
+node,10867206998,bus_stop,Курьяновская набережная,37.6999038,55.6430292,,,,https://www.openstreetmap.org/node/10867206998
+node,11002184232,bus_stop,"Братиславская улица, 26",37.7638400,55.6552223,,,,https://www.openstreetmap.org/node/11002184232
+node,11033762393,bus_stop,Курьяновская набережная,37.7006961,55.6431420,,,,https://www.openstreetmap.org/node/11033762393
+node,12715829934,bus_stop,МЦД Курьяново,37.7068012,55.6503299,,,,https://www.openstreetmap.org/node/12715829934
+node,12715829935,bus_stop,МЦД Курьяново,37.7070949,55.6504384,,,,https://www.openstreetmap.org/node/12715829935
+relation,10440557,commercial,"Городской технопарк ""Перерва""",37.7282484,55.6544666,,,KR Properties,https://www.openstreetmap.org/relation/10440557
+way,27597296,commercial,,37.7631747,55.6577363,"Братиславская улица, 21 к2",,,https://www.openstreetmap.org/way/27597296
+way,27780719,commercial,,37.7530232,55.6489187,"Луговой проезд, 5",,,https://www.openstreetmap.org/way/27780719
+way,27781547,commercial,,37.7537873,55.6497755,"Марьинский бульвар, 7",,,https://www.openstreetmap.org/way/27781547
+way,27811775,commercial,,37.7421147,55.6566016,"Люблинская улица, 155 с1",,,https://www.openstreetmap.org/way/27811775
+way,29450893,commercial,,37.7253484,55.6531920,"улица Перерва, 11 с24",,,https://www.openstreetmap.org/way/29450893
+way,48180694,commercial,,37.7276253,55.6542646,"улица Перерва, 11 с27",,,https://www.openstreetmap.org/way/48180694
+way,48180697,commercial,,37.7267953,55.6537548,"улица Перерва, 11 с25",,,https://www.openstreetmap.org/way/48180697
+way,48180698,commercial,,37.7235895,55.6529041,"улица Перерва, 9 с1",,,https://www.openstreetmap.org/way/48180698
+way,48587457,commercial,,37.7182417,55.6457271,"Новочеркасский бульвар, 20 к5",,,https://www.openstreetmap.org/way/48587457
+way,51683358,commercial,,37.7381724,55.6529895,"улица Перерва, 52 с1",,,https://www.openstreetmap.org/way/51683358
+way,51683362,commercial,Сбербанк,37.7354817,55.6484578,"Новочеркасский бульвар, 41 к2",Сбербанк,ПАО Сбербанк,https://www.openstreetmap.org/way/51683362
+way,51685678,commercial,,37.7070080,55.6446049,"Донецкая улица, 34",,,https://www.openstreetmap.org/way/51685678
+way,51701939,commercial,,37.7305282,55.6567160,"улица Нижние Поля, 31 с4",,,https://www.openstreetmap.org/way/51701939
+way,51701940,commercial,,37.7298125,55.6566950,"улица Нижние Поля, 31",,,https://www.openstreetmap.org/way/51701940
+way,51701963,commercial,,37.7246681,55.6529144,"улица Перерва, 11 с23",,,https://www.openstreetmap.org/way/51701963
+way,51701965,commercial,,37.7239319,55.6523313,"улица Перерва, 9 с2",,,https://www.openstreetmap.org/way/51701965
+way,51701967,commercial,,37.7248909,55.6536032,"улица Перерва, 9 с3",,,https://www.openstreetmap.org/way/51701967
+way,51702008,commercial,,37.7305481,55.6563085,"улица Нижние Поля, 31 с2",,,https://www.openstreetmap.org/way/51702008
+way,51702011,commercial,,37.7329510,55.6543603,"улица Перерва, 19 с4",,,https://www.openstreetmap.org/way/51702011
+way,51702066,commercial,,37.7345096,55.6579381,"улица Нижние Поля, 27А с1",,,https://www.openstreetmap.org/way/51702066
+way,51702067,commercial,,37.7343461,55.6583563,"улица Нижние Поля, 27 с1",,,https://www.openstreetmap.org/way/51702067
+way,51702070,commercial,,37.7356393,55.6583474,"улица Нижние Поля, 27 с3",,,https://www.openstreetmap.org/way/51702070
+way,51702131,commercial,,37.7347260,55.6574627,"улица Нижние Поля, 27A с6",,,https://www.openstreetmap.org/way/51702131
+way,51702145,commercial,,37.7339401,55.6575621,"улица Нижние Поля, 27А с2",,,https://www.openstreetmap.org/way/51702145
+way,56307662,commercial,6-ой таксомоторный парк,37.7315685,55.6550943,,,,https://www.openstreetmap.org/way/56307662
+way,119717685,commercial,,37.7391106,55.6545995,"Люблинская улица, 100",,,https://www.openstreetmap.org/way/119717685
+way,136752946,commercial,Медси,37.7606419,55.6643709,улица Перерва,,,https://www.openstreetmap.org/way/136752946
+way,757048838,commercial,,37.7269266,55.6544038,"улица Перерва, 11 с12",,,https://www.openstreetmap.org/way/757048838
+way,757048839,commercial,,37.7273952,55.6546357,,,,https://www.openstreetmap.org/way/757048839
+way,757048840,commercial,,37.7277319,55.6547920,"улица Перерва, 11 c17",,,https://www.openstreetmap.org/way/757048840
+way,757048841,commercial,,37.7281062,55.6549767,"улица Перерва, 11 c20",,,https://www.openstreetmap.org/way/757048841
+way,757048842,commercial,,37.7286184,55.6540048,"улица Перерва, 11 c29",,,https://www.openstreetmap.org/way/757048842
+way,757048843,commercial,,37.7288733,55.6544611,,,,https://www.openstreetmap.org/way/757048843
+way,757048844,commercial,,37.7285836,55.6546904,"улица Перерва, 11 с21",,,https://www.openstreetmap.org/way/757048844
+way,1011644593,commercial,,37.7279143,55.6540842,,,,https://www.openstreetmap.org/way/1011644593
+way,1011644794,commercial,,37.7285234,55.6551652,"улица Перерва, 11 с3",,,https://www.openstreetmap.org/way/1011644794
+way,1084313336,commercial,,37.7234739,55.6535564,,,,https://www.openstreetmap.org/way/1084313336
+way,1084313337,commercial,,37.7236387,55.6536901,,,,https://www.openstreetmap.org/way/1084313337
+way,1084313340,commercial,,37.7239754,55.6534459,,,,https://www.openstreetmap.org/way/1084313340
+way,1226201183,commercial,,37.7315612,55.6575115,"улица Нижние Поля, 29 c1",,,https://www.openstreetmap.org/way/1226201183
+way,1527638770,commercial,Телефонная станция МГТС (МТС) 495-654...,37.7652316,55.6615556,"Перервинский бульвар, 6",,,https://www.openstreetmap.org/way/1527638770
+node,4751092803,education,Звездочет,37.7645701,55.6521046,"Марьинский бульвар, 10",,,https://www.openstreetmap.org/node/4751092803
+node,5241859752,education,"Детский центр ""Умка""",37.7585041,55.6464796,,,,https://www.openstreetmap.org/node/5241859752
+node,5241878658,education,"Детский центр ""Антей""",37.7566806,55.6462993,"Поречная улица, 9",,,https://www.openstreetmap.org/node/5241878658
+node,5251043166,education,Маленький гений,37.7559923,55.6528220,,,,https://www.openstreetmap.org/node/5251043166
+node,5251072777,education,"Детский развивающий центр ""Радуга""",37.7547201,55.6528416,,,,https://www.openstreetmap.org/node/5251072777
+node,6050114811,education,Big Ben,37.7545153,55.6649753,,,,https://www.openstreetmap.org/node/6050114811
+node,8569342017,education,Московская Международная Академия,37.7608037,55.6551239,,,,https://www.openstreetmap.org/node/8569342017
+node,9008304817,education,Новое поколение,37.7496783,55.6473835,,,,https://www.openstreetmap.org/node/9008304817
+relation,62986,education,Школа № 1141,37.7188515,55.6435486,"Батайский проезд, 21",,,https://www.openstreetmap.org/relation/62986
+relation,62987,education,Школа №499,37.7205142,55.6435863,"Батайский проезд, 23",,,https://www.openstreetmap.org/relation/62987
+relation,1836516,education,Школа №1043,37.7488110,55.6474218,"Люблинская улица, 173",,,https://www.openstreetmap.org/relation/1836516
+relation,1841866,education,Детский сад №2324,37.7509385,55.6478404,,,,https://www.openstreetmap.org/relation/1841866
+relation,9978031,education,Православный Свято-Тихоновский гуманитарный университет,37.7175976,55.6585935,,,,https://www.openstreetmap.org/relation/9978031
+relation,12969784,education,,37.7559216,55.6566200,,,,https://www.openstreetmap.org/relation/12969784
+relation,12969785,education,Школа № 1357 «На Братиславской». Здание №10,37.7583807,55.6562097,,,,https://www.openstreetmap.org/relation/12969785
+way,27804313,education,Школа 1910,37.7620401,55.6506689,"Мячковский бульвар, 25",,,https://www.openstreetmap.org/way/27804313
+way,27811752,education,,37.7505433,55.6550556,"Мячковский бульвар, 10 к2",,,https://www.openstreetmap.org/way/27811752
+way,27811792,education,Школа №1967,37.7507997,55.6629918,"Братиславская улица, 8 к1",,,https://www.openstreetmap.org/way/27811792
+way,27811803,education,,37.7476724,55.6634557,"улица Верхние Поля, 20",,,https://www.openstreetmap.org/way/27811803
+way,28317427,education,Ясли-сад №1628,37.7312236,55.6508819,"улица Маршала Голованова, 3",,,https://www.openstreetmap.org/way/28317427
+way,29449572,education,,37.7238418,55.6505872,"улица Маршала Голованова, 6",,,https://www.openstreetmap.org/way/29449572
+way,29449574,education,,37.7209577,55.6501918,"Донецкая улица, 3",,,https://www.openstreetmap.org/way/29449574
+way,29449575,education,,37.7216214,55.6508969,"Донецкая улица, 5",,,https://www.openstreetmap.org/way/29449575
+way,29449576,education,,37.7182685,55.6487779,"Донецкая улица, 17",,,https://www.openstreetmap.org/way/29449576
+way,29449577,education,,37.7176519,55.6479429,"Донецкая улица, 21",,,https://www.openstreetmap.org/way/29449577
+way,29450186,education,,37.7161630,55.6435496,"Батайский проезд, 15",,,https://www.openstreetmap.org/way/29450186
+way,29450778,education,,37.7126390,55.6433755,"Батайский проезд, 7",,,https://www.openstreetmap.org/way/29450778
+way,29450878,education,,37.7145432,55.6537216,"Подольская улица, 5",,,https://www.openstreetmap.org/way/29450878
+way,29450880,education,,37.7134257,55.6541175,"Подольская улица, 3",,,https://www.openstreetmap.org/way/29450880
+way,29451029,education,,37.7129629,55.6509037,"Донецкая улица, 14",,,https://www.openstreetmap.org/way/29451029
+way,34321752,education,Школа 1040,37.7375536,55.6437997,"Батайский проезд, 47",,,https://www.openstreetmap.org/way/34321752
+way,34321753,education,Школа 1147,37.7362177,55.6441125,"Батайский проезд, 45",,,https://www.openstreetmap.org/way/34321753
+way,42855891,education,,37.7126943,55.6522691,"Подольская улица, 15А",,,https://www.openstreetmap.org/way/42855891
+way,47346175,education,,37.7392399,55.6514932,"Люблинская улица, 106",,,https://www.openstreetmap.org/way/47346175
+way,47584412,education,,37.7367425,55.6441111,,,,https://www.openstreetmap.org/way/47584412
+way,48038280,education,Детский сад №2101,37.7403404,55.6446816,"Батайский проезд, 57",,,https://www.openstreetmap.org/way/48038280
+way,48038333,education,Детский сад №2162,37.7403281,55.6457258,"Люблинская улица, 120",,,https://www.openstreetmap.org/way/48038333
+way,48042142,education,Детский сад №1797,37.7328512,55.6455102,,,,https://www.openstreetmap.org/way/48042142
+way,48042227,education,Детский сад №1799,37.7329578,55.6443975,,,,https://www.openstreetmap.org/way/48042227
+way,48587459,education,,37.7196597,55.6436507,,,,https://www.openstreetmap.org/way/48587459
+way,51675683,education,Школа № 1987. Начальная школа,37.7758070,55.6597340,"Белореченская улица, 36 к2",,,https://www.openstreetmap.org/way/51675683
+way,51690266,education,,37.7139727,55.6510870,"Донецкая улица, 14А",,,https://www.openstreetmap.org/way/51690266
+way,51690287,education,,37.7134641,55.6519716,"Подольская улица, 15",,,https://www.openstreetmap.org/way/51690287
+way,55884817,education,Детский сад №1932,37.7366963,55.6499105,,,,https://www.openstreetmap.org/way/55884817
+way,86163498,education,Школа № 1357 «На Братиславской». Здание №3,37.7625040,55.6593854,,,,https://www.openstreetmap.org/way/86163498
+way,93911126,education,Школа № 1357 «На Братиславской». Здание №4,37.7619827,55.6613176,,,,https://www.openstreetmap.org/way/93911126
+way,94527801,education,Детский сад №2348,37.7614444,55.6532496,,,,https://www.openstreetmap.org/way/94527801
+way,94527802,education,Школа №1319,37.7603532,55.6525049,,,,https://www.openstreetmap.org/way/94527802
+way,104662200,education,,37.7165182,55.6450559,,,,https://www.openstreetmap.org/way/104662200
+way,129357954,education,Гимназия №1562 им. Артема Боровика,37.7508974,55.6654233,"Братиславская улица, 4",,,https://www.openstreetmap.org/way/129357954
+way,135985865,education,ГБОУ Марьинская школа № 1566 корпус 6,37.7564026,55.6482348,,,,https://www.openstreetmap.org/way/135985865
+way,135993453,education,ГБОУ Марьинская школа № 1566 ДО 2 Теремок,37.7576270,55.6487869,,,,https://www.openstreetmap.org/way/135993453
+way,136341087,education,Детский сад № 2323,37.7490435,55.6455815,,,,https://www.openstreetmap.org/way/136341087
+way,136473981,education,Детский сад №2494,37.7743051,55.6580708,,,,https://www.openstreetmap.org/way/136473981
+way,136473982,education,Детский сад №2423,37.7727216,55.6582160,,,,https://www.openstreetmap.org/way/136473982
+way,136473983,education,Детский сад №2427,37.7745629,55.6588340,,,,https://www.openstreetmap.org/way/136473983
+way,136752933,education,Школа № 1357 «На Братиславской». Здание №11,37.7578419,55.6662807,,,,https://www.openstreetmap.org/way/136752933
+way,136752938,education,Школа № 1357 «На Братиславской». Здание №12,37.7559963,55.6647711,,,,https://www.openstreetmap.org/way/136752938
+way,136752940,education,,37.7506923,55.6631059,,,,https://www.openstreetmap.org/way/136752940
+way,136752941,education,,37.7453871,55.6602207,,,,https://www.openstreetmap.org/way/136752941
+way,136752947,education,,37.7503577,55.6615693,,,,https://www.openstreetmap.org/way/136752947
+way,157167712,education,,37.7226120,55.6491638,"Новочеркасский бульвар, 19",,,https://www.openstreetmap.org/way/157167712
+way,187243714,education,Школа № 1987. Основная школа,37.7763639,55.6605667,"Белореченская улица, 36 к1",,,https://www.openstreetmap.org/way/187243714
+way,239977947,education,Детский сад №1288,37.7125385,55.6449615,"Донецкая улица, 31",,,https://www.openstreetmap.org/way/239977947
+way,258753558,education,Школа №491,37.7222540,55.6489696,,,,https://www.openstreetmap.org/way/258753558
+way,267625741,education,Детский сад №2209,37.7401293,55.6491712,,,,https://www.openstreetmap.org/way/267625741
+way,282238821,education,Школа #1493,37.7494625,55.6535965,,,,https://www.openstreetmap.org/way/282238821
+way,282238823,education,,37.7504023,55.6548976,,,,https://www.openstreetmap.org/way/282238823
+way,284376076,education,,37.7112966,55.6494767,,,,https://www.openstreetmap.org/way/284376076
+way,287005456,education,,37.7362208,55.6514220,,,,https://www.openstreetmap.org/way/287005456
+way,287005459,education,Детский сад №1881,37.7367356,55.6529061,,,,https://www.openstreetmap.org/way/287005459
+way,310484266,education,Школа № 1989. Дошкольное отделение № 1,37.7780008,55.6635179,,,,https://www.openstreetmap.org/way/310484266
+way,311745513,education,Лицей № 1547,37.7767366,55.6622150,"Белореченская улица, 47",,,https://www.openstreetmap.org/way/311745513
+way,311874351,education,,37.7160384,55.6526928,,,,https://www.openstreetmap.org/way/311874351
+way,313374880,education,"Детский сад №1798 ""Марьино""",37.7328029,55.6497448,,,,https://www.openstreetmap.org/way/313374880
+way,366561360,education,Детский сад № 2466,37.7753342,55.6642410,,,,https://www.openstreetmap.org/way/366561360
+way,459574973,education,"Школа №1716 ""Эврика-Огонёк""",37.7742096,55.6654541,,,,https://www.openstreetmap.org/way/459574973
+way,459575997,education,"Школа № 1716 ""Эврика-Огонек"". Дошкольное подразделение",37.7726387,55.6660580,,,,https://www.openstreetmap.org/way/459575997
+way,459584374,education,Школа № 1989. Дошкольное отделение № 1,37.7775497,55.6628681,"Белореченская улица, 47 к2",,,https://www.openstreetmap.org/way/459584374
+way,459586029,education,Центр образования №1989,37.7760626,55.6636163,,,,https://www.openstreetmap.org/way/459586029
+way,460245030,education,Школа № 1547,37.7673349,55.6638012,,,,https://www.openstreetmap.org/way/460245030
+way,460511550,education,Детский сад №2437,37.7701124,55.6538685,,,,https://www.openstreetmap.org/way/460511550
+way,460512501,education,"Школа №1959 ""Школа здоровья""",37.7698327,55.6556720,,,,https://www.openstreetmap.org/way/460512501
+way,460514084,education,Детский сад №2398,37.7683923,55.6553047,Перервинский бульвар,,,https://www.openstreetmap.org/way/460514084
+way,460514466,education,"Школа №1959 ""Школа здоровья"" (Гимназические классы)",37.7714029,55.6543609,,,,https://www.openstreetmap.org/way/460514466
+way,460560229,education,Школа №1547. Дошкольное отделение,37.7661003,55.6631949,,,,https://www.openstreetmap.org/way/460560229
+way,460564113,education,Школа №1423. Дошкольное отделение,37.7688088,55.6642295,,,,https://www.openstreetmap.org/way/460564113
+way,461109423,education,Школа №1904,37.7475858,55.6497828,,,,https://www.openstreetmap.org/way/461109423
+way,461110609,education,Детский сад №2325,37.7502704,55.6494859,,,,https://www.openstreetmap.org/way/461110609
+way,461111582,education,,37.7458429,55.6520570,,,,https://www.openstreetmap.org/way/461111582
+way,461836412,education,Школа № 1357 «На Братиславской». Здание №6,37.7639858,55.6510664,,,,https://www.openstreetmap.org/way/461836412
+way,461836978,education,Школа № 1357 «На Братиславской». Здание №5,37.7624939,55.6506531,,,,https://www.openstreetmap.org/way/461836978
+way,461843222,education,Евроазиатская богословская семинария,37.7597766,55.6470800,,,,https://www.openstreetmap.org/way/461843222
+way,461846655,education,Детский сад №2397,37.7449089,55.6593826,,,,https://www.openstreetmap.org/way/461846655
+way,475662142,education,Школа № 1357 «На Братиславской». Здание №13,37.7649028,55.6669114,,,,https://www.openstreetmap.org/way/475662142
+way,481547265,education,Школа № 1357 «На Братиславской». Здание №9,37.7547668,55.6582057,,,,https://www.openstreetmap.org/way/481547265
+way,487951922,education,,37.7756661,55.6602304,,,,https://www.openstreetmap.org/way/487951922
+way,487957328,education,,37.7642252,55.6598171,,,,https://www.openstreetmap.org/way/487957328
+way,492974181,education,,37.7554874,55.6504430,,,,https://www.openstreetmap.org/way/492974181
+way,492974505,education,,37.7545526,55.6508943,,,,https://www.openstreetmap.org/way/492974505
+way,494132822,education,,37.7469885,55.6559028,,,,https://www.openstreetmap.org/way/494132822
+way,494136258,education,,37.7458261,55.6541042,,,,https://www.openstreetmap.org/way/494136258
+way,595420149,education,,37.7226248,55.6452010,,,,https://www.openstreetmap.org/way/595420149
+way,656569636,education,,37.7251908,55.6452457,,,,https://www.openstreetmap.org/way/656569636
+way,908462514,education,,37.7114753,55.6518706,,,,https://www.openstreetmap.org/way/908462514
+way,1007452119,education,,37.7321810,55.6485856,,,,https://www.openstreetmap.org/way/1007452119
+node,612135396,fitness_club,Мисс Фитнес,37.7376109,55.6462052,,,,https://www.openstreetmap.org/node/612135396
+node,922268647,fitness_club,DDX Fitness,37.7415234,55.6589333,,,,https://www.openstreetmap.org/node/922268647
+node,1932813099,fitness_club,,37.7770195,55.6585640,,,,https://www.openstreetmap.org/node/1932813099
+node,4728871689,fitness_club,,37.7534342,55.6507652,Луговой проезд,,,https://www.openstreetmap.org/node/4728871689
+node,4809717114,fitness_club,Zebra,37.7491831,55.6593449,,,,https://www.openstreetmap.org/node/4809717114
+node,4948358721,fitness_club,Ньюфит Братиславская,37.7595576,55.6577410,,,,https://www.openstreetmap.org/node/4948358721
+node,5290442711,fitness_club,Акробат,37.7310781,55.6554410,,,Акробат,https://www.openstreetmap.org/node/5290442711
+node,5720941924,fitness_club,Ледифит,37.7646605,55.6535866,,,,https://www.openstreetmap.org/node/5720941924
+node,6542725086,fitness_club,Magneto fitness,37.7625665,55.6521038,,,,https://www.openstreetmap.org/node/6542725086
+node,6545743487,fitness_club,Спорт & Лайф,37.7647090,55.6529070,,,,https://www.openstreetmap.org/node/6545743487
+node,7966686810,fitness_club,X-Fit Марьино,37.7663515,55.6520423,"Братиславская улица, 30",,,https://www.openstreetmap.org/node/7966686810
+node,10046657528,fitness_club,Spirit Fitness,37.7450216,55.6490146,,,,https://www.openstreetmap.org/node/10046657528
+node,10655436162,fitness_club,Ddx,37.7274853,55.6478128,,,,https://www.openstreetmap.org/node/10655436162
+node,12238139363,fitness_club,СССР,37.7400757,55.6548046,,,,https://www.openstreetmap.org/node/12238139363
+way,311827546,fitness_club,Территория Фитнеса,37.7639552,55.6621630,"Перервинский бульвар, 4 к1",,,https://www.openstreetmap.org/way/311827546
+node,1234341770,healthcare,Гемотест,37.7412368,55.6484045,,Гемотест,,https://www.openstreetmap.org/node/1234341770
+node,3114564366,healthcare,Центр иммунологии и репродукции,37.7409385,55.6505289,,,,https://www.openstreetmap.org/node/3114564366
+node,4375444393,healthcare,Имма в Марьино,37.7464821,55.6591713,"улица Перерва, 39; 41",,,https://www.openstreetmap.org/node/4375444393
+node,4811425724,healthcare,Детский медицинский центр,37.7638489,55.6487049,,,,https://www.openstreetmap.org/node/4811425724
+node,4825057524,healthcare,Геоком,37.7524326,55.6467646,,,,https://www.openstreetmap.org/node/4825057524
+node,5876438788,healthcare,NovaScreen,37.7417476,55.6485334,,,,https://www.openstreetmap.org/node/5876438788
+node,5908136485,healthcare,Инвитро,37.7411276,55.6497865,,Инвитро,,https://www.openstreetmap.org/node/5908136485
+node,6047018386,healthcare,Linline,37.7467131,55.6598596,,,,https://www.openstreetmap.org/node/6047018386
+node,6047094186,healthcare,Медцентр УМАЙ клиник,37.7490945,55.6637418,,,,https://www.openstreetmap.org/node/6047094186
+node,6049688814,healthcare,Cleo Line,37.7549230,55.6663961,,,,https://www.openstreetmap.org/node/6049688814
+node,6049689786,healthcare,Женская амбулатория,37.7548563,55.6659879,,,,https://www.openstreetmap.org/node/6049689786
+node,6253618332,healthcare,Золотое сечение,37.7399311,55.6438597,,,,https://www.openstreetmap.org/node/6253618332
+node,6550969886,healthcare,Медикл клуб,37.7515638,55.6497435,,,,https://www.openstreetmap.org/node/6550969886
+node,6551051685,healthcare,CMD,37.7640628,55.6641086,,CMD,,https://www.openstreetmap.org/node/6551051685
+node,6662349367,healthcare,Территория речи,37.7685244,55.6655135,,,,https://www.openstreetmap.org/node/6662349367
+node,8569349717,healthcare,Поликлиника №36,37.7529665,55.6521459,,,,https://www.openstreetmap.org/node/8569349717
+node,8708995720,healthcare,Инвитро,37.7460887,55.6514017,,Инвитро,,https://www.openstreetmap.org/node/8708995720
+node,9612516794,healthcare,Инвитро,37.7516360,55.6612380,,Инвитро,,https://www.openstreetmap.org/node/9612516794
+node,9718301178,healthcare,KDL,37.7515957,55.6610311,,,,https://www.openstreetmap.org/node/9718301178
+node,10046800660,healthcare,Семейный Доктор,37.7640280,55.6563180,,,,https://www.openstreetmap.org/node/10046800660
+node,10722898656,healthcare,МедЦентрСервис,37.7717525,55.6594167,,,,https://www.openstreetmap.org/node/10722898656
+node,11288555893,healthcare,ЗдравКлиник,37.7406013,55.6510152,,,,https://www.openstreetmap.org/node/11288555893
+node,11397607260,healthcare,Горлаб,37.7636093,55.6571380,,,,https://www.openstreetmap.org/node/11397607260
+node,11403610219,healthcare,,37.7473295,55.6549254,,,,https://www.openstreetmap.org/node/11403610219
+node,11414416648,healthcare,Пикассо,37.7352836,55.6481696,,,,https://www.openstreetmap.org/node/11414416648
+node,11414416659,healthcare,Пикассо,37.7528290,55.6644076,,,,https://www.openstreetmap.org/node/11414416659
+node,11594121764,healthcare,Ситилаб,37.7502530,55.6606720,,,,https://www.openstreetmap.org/node/11594121764
+node,12100539225,healthcare,,37.7563817,55.6461161,"Поречная улица, 9",,,https://www.openstreetmap.org/node/12100539225
+node,12215917197,healthcare,Ясный взор,37.7637274,55.6571683,,,,https://www.openstreetmap.org/node/12215917197
+node,12529465090,healthcare,Медицина столицы,37.7496133,55.6475434,,,,https://www.openstreetmap.org/node/12529465090
+way,27596303,healthcare,Поликлиника №9,37.7628180,55.6619336,"Перервинский бульвар, 4 к2",,,https://www.openstreetmap.org/way/27596303
+way,27712037,healthcare,Поликлиника №36 Детское отделение,37.7469911,55.6515897,"Новомарьинская улица, 3",,,https://www.openstreetmap.org/way/27712037
+way,39264985,healthcare,Центр амбулаторной онкологической помощи МКНЦ им. А. С. Логинова,37.7652430,55.6628305,"Перервинский бульвар, 5 к1",,,https://www.openstreetmap.org/way/39264985
+way,46679103,healthcare,Поликлиника №185,37.7387493,55.6450865,"Новочеркасский бульвар, 48",,,https://www.openstreetmap.org/way/46679103
+way,48016947,healthcare,МЕДСИ,37.7312984,55.6502960,"улица Маршала Голованова, 1 к2",,,https://www.openstreetmap.org/way/48016947
+way,48171237,healthcare,Центр В.И.Дикуля «Марьино»,37.7405917,55.6473791,"Новочеркасский бульвар, 55 к2",,,https://www.openstreetmap.org/way/48171237
+way,156918820,healthcare,Детская поликлиника №112,37.7142833,55.6455372,"Новочеркасский бульвар, 6 с1",,,https://www.openstreetmap.org/way/156918820
+way,267625742,healthcare,Детская поликлиника №148 Филиал №3,37.7343130,55.6498861,"Новочеркасский бульвар, 35",,,https://www.openstreetmap.org/way/267625742
+way,460513434,healthcare,Детская поликлиника №147,37.7689836,55.6544678,,,,https://www.openstreetmap.org/way/460513434
+way,460563107,healthcare,Детская городская поликлиника №148,37.7697247,55.6645707,,,,https://www.openstreetmap.org/way/460563107
+way,460750410,healthcare,Детская поликлиника №150,37.7534587,55.6660471,,,,https://www.openstreetmap.org/way/460750410
+way,461131296,healthcare,Поликлиника №19,37.7625017,55.6664881,,,,https://www.openstreetmap.org/way/461131296
+way,493922974,healthcare,Поликлиника №36,37.7472813,55.6506759,,,,https://www.openstreetmap.org/way/493922974
+way,992471454,healthcare,Здоровая Москва,37.7577496,55.6443227,,,,https://www.openstreetmap.org/way/992471454
+node,514604553,large_store,Пятёрочка,37.7153029,55.6465508,,Пятёрочка,,https://www.openstreetmap.org/node/514604553
+node,608467062,large_store,Перекрёсток,37.7585000,55.6542280,,Перекрёсток,"Торговый дом ""ПЕРЕКРЕСТОК""",https://www.openstreetmap.org/node/608467062
+node,610275146,large_store,Пятёрочка,37.7356010,55.6478526,,Пятёрочка,,https://www.openstreetmap.org/node/610275146
+node,612133543,large_store,Пятёрочка,37.7378457,55.6460934,,Пятёрочка,,https://www.openstreetmap.org/node/612133543
+node,906722941,large_store,Перекрёсток,37.7654194,55.6547606,,Перекрёсток,"Торговый дом ""ПЕРЕКРЕСТОК""",https://www.openstreetmap.org/node/906722941
+node,990924866,large_store,Чижик,37.7529472,55.6458972,"Луговой проезд, 12 к1",Чижик,,https://www.openstreetmap.org/node/990924866
+node,1166673234,large_store,Перекрёсток,37.7478770,55.6589708,,Перекрёсток,"Торговый дом ""ПЕРЕКРЕСТОК""",https://www.openstreetmap.org/node/1166673234
+node,1200570005,large_store,Пятёрочка,37.7345239,55.6449867,,Пятёрочка,,https://www.openstreetmap.org/node/1200570005
+node,1200570010,large_store,Пятёрочка,37.7305113,55.6441270,,Пятёрочка,,https://www.openstreetmap.org/node/1200570010
+node,1297346176,large_store,Пятёрочка,37.7679257,55.6523053,,Пятёрочка,,https://www.openstreetmap.org/node/1297346176
+node,2196966386,large_store,Леди-5,37.7393999,55.6482087,,,,https://www.openstreetmap.org/node/2196966386
+node,3174628719,large_store,Дикси,37.7761286,55.6610199,"Белореченская улица, 36 к3",Дикси,,https://www.openstreetmap.org/node/3174628719
+node,3177155662,large_store,Перекрёсток,37.7531710,55.6598404,,Перекрёсток,,https://www.openstreetmap.org/node/3177155662
+node,3982942685,large_store,Дикси,37.7597674,55.6624236,,Дикси,,https://www.openstreetmap.org/node/3982942685
+node,3982942686,large_store,Пятёрочка,37.7614200,55.6631538,,Пятёрочка,,https://www.openstreetmap.org/node/3982942686
+node,4185307092,large_store,Ашан,37.7420568,55.6584974,"Люблинская улица, 153",Ашан,,https://www.openstreetmap.org/node/4185307092
+node,4211195091,large_store,Пятёрочка,37.7435996,55.6457735,,Пятёрочка,,https://www.openstreetmap.org/node/4211195091
+node,4226766298,large_store,Виктория,37.7642672,55.6623872,"Перервинский бульвар, 4",Виктория,,https://www.openstreetmap.org/node/4226766298
+node,4247426132,large_store,Дикси,37.7660119,55.6540717,,Дикси,,https://www.openstreetmap.org/node/4247426132
+node,4252840990,large_store,Перекрёсток,37.7446805,55.6493587,,Перекрёсток,"ЗАО ТД ""Перекресток""",https://www.openstreetmap.org/node/4252840990
+node,4320249022,large_store,Пятёрочка,37.7090613,55.6435286,,Пятёрочка,,https://www.openstreetmap.org/node/4320249022
+node,4546175737,large_store,Пятёрочка,37.7483093,55.6598965,,Пятёрочка,,https://www.openstreetmap.org/node/4546175737
+node,4582597800,large_store,Пятёрочка,37.7341615,55.6530072,,Пятёрочка,,https://www.openstreetmap.org/node/4582597800
+node,4587981491,large_store,Пятёрочка,37.7504037,55.6512778,,Пятёрочка,,https://www.openstreetmap.org/node/4587981491
+node,4621852891,large_store,Пятёрочка,37.7465633,55.6573360,,Пятёрочка,,https://www.openstreetmap.org/node/4621852891
+node,4729046691,large_store,All In One,37.7462334,55.6492417,,,,https://www.openstreetmap.org/node/4729046691
+node,4784517421,large_store,Виктория,37.7714737,55.6494429,,Виктория,,https://www.openstreetmap.org/node/4784517421
+node,4825088124,large_store,Пятёрочка,37.7527386,55.6464245,,Пятёрочка,,https://www.openstreetmap.org/node/4825088124
+node,4825182421,large_store,Гастроном Алексеевский,37.7478853,55.6488072,,,,https://www.openstreetmap.org/node/4825182421
+node,5208501046,large_store,Магнит,37.7562190,55.6592863,,Магнит,"АО ""Тандер""",https://www.openstreetmap.org/node/5208501046
+node,5221158659,large_store,Пятёрочка,37.7619528,55.6555801,,Пятёрочка,,https://www.openstreetmap.org/node/5221158659
+node,5221158660,large_store,Пятёрочка,37.7611118,55.6581805,,Пятёрочка,,https://www.openstreetmap.org/node/5221158660
+node,5239379483,large_store,Пятёрочка,37.7552733,55.6463163,"Луговой проезд, 11",,,https://www.openstreetmap.org/node/5239379483
+node,5259861321,large_store,Азбука Вкуса,37.7395760,55.6572851,,Азбука Вкуса,ООО «Городской супермаркет»,https://www.openstreetmap.org/node/5259861321
+node,6235786572,large_store,Перекрёсток,37.7422201,55.6523623,,Перекрёсток,"Торговый дом ""ПЕРЕКРЕСТОК""",https://www.openstreetmap.org/node/6235786572
+node,6324966597,large_store,Пятёрочка,37.7469225,55.6466946,,Пятёрочка,,https://www.openstreetmap.org/node/6324966597
+node,6457947595,large_store,Перекрёсток,37.7596431,55.6498481,"Мячковский бульвар, 18 к1",Перекрёсток,"Торговый дом ""ПЕРЕКРЕСТОК""",https://www.openstreetmap.org/node/6457947595
+node,6542725186,large_store,Магнит,37.7639736,55.6541451,,Магнит,,https://www.openstreetmap.org/node/6542725186
+node,6550993886,large_store,Пятёрочка,37.7569616,55.6546552,,Пятёрочка,,https://www.openstreetmap.org/node/6550993886
+node,7486406307,large_store,Магнит,37.7446407,55.6564177,,Магнит,"АО ""Тандер""",https://www.openstreetmap.org/node/7486406307
+node,8564620417,large_store,Верный,37.7417419,55.6433934,,Верный,,https://www.openstreetmap.org/node/8564620417
+node,8983503174,large_store,Магнит,37.7348104,55.6530069,,Магнит,"АО ""Тандер""",https://www.openstreetmap.org/node/8983503174
+node,9131959439,large_store,Пятёрочка,37.7193780,55.6473351,,Пятёрочка,,https://www.openstreetmap.org/node/9131959439
+node,9622433235,large_store,Пятёрочка,37.7655260,55.6564412,,Пятёрочка,,https://www.openstreetmap.org/node/9622433235
+node,9709687817,large_store,Первым делом,37.7513876,55.6453494,,,,https://www.openstreetmap.org/node/9709687817
+node,9743066958,large_store,Пятёрочка,37.7163373,55.6540681,,Пятёрочка,,https://www.openstreetmap.org/node/9743066958
+node,10796808405,large_store,ДА!,37.7388765,55.6544825,,ДА!,,https://www.openstreetmap.org/node/10796808405
+node,11048019360,large_store,Пятёрочка,37.7472813,55.6477357,,Пятёрочка,,https://www.openstreetmap.org/node/11048019360
+node,11482452453,large_store,Дикси,37.7460306,55.6493293,,Дикси,,https://www.openstreetmap.org/node/11482452453
+node,12245123866,large_store,Чижик,37.7318109,55.6476717,"Новочеркасский бульвар, 27 к1",Чижик,,https://www.openstreetmap.org/node/12245123866
+node,12458588119,large_store,Монетка,37.7421194,55.6434052,,Монетка,,https://www.openstreetmap.org/node/12458588119
+node,12485911543,large_store,Пятёрочка,37.7276600,55.6480449,"Новочеркасский бульвар, 21А",Пятёрочка,,https://www.openstreetmap.org/node/12485911543
+node,13640544064,large_store,Чижик,37.7611215,55.6562369,,Чижик,,https://www.openstreetmap.org/node/13640544064
+way,27411350,large_store,Eurospar,37.7216642,55.6476125,"Новочеркасский бульвар, 7",Eurospar,,https://www.openstreetmap.org/way/27411350
+way,27780696,large_store,Пятёрочка,37.7486993,55.6503296,"Новомарьинская улица, 4 к1",Пятёрочка,,https://www.openstreetmap.org/way/27780696
+way,29449543,large_store,Пятёрочка,37.7412285,55.6512448,"Люблинская улица, 108А",Пятёрочка,,https://www.openstreetmap.org/way/29449543
+way,29449547,large_store,Лента,37.7363632,55.6481649,"Новочеркасский бульвар, 41 к4",Лента,"ООО ""Лента""",https://www.openstreetmap.org/way/29449547
+way,48016949,large_store,Дикси,37.7299424,55.6495770,"улица Маршала Голованова, 5",Дикси,,https://www.openstreetmap.org/way/48016949
+way,51676924,large_store,Пятёрочка,37.7574427,55.6585088,"Братиславская улица, 16 к2",Пятёрочка,,https://www.openstreetmap.org/way/51676924
+way,282048463,large_store,Пятёрочка,37.7433707,55.6545051,"Люблинская улица, 157",Пятёрочка,,https://www.openstreetmap.org/way/282048463
+way,505325160,large_store,Пятёрочка,37.7241968,55.6514054,"улица Перерва, 18",Пятёрочка,,https://www.openstreetmap.org/way/505325160
+node,247942548,metro_entrance,,37.7438784,55.6509282,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/247942548
+node,247942556,metro_entrance,,37.7432257,55.6508328,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/247942556
+node,249330568,metro_entrance,,37.7437314,55.6512893,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/249330568
+node,249331000,metro_entrance,,37.7430707,55.6512257,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/249331000
+node,249331088,metro_entrance,,37.7446643,55.6489090,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/249331088
+node,249331159,metro_entrance,,37.7445255,55.6492614,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/249331159
+node,249331166,metro_entrance,,37.7440212,55.6488088,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/249331166
+node,249331181,metro_entrance,,37.7438674,55.6491765,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/249331181
+node,296936108,metro_entrance,,37.7489092,55.6586774,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/296936108
+node,296936183,metro_entrance,,37.7498950,55.6590491,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/296936183
+node,296936222,metro_entrance,,37.7527677,55.6601182,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/296936222
+node,296936233,metro_entrance,,37.7517507,55.6600207,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/296936233
+node,1000075239,metro_entrance,,37.7520979,55.6598610,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1000075239
+node,1168205136,metro_entrance,,37.7497434,55.6592690,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/1168205136
+way,107757105,metro_platform,Марьино,37.7431471,55.6500157,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/way/107757105
+way,399827065,metro_platform,Братиславская,37.7506474,55.6597430,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/way/399827065
+node,296949290,metro_station,Марьино,37.7431467,55.6500158,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/296949290
+node,333159878,metro_station,Братиславская,37.7506688,55.6597390,,,ГУП «Московский метрополитен»,https://www.openstreetmap.org/node/333159878
+way,27811814,office_building,,37.7445752,55.6631945,"улица Верхние Поля, 16",,,https://www.openstreetmap.org/way/27811814
+way,29450194,office_building,,37.7232408,55.6513968,"улица Перерва, 16",,,https://www.openstreetmap.org/way/29450194
+way,48017063,office_building,,37.7331703,55.6481201,"Новочеркасский бульвар, 23",,,https://www.openstreetmap.org/way/48017063
+way,48041839,office_building,,37.7312457,55.6454097,"улица Маршала Голованова, 15",,,https://www.openstreetmap.org/way/48041839
+way,51632159,office_building,,37.7781652,55.6641914,"улица Верхние Поля, 42 к2",,,https://www.openstreetmap.org/way/51632159
+way,51690290,office_building,,37.7126136,55.6539321,"Подольская улица, 1 к2",,,https://www.openstreetmap.org/way/51690290
+way,51702004,office_building,,37.7279452,55.6563183,"улица Нижние Поля, 31А с1",,,https://www.openstreetmap.org/way/51702004
+way,51702015,office_building,,37.7367894,55.6557824,"улица Перерва, 23 с1",,,https://www.openstreetmap.org/way/51702015
+way,51702068,office_building,,37.7354236,55.6590625,"улица Нижние Поля, 23",,,https://www.openstreetmap.org/way/51702068
+way,51702152,office_building,,37.7338342,55.6588079,"улица Нижние Поля, 27 с13",,,https://www.openstreetmap.org/way/51702152
+way,51702175,office_building,,37.7361475,55.6591261,"улица Нижние Поля, 21А",,,https://www.openstreetmap.org/way/51702175
+way,51709761,office_building,,37.7395405,55.6610926,"улица Нижние Поля, 15",,,https://www.openstreetmap.org/way/51709761
+way,544140924,office_building,"Пожарная часть №76, Управление по ЮВАО 24 ОФПС",37.7390409,55.6578805,"Люблинская улица, 94",,RU-MOW,https://www.openstreetmap.org/way/544140924
+node,2389116207,office_service,Объединённый военный комиссариат Люблинского района,37.7538817,55.6593191,,,,https://www.openstreetmap.org/node/2389116207
+node,3048481810,office_service,Нотариус Белова Наталья Евгеньевна,37.7385132,55.6482102,,,,https://www.openstreetmap.org/node/3048481810
+node,4225209696,office_service,СДЭК,37.7562605,55.6549644,,,,https://www.openstreetmap.org/node/4225209696
+node,4239089489,office_service,Управа района Марьино,37.7437329,55.6529449,,,,https://www.openstreetmap.org/node/4239089489
+node,4250571908,office_service,Совет ветеранов района Марьино,37.7344730,55.6490097,,,,https://www.openstreetmap.org/node/4250571908
+node,4457857489,office_service,Юридическое Бюро Селютина Игоря Анатольевича,37.7515568,55.6468996,,,,https://www.openstreetmap.org/node/4457857489
+node,4481631166,office_service,,37.7370962,55.6546478,,,,https://www.openstreetmap.org/node/4481631166
+node,4497276612,office_service,,37.7372938,55.6547548,,,,https://www.openstreetmap.org/node/4497276612
+node,4696196986,office_service,Ингосстрах,37.7446583,55.6585465,,Ингосстрах,,https://www.openstreetmap.org/node/4696196986
+node,4794210908,office_service,,37.7451063,55.6587154,,,,https://www.openstreetmap.org/node/4794210908
+node,5251030543,office_service,,37.7563023,55.6525712,,,,https://www.openstreetmap.org/node/5251030543
+node,5251038258,office_service,Центр страхования,37.7562289,55.6526265,,,,https://www.openstreetmap.org/node/5251038258
+node,5265181256,office_service,,37.7349982,55.6531885,,,,https://www.openstreetmap.org/node/5265181256
+node,5290442712,office_service,СДЭК,37.7318372,55.6557655,,,,https://www.openstreetmap.org/node/5290442712
+node,5403990623,office_service,,37.7461375,55.6464799,,,,https://www.openstreetmap.org/node/5403990623
+node,6047018186,office_service,ПЕНТАдизайн-М,37.7464426,55.6600506,,,,https://www.openstreetmap.org/node/6047018186
+node,6047018389,office_service,Миэль,37.7478792,55.6603732,,,,https://www.openstreetmap.org/node/6047018389
+node,6049643814,office_service,ВСК,37.7542866,55.6643689,,,,https://www.openstreetmap.org/node/6049643814
+node,6049646988,office_service,Нотариус,37.7541602,55.6649110,,,,https://www.openstreetmap.org/node/6049646988
+node,6049688813,office_service,Хатрако,37.7566121,55.6663696,,,,https://www.openstreetmap.org/node/6049688813
+node,6050068446,office_service,Регионмонтаж,37.7548666,55.6661326,,,,https://www.openstreetmap.org/node/6050068446
+node,6149354402,office_service,Dinoel,37.7415929,55.6602026,,,,https://www.openstreetmap.org/node/6149354402
+node,6543942459,office_service,Согласие,37.7629850,55.6548243,,Согласие,,https://www.openstreetmap.org/node/6543942459
+node,7046400361,office_service,Абакус центр,37.7530280,55.6643137,,,Траст,https://www.openstreetmap.org/node/7046400361
+node,7162148862,office_service,БК-01,37.7529471,55.6644201,"Братиславская улица, 6",,,https://www.openstreetmap.org/node/7162148862
+node,7605890791,office_service,Главдоставка,37.7199563,55.6589702,,,ГЛК-ТРАНС,https://www.openstreetmap.org/node/7605890791
+node,7887115185,office_service,Йота,37.7414510,55.6585385,,,ООО Компания Ирида,https://www.openstreetmap.org/node/7887115185
+node,8065696549,office_service,Первый Визовый Центр,37.7415669,55.6602852,,,Первый Визовый Центр,https://www.openstreetmap.org/node/8065696549
+node,8709603495,office_service,Согласие,37.7638963,55.6542051,"Братиславская улица, 26",Согласие,,https://www.openstreetmap.org/node/8709603495
+node,8752581918,office_service,ИнтСтайл,37.7705321,55.6530236,,,,https://www.openstreetmap.org/node/8752581918
+node,8839210259,office_service,Риелтор Алексей Барсуков,37.7465022,55.6592458,,,,https://www.openstreetmap.org/node/8839210259
+node,9126582861,office_service,Высота-сервис,37.7610009,55.6660594,улица Верхние Поля,,,https://www.openstreetmap.org/node/9126582861
+node,9158941341,office_service,,37.7611450,55.6672033,,,,https://www.openstreetmap.org/node/9158941341
+node,9554923979,office_service,,37.7344778,55.6544490,,,,https://www.openstreetmap.org/node/9554923979
+node,11083605391,office_service,Группа Партнер,37.7339280,55.6565479,,,,https://www.openstreetmap.org/node/11083605391
+node,11169554307,office_service,ПЭК: Easyway,37.7229621,55.6531254,,,,https://www.openstreetmap.org/node/11169554307
+node,11482410976,office_service,An.ru,37.7534491,55.6636985,,,,https://www.openstreetmap.org/node/11482410976
+node,12068128099,office_service,ООО «Форвард-Групп»,37.7125511,55.6545289,,,,https://www.openstreetmap.org/node/12068128099
+node,12100585817,office_service,Алмаз сервис,37.7552964,55.6457224,"Поречная улица, 9",,,https://www.openstreetmap.org/node/12100585817
+node,12141994359,office_service,Такси Ритм,37.7315729,55.6556702,,,,https://www.openstreetmap.org/node/12141994359
+node,12281093188,office_service,Квартал Домашний,37.7073961,55.6455498,,Самолет,,https://www.openstreetmap.org/node/12281093188
+node,12702650455,office_service,Dez,37.7532855,55.6522139,,,,https://www.openstreetmap.org/node/12702650455
+node,12999237201,office_service,Квартал на воде,37.7074572,55.6455728,,Самолет,,https://www.openstreetmap.org/node/12999237201
+node,13011387263,office_service,TLS Group,37.7289149,55.6541270,,,,https://www.openstreetmap.org/node/13011387263
+way,51675685,office_service,Cлужба диспетчеров ЖКХ,37.7731844,55.6572286,"Перервинский бульвар, 19 к3",,,https://www.openstreetmap.org/way/51675685
+node,5652467727,outdoor_fitness,,37.7531545,55.6552740,,,,https://www.openstreetmap.org/node/5652467727
+node,6549798286,outdoor_fitness,,37.7180039,55.6416800,,,,https://www.openstreetmap.org/node/6549798286
+node,6766437600,outdoor_fitness,,37.7544002,55.6588783,,,,https://www.openstreetmap.org/node/6766437600
+node,8479323617,outdoor_fitness,,37.7777773,55.6518630,,,,https://www.openstreetmap.org/node/8479323617
+node,8872486019,outdoor_fitness,,37.7195777,55.6482185,,,,https://www.openstreetmap.org/node/8872486019
+node,9394061719,outdoor_fitness,,37.7438673,55.6601927,,,,https://www.openstreetmap.org/node/9394061719
+node,9934000217,outdoor_fitness,,37.7257174,55.6500918,,,,https://www.openstreetmap.org/node/9934000217
+node,12100399479,outdoor_fitness,,37.7457111,55.6581301,,,,https://www.openstreetmap.org/node/12100399479
+node,12100567621,outdoor_fitness,,37.7586182,55.6507066,,,,https://www.openstreetmap.org/node/12100567621
+relation,12969782,outdoor_fitness,,37.7555926,55.6559698,,,,https://www.openstreetmap.org/relation/12969782
+way,311753717,outdoor_fitness,,37.7699055,55.6478640,,,,https://www.openstreetmap.org/way/311753717
+way,319553597,outdoor_fitness,,37.7697578,55.6549588,,,,https://www.openstreetmap.org/way/319553597
+way,319553598,outdoor_fitness,,37.7763138,55.6599880,,,,https://www.openstreetmap.org/way/319553598
+way,479765167,outdoor_fitness,,37.7582165,55.6621713,,,,https://www.openstreetmap.org/way/479765167
+way,487656908,outdoor_fitness,,37.7740622,55.6643060,,,,https://www.openstreetmap.org/way/487656908
+way,489518024,outdoor_fitness,,37.7653664,55.6662389,,,,https://www.openstreetmap.org/way/489518024
+way,592187273,outdoor_fitness,,37.7554968,55.6520822,,,,https://www.openstreetmap.org/way/592187273
+way,642305375,outdoor_fitness,,37.7471903,55.6620075,,,,https://www.openstreetmap.org/way/642305375
+way,642313635,outdoor_fitness,,37.7508132,55.6644256,,,,https://www.openstreetmap.org/way/642313635
+way,642313638,outdoor_fitness,,37.7488035,55.6647143,,,,https://www.openstreetmap.org/way/642313638
+way,642746048,outdoor_fitness,,37.7547240,55.6647230,,,,https://www.openstreetmap.org/way/642746048
+way,690935146,outdoor_fitness,,37.7159157,55.6428912,,,,https://www.openstreetmap.org/way/690935146
+way,690937482,outdoor_fitness,,37.7109237,55.6438555,,,,https://www.openstreetmap.org/way/690937482
+way,690938902,outdoor_fitness,,37.7155593,55.6448071,,,,https://www.openstreetmap.org/way/690938902
+way,690939029,outdoor_fitness,,37.7131085,55.6443176,,,,https://www.openstreetmap.org/way/690939029
+way,690939030,outdoor_fitness,,37.7122816,55.6443036,,,,https://www.openstreetmap.org/way/690939030
+way,690946768,outdoor_fitness,,37.7375849,55.6433772,,,,https://www.openstreetmap.org/way/690946768
+way,690950021,outdoor_fitness,,37.7208600,55.6430920,,,,https://www.openstreetmap.org/way/690950021
+way,690950022,outdoor_fitness,,37.7202196,55.6430523,,,,https://www.openstreetmap.org/way/690950022
+way,690950140,outdoor_fitness,,37.7252109,55.6441258,,,,https://www.openstreetmap.org/way/690950140
+way,690950606,outdoor_fitness,,37.7220632,55.6438415,,,,https://www.openstreetmap.org/way/690950606
+way,696974832,outdoor_fitness,,37.7599093,55.6478057,,,,https://www.openstreetmap.org/way/696974832
+way,697451247,outdoor_fitness,,37.7285776,55.6435361,,,,https://www.openstreetmap.org/way/697451247
+way,701402846,outdoor_fitness,,37.7594995,55.6565351,,,,https://www.openstreetmap.org/way/701402846
+way,701755385,outdoor_fitness,,37.7608692,55.6608115,,,,https://www.openstreetmap.org/way/701755385
+way,878459737,outdoor_fitness,,37.7592416,55.6452593,,,,https://www.openstreetmap.org/way/878459737
+way,879490170,outdoor_fitness,,37.7777875,55.6517671,,,,https://www.openstreetmap.org/way/879490170
+way,879490178,outdoor_fitness,,37.7789729,55.6528027,,,,https://www.openstreetmap.org/way/879490178
+way,987373515,outdoor_fitness,,37.7600456,55.6664305,,,,https://www.openstreetmap.org/way/987373515
+way,1084313345,outdoor_fitness,,37.7219525,55.6499183,,,,https://www.openstreetmap.org/way/1084313345
+way,1314023390,outdoor_fitness,,37.7795792,55.6570373,,,,https://www.openstreetmap.org/way/1314023390
+way,1527638777,outdoor_fitness,,37.7611625,55.6594882,,,,https://www.openstreetmap.org/way/1527638777
+relation,1370559,residential_area,1-й мкр. Марьинского Парка,37.7476168,55.6555894,,,,https://www.openstreetmap.org/relation/1370559
+relation,2723503,residential_area,5-й мкр. Марьинского Парка,37.7564476,55.6575629,,,,https://www.openstreetmap.org/relation/2723503
+relation,2723504,residential_area,7-й мкр. Марьинского Парка,37.7598105,55.6607764,,,,https://www.openstreetmap.org/relation/2723504
+relation,2723505,residential_area,,37.7599769,55.6654433,,,,https://www.openstreetmap.org/relation/2723505
+relation,2723506,residential_area,,37.7483215,55.6620062,,,,https://www.openstreetmap.org/relation/2723506
+relation,6491137,residential_area,,37.7179889,55.6443766,,,,https://www.openstreetmap.org/relation/6491137
+relation,11965755,residential_area,,37.7749870,55.6579535,,,,https://www.openstreetmap.org/relation/11965755
+relation,14551283,residential_area,Жилой комплекс «Тополя»,37.7604158,55.6666830,,,,https://www.openstreetmap.org/relation/14551283
+relation,14906104,residential_area,Жилой комплекс «Квартал Домашний»,37.7055342,55.6454399,,,,https://www.openstreetmap.org/relation/14906104
+way,29463077,residential_area,,37.7135406,55.6518714,,,,https://www.openstreetmap.org/way/29463077
+way,39389310,residential_area,,37.7374963,55.6450092,,,,https://www.openstreetmap.org/way/39389310
+way,39391016,residential_area,,37.7360833,55.6507347,,,,https://www.openstreetmap.org/way/39391016
+way,39391017,residential_area,,37.7214178,55.6492778,,,,https://www.openstreetmap.org/way/39391017
+way,39391019,residential_area,2-й мкр. Марьинского Парка,37.7494030,55.6477717,,,,https://www.openstreetmap.org/way/39391019
+way,39391020,residential_area,4-й мкр. Марьинского Парка,37.7561955,55.6491487,,,,https://www.openstreetmap.org/way/39391020
+way,39391022,residential_area,8-й мкр. Марьинского Парка,37.7687302,55.6545851,,,,https://www.openstreetmap.org/way/39391022
+way,39391041,residential_area,9-й мкр. Марьинского Парка,37.7671391,55.6638811,,,,https://www.openstreetmap.org/way/39391041
+way,85290432,residential_area,6-й мкр. Марьинского Парка,37.7628194,55.6523049,,,,https://www.openstreetmap.org/way/85290432
+way,160282426,residential_area,12-й мкр. Марьинского Парка,37.7755225,55.6642401,,,,https://www.openstreetmap.org/way/160282426
+relation,6769689,residential_building,,37.7437106,55.6449954,"Люблинская улица, 128",,,https://www.openstreetmap.org/relation/6769689
+relation,6769692,residential_building,,37.7434704,55.6456187,"Люблинская улица, 126",,,https://www.openstreetmap.org/relation/6769692
+relation,6878308,residential_building,,37.7556825,55.6663408,"улица Верхние Поля, 28",,,https://www.openstreetmap.org/relation/6878308
+relation,12422680,residential_building,,37.7606911,55.6563062,"Братиславская улица, 20",,,https://www.openstreetmap.org/relation/12422680
+relation,12554939,residential_building,,37.7391383,55.6462553,"Новочеркасский бульвар, 46",,,https://www.openstreetmap.org/relation/12554939
+relation,14551267,residential_building,,37.7607218,55.6661349,"улица Верхние Поля, 32 к3",,,https://www.openstreetmap.org/relation/14551267
+relation,14551268,residential_building,,37.7609692,55.6665042,"улица Верхние Поля, 32 к2",,,https://www.openstreetmap.org/relation/14551268
+relation,14551273,residential_building,,37.7602441,55.6670649,"улица Верхние Поля, 32 к1",,,https://www.openstreetmap.org/relation/14551273
+relation,14629358,residential_building,,37.7515993,55.6591123,"Мячковский бульвар, 1",,,https://www.openstreetmap.org/relation/14629358
+relation,14632029,residential_building,,37.7534333,55.6582076,"Мячковский бульвар, 3",,,https://www.openstreetmap.org/relation/14632029
+relation,14632030,residential_building,,37.7528080,55.6581837,"Мячковский бульвар, 3",,,https://www.openstreetmap.org/relation/14632030
+relation,14906301,residential_building,,37.7040603,55.6454392,"Донецкая улица, 34 к1",,,https://www.openstreetmap.org/relation/14906301
+relation,14906328,residential_building,,37.7030129,55.6447048,"Донецкая улица, 34 к2",,,https://www.openstreetmap.org/relation/14906328
+relation,14918621,residential_building,,37.7019255,55.6439020,"Донецкая улица, 34 к3",,,https://www.openstreetmap.org/relation/14918621
+relation,14919201,residential_building,,37.7055747,55.6463522,"Донецкая улица, 30 к2",,,https://www.openstreetmap.org/relation/14919201
+relation,14919412,residential_building,,37.7070571,55.6457021,"Донецкая улица, 30 к1",,,https://www.openstreetmap.org/relation/14919412
+relation,18282311,residential_building,,37.7610509,55.6478701,"Поречная улица, 17/22",,,https://www.openstreetmap.org/relation/18282311
+relation,18349433,residential_building,,37.7620790,55.6552882,"Братиславская улица, 22",,,https://www.openstreetmap.org/relation/18349433
+way,26600023,residential_building,,37.7604195,55.6611242,"Братиславская улица, 13 к1",,,https://www.openstreetmap.org/way/26600023
+way,26600048,residential_building,,37.7655658,55.6590328,"Новомарьинская улица, 19",,,https://www.openstreetmap.org/way/26600048
+way,27118358,residential_building,,37.7639127,55.6672194,"улица Верхние Поля, 36 к2",,,https://www.openstreetmap.org/way/27118358
+way,27198602,residential_building,,37.7226443,55.6506149,"улица Перерва, 14",,,https://www.openstreetmap.org/way/27198602
+way,27198618,residential_building,,37.7188713,55.6501507,"Донецкая улица, 7",,,https://www.openstreetmap.org/way/27198618
+way,27198636,residential_building,,37.7216915,55.6516785,"улица Перерва, 12",,,https://www.openstreetmap.org/way/27198636
+way,27198647,residential_building,,37.7180916,55.6493046,"Донецкая улица, 15",,,https://www.openstreetmap.org/way/27198647
+way,27198667,residential_building,,37.7161474,55.6486821,"Донецкая улица, 19",,,https://www.openstreetmap.org/way/27198667
+way,27198708,residential_building,,37.7152951,55.6477466,"Донецкая улица, 23",,,https://www.openstreetmap.org/way/27198708
+way,27411324,residential_building,,37.7263618,55.6479950,"улица Маршала Голованова, 16",,,https://www.openstreetmap.org/way/27411324
+way,27411341,residential_building,,37.7259310,55.6475192,"Новочеркасский бульвар, 21",,,https://www.openstreetmap.org/way/27411341
+way,27411500,residential_building,,37.7241529,55.6480056,"Новочеркасский бульвар, 15",,,https://www.openstreetmap.org/way/27411500
+way,27411505,residential_building,,37.7224771,55.6481350,"Новочеркасский бульвар, 11",,,https://www.openstreetmap.org/way/27411505
+way,27412129,residential_building,,37.7202265,55.6451253,"Новочеркасский бульвар, 20 к3",,,https://www.openstreetmap.org/way/27412129
+way,27412130,residential_building,,37.7190525,55.6450985,"Новочеркасский бульвар, 20 к2",,,https://www.openstreetmap.org/way/27412130
+way,27412143,residential_building,,37.7214016,55.6451892,"Новочеркасский бульвар, 22",,,https://www.openstreetmap.org/way/27412143
+way,27412150,residential_building,,37.7228788,55.6442011,"Батайский проезд, 27",,,https://www.openstreetmap.org/way/27412150
+way,27412152,residential_building,,37.7242445,55.6446632,"Батайский проезд, 29",,,https://www.openstreetmap.org/way/27412152
+way,27412155,residential_building,,37.7230706,55.6460469,"Новочеркасский бульвар, 26",,,https://www.openstreetmap.org/way/27412155
+way,27596185,residential_building,,37.7615612,55.6579325,"Братиславская улица, 19 к1",,,https://www.openstreetmap.org/way/27596185
+way,27596191,residential_building,,37.7629096,55.6584329,"Братиславская улица, 19 к2",,,https://www.openstreetmap.org/way/27596191
+way,27596216,residential_building,,37.7595925,55.6596542,"Братиславская улица, 15 к1",,,https://www.openstreetmap.org/way/27596216
+way,27596223,residential_building,,37.7609811,55.6598852,"Братиславская улица, 15 к2",,,https://www.openstreetmap.org/way/27596223
+way,27596230,residential_building,,37.7635559,55.6609728,"Перервинский бульвар, 8",,,https://www.openstreetmap.org/way/27596230
+way,27596232,residential_building,,37.7623208,55.6624815,"Перервинский бульвар, 2 к1",,,https://www.openstreetmap.org/way/27596232
+way,27596329,residential_building,,37.7635843,55.6571839,"Новомарьинская улица, 15",,,https://www.openstreetmap.org/way/27596329
+way,27596849,residential_building,,37.7610995,55.6589819,"Братиславская улица, 17 к1",,,https://www.openstreetmap.org/way/27596849
+way,27597272,residential_building,,37.7597200,55.6575326,"Братиславская улица, 18 к1",,,https://www.openstreetmap.org/way/27597272
+way,27615867,residential_building,,37.7578327,55.6572703,"Братиславская улица, 18 к2",,,https://www.openstreetmap.org/way/27615867
+way,27615893,residential_building,,37.7598795,55.6557485,"Новомарьинская улица, 13",,,https://www.openstreetmap.org/way/27615893
+way,27615901,residential_building,,37.7581973,55.6551139,"Новомарьинская улица, 11 к1",,,https://www.openstreetmap.org/way/27615901
+way,27630387,residential_building,,37.7642137,55.6661547,"улица Перерва, 59",,,https://www.openstreetmap.org/way/27630387
+way,27630490,residential_building,,37.7643048,55.6681568,"улица Верхние Поля, 36 к1",,,https://www.openstreetmap.org/way/27630490
+way,27644360,residential_building,,37.7460808,55.6621404,"улица Верхние Поля, 10",,,https://www.openstreetmap.org/way/27644360
+way,27671918,residential_building,,37.7498726,55.6475771,"Марьинский бульвар, 4",,,https://www.openstreetmap.org/way/27671918
+way,27671920,residential_building,,37.7520243,55.6478354,"Луговой проезд, 8 к1",,,https://www.openstreetmap.org/way/27671920
+way,27671921,residential_building,,37.7511733,55.6469086,"Луговой проезд, 12 к2",,,https://www.openstreetmap.org/way/27671921
+way,27671923,residential_building,,37.7475128,55.6459877,"Люблинская улица, 175",,,https://www.openstreetmap.org/way/27671923
+way,27671925,residential_building,,37.7501645,55.6465199,"Луговой проезд, 10 к2",,,https://www.openstreetmap.org/way/27671925
+way,27671929,residential_building,,37.7524844,55.6463862,"Луговой проезд, 12 к1",,,https://www.openstreetmap.org/way/27671929
+way,27671930,residential_building,,37.7509364,55.6445880,"Поречная улица, 3 к1",,,https://www.openstreetmap.org/way/27671930
+way,27696369,residential_building,,37.7629967,55.6657001,"улица Перерва, 57",,,https://www.openstreetmap.org/way/27696369
+way,27696371,residential_building,,37.7620003,55.6677925,"улица Верхние Поля, 34 к1",,,https://www.openstreetmap.org/way/27696371
+way,27696375,residential_building,,37.7661463,55.6647809,"улица Перерва, 62 к2",,,https://www.openstreetmap.org/way/27696375
+way,27696376,residential_building,,37.7650567,55.6643077,"улица Перерва, 62 к1",,,https://www.openstreetmap.org/way/27696376
+way,27696377,residential_building,,37.7673186,55.6651814,"улица Перерва, 62 к3",,,https://www.openstreetmap.org/way/27696377
+way,27696395,residential_building,,37.7560247,55.6640627,"Братиславская улица, 5",,,https://www.openstreetmap.org/way/27696395
+way,27696396,residential_building,,37.7544444,55.6647304,"Братиславская улица, 3",,,https://www.openstreetmap.org/way/27696396
+way,27696397,residential_building,,37.7574789,55.6647813,"Братиславская улица, 11",,,https://www.openstreetmap.org/way/27696397
+way,27712035,residential_building,,37.7451935,55.6513094,"Люблинская улица, 163/1",,,https://www.openstreetmap.org/way/27712035
+way,27712047,residential_building,,37.7484995,55.6518398,"Новомарьинская улица, 5",,,https://www.openstreetmap.org/way/27712047
+way,27712049,residential_building,,37.7481281,55.6524666,"Новомарьинская улица, 5 к1",,,https://www.openstreetmap.org/way/27712049
+way,27712050,residential_building,,37.7495741,55.6527603,"Новомарьинская улица, 7 к1",,,https://www.openstreetmap.org/way/27712050
+way,27712051,residential_building,,37.7481778,55.6531489,"Новомарьинская улица, 5 к2",,,https://www.openstreetmap.org/way/27712051
+way,27761496,residential_building,,37.7513392,55.6460227,"Луговой проезд, 10 к1",,,https://www.openstreetmap.org/way/27761496
+way,27761500,residential_building,,37.7528080,55.6452945,"Поречная улица, 5/14",,,https://www.openstreetmap.org/way/27761500
+way,27761503,residential_building,,37.7478633,55.6448063,"Люблинская улица, 179/1",,,https://www.openstreetmap.org/way/27761503
+way,27761505,residential_building,,37.7471995,55.6473466,"Люблинская улица, 171",,,https://www.openstreetmap.org/way/27761505
+way,27780679,residential_building,,37.7459599,55.6504741,"Люблинская улица, 165",,,https://www.openstreetmap.org/way/27780679
+way,27780680,residential_building,,37.7460459,55.6496317,"Люблинская улица, 165 к2",,,https://www.openstreetmap.org/way/27780680
+way,27780681,residential_building,,37.7465961,55.6488697,"Люблинская улица, 169",,,https://www.openstreetmap.org/way/27780681
+way,27780691,residential_building,,37.7491649,55.6493965,"Марьинский бульвар, 3",,,https://www.openstreetmap.org/way/27780691
+way,27780693,residential_building,,37.7513149,55.6496577,"Луговой проезд, 6",,,https://www.openstreetmap.org/way/27780693
+way,27780694,residential_building,,37.7488985,55.6509854,"Новомарьинская улица, 4",,,https://www.openstreetmap.org/way/27780694
+way,27780697,residential_building,,37.7493814,55.6503312,"Луговой проезд, 4 к3",,,https://www.openstreetmap.org/way/27780697
+way,27780698,residential_building,,37.7502673,55.6504515,"Луговой проезд, 4 к2",,,https://www.openstreetmap.org/way/27780698
+way,27780700,residential_building,,37.7511913,55.6505642,"Луговой проезд, 4 к1",,,https://www.openstreetmap.org/way/27780700
+way,27780701,residential_building,,37.7504973,55.6510861,"Луговой проезд, 2",,,https://www.openstreetmap.org/way/27780701
+way,27780702,residential_building,,37.7542697,55.6465879,"Луговой проезд, 9 к1",,,https://www.openstreetmap.org/way/27780702
+way,27780703,residential_building,,37.7538399,55.6477517,"Луговой проезд, 7",,,https://www.openstreetmap.org/way/27780703
+way,27780704,residential_building,,37.7558121,55.6472972,"Луговой проезд, 9 к2",,,https://www.openstreetmap.org/way/27780704
+way,27780710,residential_building,,37.7575434,55.6473485,"Поречная улица, 13 к2",,,https://www.openstreetmap.org/way/27780710
+way,27780713,residential_building,,37.7600262,55.6487567,"Мячковский бульвар, 20 к2",,,https://www.openstreetmap.org/way/27780713
+way,27780718,residential_building,,37.7589409,55.6496227,"Мячковский бульвар, 18 к1",,,https://www.openstreetmap.org/way/27780718
+way,27780720,residential_building,,37.7529622,55.6500565,"Луговой проезд, 3",,,https://www.openstreetmap.org/way/27780720
+way,27780721,residential_building,,37.7521637,55.6514472,"Луговой проезд, 1/8",,,https://www.openstreetmap.org/way/27780721
+way,27780723,residential_building,,37.7534275,55.6513508,"Новомарьинская улица, 10 к2",,,https://www.openstreetmap.org/way/27780723
+way,27780727,residential_building,,37.7562657,55.6518368,"Мячковский бульвар, 14 к2",,,https://www.openstreetmap.org/way/27780727
+way,27780728,residential_building,,37.7533762,55.6521484,"Новомарьинская улица, 10 к1",,,https://www.openstreetmap.org/way/27780728
+way,27780729,residential_building,,37.7552272,55.6527119,"Новомарьинская улица, 12/12 к1",,,https://www.openstreetmap.org/way/27780729
+way,27780730,residential_building,,37.7573246,55.6512193,"Мячковский бульвар, 16 к1",,,https://www.openstreetmap.org/way/27780730
+way,27804309,residential_building,,37.7639931,55.6487994,"Мячковский бульвар, 31/19",,,https://www.openstreetmap.org/way/27804309
+way,27804310,residential_building,,37.7651393,55.6491399,"Поречная улица, 21",,,https://www.openstreetmap.org/way/27804310
+way,27804311,residential_building,,37.7659173,55.6497605,"Поречная улица, 23",,,https://www.openstreetmap.org/way/27804311
+way,27804315,residential_building,,37.7654619,55.6507388,"Братиславская улица, 34 к2",,,https://www.openstreetmap.org/way/27804315
+way,27804318,residential_building,,37.7643882,55.6517995,"Марьинский бульвар, 10",,,https://www.openstreetmap.org/way/27804318
+way,27804323,residential_building,,37.7628898,55.6530428,"Марьинский бульвар, 11",,,https://www.openstreetmap.org/way/27804323
+way,27804324,residential_building,,37.7638635,55.6541822,"Братиславская улица, 26",,,https://www.openstreetmap.org/way/27804324
+way,27804326,residential_building,,37.7605051,55.6549399,"Новомарьинская улица, 16 к1",,,https://www.openstreetmap.org/way/27804326
+way,27804331,residential_building,,37.7594658,55.6531033,"Мячковский бульвар, 19",,,https://www.openstreetmap.org/way/27804331
+way,27811748,residential_building,,37.7475218,55.6541758,"Новомарьинская улица, 3 к3",,,https://www.openstreetmap.org/way/27811748
+way,27811750,residential_building,,37.7461361,55.6551428,"Люблинская улица, 157 к2",,,https://www.openstreetmap.org/way/27811750
+way,27811753,residential_building,,37.7489367,55.6560079,"Мячковский бульвар, 8 к3",,,https://www.openstreetmap.org/way/27811753
+way,27811754,residential_building,,37.7506029,55.6560087,"Мячковский бульвар, 8 к1",,,https://www.openstreetmap.org/way/27811754
+way,27811755,residential_building,,37.7498013,55.6556533,"Мячковский бульвар, 8 к2",,,https://www.openstreetmap.org/way/27811755
+way,27811757,residential_building,,37.7514802,55.6554217,"Мячковский бульвар, 10 к1",,,https://www.openstreetmap.org/way/27811757
+way,27811758,residential_building,,37.7512955,55.6563790,"Мячковский бульвар, 8",,,https://www.openstreetmap.org/way/27811758
+way,27811761,residential_building,,37.7502986,55.6573299,"Мячковский бульвар, 6",,,https://www.openstreetmap.org/way/27811761
+way,27811762,residential_building,,37.7495418,55.6568552,"Мячковский бульвар, 6 к1",,,https://www.openstreetmap.org/way/27811762
+way,27811764,residential_building,,37.7483314,55.6571679,"улица Перерва, 56 к1",,,https://www.openstreetmap.org/way/27811764
+way,27811768,residential_building,,37.7466450,55.6568502,"улица Перерва, 54",,,https://www.openstreetmap.org/way/27811768
+way,27811770,residential_building,,37.7448106,55.6543681,"Люблинская улица, 159 к1",,,https://www.openstreetmap.org/way/27811770
+way,27811774,residential_building,,37.7457406,55.6561027,"улица Перерва, 52 к1",,,https://www.openstreetmap.org/way/27811774
+way,27811777,residential_building,,37.7465234,55.6592093,"улица Перерва, 39",,,https://www.openstreetmap.org/way/27811777
+way,27811779,residential_building,,37.7477430,55.6596305,"улица Перерва, 43",,,https://www.openstreetmap.org/way/27811779
+way,27811780,residential_building,,37.7442635,55.6588570,"улица Перерва, 31",,,https://www.openstreetmap.org/way/27811780
+way,27811782,residential_building,,37.7500098,55.6608002,"улица Перерва, 49",,,https://www.openstreetmap.org/way/27811782
+way,27811783,residential_building,,37.7465030,55.6599502,"улица Перерва, 41 к1",,,https://www.openstreetmap.org/way/27811783
+way,27811786,residential_building,,37.7472445,55.6605871,"улица Перерва, 45 к1",,,https://www.openstreetmap.org/way/27811786
+way,27811787,residential_building,,37.7491708,55.6614316,"улица Перерва, 49 к1",,,https://www.openstreetmap.org/way/27811787
+way,27811788,residential_building,,37.7473398,55.6615691,"улица Верхние Поля, 14 к1",,,https://www.openstreetmap.org/way/27811788
+way,27811793,residential_building,,37.7522347,55.6628657,"Братиславская улица, 8",,,https://www.openstreetmap.org/way/27811793
+way,27811794,residential_building,,37.7519130,55.6638313,"Братиславская улица, 6 к1",,,https://www.openstreetmap.org/way/27811794
+way,27811796,residential_building,,37.7488907,55.6635960,"улица Верхние Поля, 22 к1",,,https://www.openstreetmap.org/way/27811796
+way,27811799,residential_building,,37.7491993,55.6648418,"улица Верхние Поля, 24",,,https://www.openstreetmap.org/way/27811799
+way,27811801,residential_building,,37.7471403,55.6627325,"улица Верхние Поля, 16 к1",,,https://www.openstreetmap.org/way/27811801
+way,27811804,residential_building,,37.7471832,55.6641737,"улица Верхние Поля, 18",,,https://www.openstreetmap.org/way/27811804
+way,27811808,residential_building,,37.7440679,55.6615615,"улица Верхние Поля, 6",,,https://www.openstreetmap.org/way/27811808
+way,27811809,residential_building,,37.7436147,55.6600662,"улица Перерва, 33",,,https://www.openstreetmap.org/way/27811809
+way,27811810,residential_building,,37.7441162,55.6608650,"улица Верхние Поля, 4",,,https://www.openstreetmap.org/way/27811810
+way,27811811,residential_building,,37.7451920,55.6626129,"улица Верхние Поля, 8",,,https://www.openstreetmap.org/way/27811811
+way,27878935,residential_building,,37.7647743,55.6566667,"Новомарьинская улица, 18",,,https://www.openstreetmap.org/way/27878935
+way,27878940,residential_building,,37.7643482,55.6559470,"Братиславская улица, 23",,,https://www.openstreetmap.org/way/27878940
+way,27878968,residential_building,,37.7677615,55.6574414,"Новомарьинская улица, 28",,,https://www.openstreetmap.org/way/27878968
+way,27878973,residential_building,,37.7667523,55.6562214,"Перервинский бульвар, 14 к3",,,https://www.openstreetmap.org/way/27878973
+way,27878981,residential_building,,37.7660827,55.6554234,"Братиславская улица, 27 к2",,,https://www.openstreetmap.org/way/27878981
+way,27878983,residential_building,,37.7670568,55.6551438,"Братиславская улица, 27 к3",,,https://www.openstreetmap.org/way/27878983
+way,27878986,residential_building,,37.7646068,55.6554324,"Братиславская улица, 25",,,https://www.openstreetmap.org/way/27878986
+way,27879109,residential_building,,37.7693164,55.6532762,"Братиславская улица, 31 к2",,,https://www.openstreetmap.org/way/27879109
+way,27879113,residential_building,,37.7693723,55.6526424,"Братиславская улица, 31 к3",,,https://www.openstreetmap.org/way/27879113
+way,27879123,residential_building,,37.7707524,55.6531508,"Перервинский бульвар, 22 к2",,,https://www.openstreetmap.org/way/27879123
+way,27879130,residential_building,,37.7723939,55.6537450,"Перервинский бульвар, 22 к1",,,https://www.openstreetmap.org/way/27879130
+way,27879141,residential_building,,37.7711271,55.6525265,"Поречная улица, 27 к2",,,https://www.openstreetmap.org/way/27879141
+way,27879147,residential_building,,37.7720993,55.6530351,"Перервинский бульвар, 22 к3",,,https://www.openstreetmap.org/way/27879147
+way,27879154,residential_building,,37.7698943,55.6518105,"Братиславская улица, 33",,,https://www.openstreetmap.org/way/27879154
+way,27879161,residential_building,,37.7717156,55.6519662,"Поречная улица, 27 к1",,,https://www.openstreetmap.org/way/27879161
+way,27879165,residential_building,,37.7735724,55.6526403,"Поречная улица, 31 к1",,,https://www.openstreetmap.org/way/27879165
+way,27879178,residential_building,,37.7678896,55.6561456,"Перервинский бульвар, 14 к2",,,https://www.openstreetmap.org/way/27879178
+way,27879181,residential_building,,37.7691485,55.6564626,"Перервинский бульвар, 14 к1",,,https://www.openstreetmap.org/way/27879181
+way,27928550,residential_building,,37.7685763,55.6646947,"Белореченская улица, 24",,,https://www.openstreetmap.org/way/27928550
+way,27928881,residential_building,,37.7654374,55.6635168,"Перервинский бульвар, 3",,,https://www.openstreetmap.org/way/27928881
+way,27928882,residential_building,,37.7663788,55.6627195,"Перервинский бульвар, 7 к1",,,https://www.openstreetmap.org/way/27928882
+way,27928883,residential_building,,37.7661642,55.6620798,"Перервинский бульвар, 9",,,https://www.openstreetmap.org/way/27928883
+way,27928885,residential_building,,37.7694973,55.6639003,"Белореченская улица, 28 к1",,,https://www.openstreetmap.org/way/27928885
+way,28147141,residential_building,,37.7552199,55.6591529,"Братиславская улица, 14",,,https://www.openstreetmap.org/way/28147141
+way,28147215,residential_building,,37.7530002,55.6596624,"Братиславская улица, 12",,,https://www.openstreetmap.org/way/28147215
+way,28317320,residential_building,,37.7298867,55.6506863,"улица Маршала Голованова, 1",,,https://www.openstreetmap.org/way/28317320
+way,28317346,residential_building,,37.7312536,55.6517657,"улица Перерва, 24",,,https://www.openstreetmap.org/way/28317346
+way,28317362,residential_building,,37.7324885,55.6522397,"улица Перерва, 26 к2",,,https://www.openstreetmap.org/way/28317362
+way,28317385,residential_building,,37.7323515,55.6509092,"улица Перерва, 26 к1",,,https://www.openstreetmap.org/way/28317385
+way,28529154,residential_building,,37.7389666,55.6434108,"Батайский проезд, 51",,,https://www.openstreetmap.org/way/28529154
+way,28529192,residential_building,,37.7402451,55.6432985,"Батайский проезд, 53",,,https://www.openstreetmap.org/way/28529192
+way,29449525,residential_building,,37.7415857,55.6491366,"Новочеркасский бульвар, 55",,,https://www.openstreetmap.org/way/29449525
+way,29449527,residential_building,,37.7402041,55.6486111,"Новочеркасский бульвар, 53",,,https://www.openstreetmap.org/way/29449527
+way,29449528,residential_building,,37.7394899,55.6484250,"Новочеркасский бульвар, 51",,,https://www.openstreetmap.org/way/29449528
+way,29449531,residential_building,,37.7387840,55.6499812,"Новочеркасский бульвар, 47",,,https://www.openstreetmap.org/way/29449531
+way,29449532,residential_building,,37.7408356,55.6506080,"Люблинская улица, 112",,,https://www.openstreetmap.org/way/29449532
+way,29449533,residential_building,,37.7405889,55.6512015,"Люблинская улица, 108",,,https://www.openstreetmap.org/way/29449533
+way,29449534,residential_building,,37.7403675,55.6517775,"Люблинская улица, 104",,,https://www.openstreetmap.org/way/29449534
+way,29449540,residential_building,,37.7380503,55.6516686,"Новочеркасский бульвар, 49",,,https://www.openstreetmap.org/way/29449540
+way,29449541,residential_building,,37.7397117,55.6533557,"улица Перерва, 50",,,https://www.openstreetmap.org/way/29449541
+way,29449545,residential_building,,37.7380859,55.6489579,"Новочеркасский бульвар, 45",,,https://www.openstreetmap.org/way/29449545
+way,29449546,residential_building,,37.7362052,55.6491817,"Новочеркасский бульвар, 29",,,https://www.openstreetmap.org/way/29449546
+way,29449556,residential_building,,37.7302446,55.6483480,"улица Маршала Голованова, 11",,,https://www.openstreetmap.org/way/29449556
+way,29449557,residential_building,,37.7340206,55.6507919,"улица Перерва, 34",,,https://www.openstreetmap.org/way/29449557
+way,29449558,residential_building,,37.7339561,55.6520426,"улица Перерва, 28",,,https://www.openstreetmap.org/way/29449558
+way,29449563,residential_building,,37.7094517,55.6487459,"Подольская улица, 31",,,https://www.openstreetmap.org/way/29449563
+way,29449564,residential_building,,37.7102984,55.6482084,"Подольская улица, 33",,,https://www.openstreetmap.org/way/29449564
+way,29449565,residential_building,,37.7116392,55.6478283,"Донецкая улица, 26",,,https://www.openstreetmap.org/way/29449565
+way,29449567,residential_building,,37.7135172,55.6531194,"Подольская улица, 9",,,https://www.openstreetmap.org/way/29449567
+way,29449568,residential_building,,37.7114853,55.6532853,"Подольская улица, 11",,,https://www.openstreetmap.org/way/29449568
+way,29449569,residential_building,,37.7125290,55.6544623,"Подольская улица, 1",,,https://www.openstreetmap.org/way/29449569
+way,29449570,residential_building,,37.7104744,55.6521050,"Подольская улица, 17",,,https://www.openstreetmap.org/way/29449570
+way,29449571,residential_building,,37.7094857,55.6509491,"Подольская улица, 23",,,https://www.openstreetmap.org/way/29449571
+way,29450195,residential_building,,37.7246600,55.6501311,"улица Маршала Голованова, 4А",,,https://www.openstreetmap.org/way/29450195
+way,29450196,residential_building,,37.7253686,55.6512596,"улица Перерва, 20",,,https://www.openstreetmap.org/way/29450196
+way,29450200,residential_building,,37.7254974,55.6484702,"улица Маршала Голованова, 14",,,https://www.openstreetmap.org/way/29450200
+way,29450738,residential_building,,37.7163682,55.6440657,"Батайский проезд, 13",,,https://www.openstreetmap.org/way/29450738
+way,29450740,residential_building,,37.7148977,55.6446312,"Новочеркасский бульвар, 8",,,https://www.openstreetmap.org/way/29450740
+way,29450742,residential_building,,37.7136821,55.6446387,"Новочеркасский бульвар, 4",,,https://www.openstreetmap.org/way/29450742
+way,29450749,residential_building,,37.7143925,55.6434526,"Батайский проезд, 11",,,https://www.openstreetmap.org/way/29450749
+way,29450752,residential_building,,37.7259083,55.6439674,"улица Маршала Голованова, 20",,,https://www.openstreetmap.org/way/29450752
+way,29450754,residential_building,,37.7260459,55.6460085,"Новочеркасский бульвар, 30",,,https://www.openstreetmap.org/way/29450754
+way,29450876,residential_building,,37.7178987,55.6534207,"улица Перерва, 10",,,https://www.openstreetmap.org/way/29450876
+way,29450877,residential_building,,37.7174913,55.6524714,"Донецкая улица, 4",,,https://www.openstreetmap.org/way/29450877
+way,29450882,residential_building,,37.7151857,55.6508545,"Донецкая улица, 12",,,https://www.openstreetmap.org/way/29450882
+way,29450885,residential_building,,37.7114417,55.6508463,"Подольская улица, 25",,,https://www.openstreetmap.org/way/29450885
+way,29450886,residential_building,,37.7089219,55.6499125,"Подольская улица, 27 к1",,,https://www.openstreetmap.org/way/29450886
+way,29450887,residential_building,,37.7090050,55.6494926,"Подольская улица, 27 к2",,,https://www.openstreetmap.org/way/29450887
+way,29450888,residential_building,,37.7104344,55.6500107,"Подольская улица, 27 к3",,,https://www.openstreetmap.org/way/29450888
+way,29450890,residential_building,,37.7104442,55.6505699,"Подольская улица, 27 к4",,,https://www.openstreetmap.org/way/29450890
+way,29450891,residential_building,,37.7125143,55.6489821,"Донецкая улица, 22",,,https://www.openstreetmap.org/way/29450891
+way,29450892,residential_building,,37.7123631,55.6514034,"Подольская улица, 21",,,https://www.openstreetmap.org/way/29450892
+way,29451024,residential_building,,37.7152887,55.6531332,"Подольская улица, 7",,,https://www.openstreetmap.org/way/29451024
+way,29451026,residential_building,,37.7148119,55.6523012,"Подольская улица, 13",,,https://www.openstreetmap.org/way/29451026
+way,29463073,residential_building,,37.7138698,55.6548606,"улица Перерва, 2",,,https://www.openstreetmap.org/way/29463073
+way,29463074,residential_building,,37.7146513,55.6546520,"улица Перерва, 4",,,https://www.openstreetmap.org/way/29463074
+way,29463075,residential_building,,37.7154411,55.6544370,"улица Перерва, 6",,,https://www.openstreetmap.org/way/29463075
+way,30281914,residential_building,,37.7562104,55.6579272,"Братиславская улица, 16 к3",,,https://www.openstreetmap.org/way/30281914
+way,30282039,residential_building,,37.7577118,55.6590892,"Братиславская улица, 16 к1",,,https://www.openstreetmap.org/way/30282039
+way,30282113,residential_building,,37.7683940,55.6655941,"Белореченская улица, 22/66",,,https://www.openstreetmap.org/way/30282113
+way,30282140,residential_building,,37.7706294,55.6638007,"Белореченская улица, 30",,,https://www.openstreetmap.org/way/30282140
+way,30282199,residential_building,,37.7690623,55.6632337,"Белореченская улица, 28 к2",,,https://www.openstreetmap.org/way/30282199
+way,30282226,residential_building,,37.7676789,55.6627149,"Перервинский бульвар, 7 к2",,,https://www.openstreetmap.org/way/30282226
+way,30282244,residential_building,,37.7640032,55.6638216,"Перервинский бульвар, 1",,,https://www.openstreetmap.org/way/30282244
+way,30295486,residential_building,,37.7707174,55.6582350,"Перервинский бульвар, 15 к1",,,https://www.openstreetmap.org/way/30295486
+way,30295517,residential_building,,37.7722217,55.6586198,"Перервинский бульвар, 15 к2",,,https://www.openstreetmap.org/way/30295517
+way,30295532,residential_building,,37.7705848,55.6589301,"Новомарьинская улица, 30",,,https://www.openstreetmap.org/way/30295532
+way,30295536,residential_building,,37.7717937,55.6593678,"Новомарьинская улица, 32",,,https://www.openstreetmap.org/way/30295536
+way,30295555,residential_building,,37.7728399,55.6594072,"Новомарьинская улица, 34",,,https://www.openstreetmap.org/way/30295555
+way,30295571,residential_building,,37.7727390,55.6604539,"Новомарьинская улица, 36 к1",,,https://www.openstreetmap.org/way/30295571
+way,30295585,residential_building,,37.7735383,55.6600097,"Новомарьинская улица, 36 к2",,,https://www.openstreetmap.org/way/30295585
+way,30295630,residential_building,,37.7744875,55.6605314,"Белореченская улица, 34 к2",,,https://www.openstreetmap.org/way/30295630
+way,30295676,residential_building,,37.7744940,55.6612431,"Белореченская улица, 34 к1",,,https://www.openstreetmap.org/way/30295676
+way,30319676,residential_building,,37.7777905,55.6602687,"Белореченская улица, 38 к1",,,https://www.openstreetmap.org/way/30319676
+way,30319677,residential_building,,37.7785482,55.6598619,"улица Марьинский Парк, 13",,,https://www.openstreetmap.org/way/30319677
+way,30319679,residential_building,,37.7771369,55.6594612,"Белореченская улица, 38 к2",,,https://www.openstreetmap.org/way/30319679
+way,30319680,residential_building,,37.7779972,55.6590597,"улица Марьинский Парк, 11",,,https://www.openstreetmap.org/way/30319680
+way,30319681,residential_building,,37.7732756,55.6576034,"Перервинский бульвар, 19 к2",,,https://www.openstreetmap.org/way/30319681
+way,30321279,residential_building,,37.7761037,55.6563060,"улица Марьинский Парк, 5 к2",,,https://www.openstreetmap.org/way/30321279
+way,30321280,residential_building,,37.7758033,55.6558255,"улица Марьинский Парк, 3 к2",,,https://www.openstreetmap.org/way/30321280
+way,30321283,residential_building,,37.7773454,55.6561686,"улица Марьинский Парк, 5 к1",,,https://www.openstreetmap.org/way/30321283
+way,30321284,residential_building,,37.7775231,55.6555739,"улица Марьинский Парк, 3 к1",,,https://www.openstreetmap.org/way/30321284
+way,30321290,residential_building,,37.7718895,55.6572159,"Перервинский бульвар, 19 к1",,,https://www.openstreetmap.org/way/30321290
+way,30323050,residential_building,,37.7752210,55.6546403,"Перервинский бульвар, 27 к1",,,https://www.openstreetmap.org/way/30323050
+way,30323052,residential_building,,37.7760544,55.6551307,"Перервинский бульвар, 27 к2",,,https://www.openstreetmap.org/way/30323052
+way,30323054,residential_building,,37.7756723,55.6568199,"улица Марьинский Парк, 5 к3",,,https://www.openstreetmap.org/way/30323054
+way,30323055,residential_building,,37.7772936,55.6571257,"улица Марьинский Парк, 7 к1",,,https://www.openstreetmap.org/way/30323055
+way,30323058,residential_building,,37.7759045,55.6576246,"улица Марьинский Парк, 7 к2",,,https://www.openstreetmap.org/way/30323058
+way,30323060,residential_building,,37.7764990,55.6584100,"улица Марьинский Парк, 9 к2",,,https://www.openstreetmap.org/way/30323060
+way,30323062,residential_building,,37.7773384,55.6581294,"улица Марьинский Парк, 9 к1",,,https://www.openstreetmap.org/way/30323062
+way,30323107,residential_building,,37.7744240,55.6572838,"Перервинский бульвар, 21 к3",,,https://www.openstreetmap.org/way/30323107
+way,30603200,residential_building,,37.7459255,55.6530307,"Люблинская улица, 161 к2",,,https://www.openstreetmap.org/way/30603200
+way,30603202,residential_building,,37.7469392,55.6533303,"Новомарьинская улица, 3 к2",,,https://www.openstreetmap.org/way/30603202
+way,30603205,residential_building,,37.7466706,55.6523975,"Новомарьинская улица, 3 к1",,,https://www.openstreetmap.org/way/30603205
+way,30603208,residential_building,,37.7635310,55.6499612,"Мячковский бульвар, 27",,,https://www.openstreetmap.org/way/30603208
+way,30603212,residential_building,,37.7668930,55.6506537,"Братиславская улица, 34 к1",,,https://www.openstreetmap.org/way/30603212
+way,30603214,residential_building,,37.7587826,55.6484112,"Мячковский бульвар, 20 к3",,,https://www.openstreetmap.org/way/30603214
+way,30603215,residential_building,,37.7547886,55.6518824,"Новомарьинская улица, 12/12 к2",,,https://www.openstreetmap.org/way/30603215
+way,31290990,residential_building,,37.7708331,55.6652940,"Белореченская улица, 37 к1",,,https://www.openstreetmap.org/way/31290990
+way,31290991,residential_building,,37.7724977,55.6650321,"Белореченская улица, 37 к2",,,https://www.openstreetmap.org/way/31290991
+way,32776834,residential_building,,37.7484613,55.6566242,"Мячковский бульвар, 6 к2",,,https://www.openstreetmap.org/way/32776834
+way,32776836,residential_building,,37.7481849,55.6551627,"Мячковский бульвар, 8 к4",,,https://www.openstreetmap.org/way/32776836
+way,32776840,residential_building,,37.7539077,55.6573885,"Мячковский бульвар, 5 к1",,,https://www.openstreetmap.org/way/32776840
+way,32776843,residential_building,,37.7603877,55.6540266,"Новомарьинская улица, 16 к2",,,https://www.openstreetmap.org/way/32776843
+way,32776845,residential_building,,37.7619367,55.6541423,"Братиславская улица, 24",,,https://www.openstreetmap.org/way/32776845
+way,32776856,residential_building,,37.7562495,55.6462279,"Поречная улица, 9",,,https://www.openstreetmap.org/way/32776856
+way,32776859,residential_building,,37.7585574,55.6468546,"Поречная улица, 13 к1",,,https://www.openstreetmap.org/way/32776859
+way,32776871,residential_building,,37.7499793,55.6452871,"Поречная улица, 3 к2",,,https://www.openstreetmap.org/way/32776871
+way,33167378,residential_building,,37.7514994,55.6613531,"Братиславская улица, 10",,,https://www.openstreetmap.org/way/33167378
+way,34321751,residential_building,,37.7340906,55.6458701,"Новочеркасский бульвар, 36",,,https://www.openstreetmap.org/way/34321751
+way,34321754,residential_building,,37.7344582,55.6444424,"Батайский проезд, 43",,,https://www.openstreetmap.org/way/34321754
+way,34321756,residential_building,,37.7319509,55.6436901,"Батайский проезд, 37",,,https://www.openstreetmap.org/way/34321756
+way,34321758,residential_building,,37.7341801,55.6436476,"Батайский проезд, 41",,,https://www.openstreetmap.org/way/34321758
+way,40680976,residential_building,,37.7437464,55.6438527,"Батайский проезд, 65",,,https://www.openstreetmap.org/way/40680976
+way,40680977,residential_building,,37.7417452,55.6437717,"Люблинская улица, 130",,,https://www.openstreetmap.org/way/40680977
+way,40680978,residential_building,,37.7424617,55.6446339,"Батайский проезд, 59",,,https://www.openstreetmap.org/way/40680978
+way,40680979,residential_building,,37.7426170,55.6467241,"Люблинская улица, 118",,,https://www.openstreetmap.org/way/40680979
+way,40680982,residential_building,,37.7388000,55.6443871,"Батайский проезд, 49",,,https://www.openstreetmap.org/way/40680982
+way,40680983,residential_building,,37.7364760,55.6462553,"Новочеркасский бульвар, 42",,,https://www.openstreetmap.org/way/40680983
+way,40680987,residential_building,,37.7414401,55.6453371,"Люблинская улица, 124",,,https://www.openstreetmap.org/way/40680987
+way,41682816,residential_building,,37.7626578,55.6573270,"Братиславская улица, 21 к1",,,https://www.openstreetmap.org/way/41682816
+way,41706382,residential_building,,37.7618427,55.6652461,"улица Перерва, 55",,,https://www.openstreetmap.org/way/41706382
+way,45536738,residential_building,,37.7792155,55.6609967,"улица Марьинский Парк, 15/51",,,https://www.openstreetmap.org/way/45536738
+way,45536746,residential_building,,37.7797580,55.6616248,"улица Марьинский Парк, 17 к1",,,https://www.openstreetmap.org/way/45536746
+way,45536758,residential_building,,37.7784171,55.6614163,"Белореченская улица, 49",,,https://www.openstreetmap.org/way/45536758
+way,45536765,residential_building,,37.7790758,55.6622211,"улица Марьинский Парк, 17 к2",,,https://www.openstreetmap.org/way/45536765
+way,45536778,residential_building,,37.7803591,55.6625792,"улица Марьинский Парк, 19 к1",,,https://www.openstreetmap.org/way/45536778
+way,45536785,residential_building,,37.7809241,55.6633164,"улица Марьинский Парк, 21 к1",,,https://www.openstreetmap.org/way/45536785
+way,45536788,residential_building,,37.7801813,55.6638293,"улица Марьинский Парк, 21 к2",,,https://www.openstreetmap.org/way/45536788
+way,45536789,residential_building,,37.7795318,55.6630560,"улица Марьинский Парк, 19 к2",,,https://www.openstreetmap.org/way/45536789
+way,46582725,residential_building,,37.7450846,55.6527752,"Люблинская улица, 161 к1",,,https://www.openstreetmap.org/way/46582725
+way,47186508,residential_building,,37.7307328,55.6440187,"улица Маршала Голованова, 19",,,https://www.openstreetmap.org/way/47186508
+way,47670842,residential_building,,37.7318007,55.6448682,"улица Маршала Голованова, 17",,,https://www.openstreetmap.org/way/47670842
+way,48015820,residential_building,,37.7364395,55.6534343,"улица Перерва, 40",,,https://www.openstreetmap.org/way/48015820
+way,48015821,residential_building,,37.7351884,55.6529935,"улица Перерва, 38",,,https://www.openstreetmap.org/way/48015821
+way,48016368,residential_building,,37.7332667,55.6477797,"Новочеркасский бульвар, 27",,,https://www.openstreetmap.org/way/48016368
+way,48016369,residential_building,,37.7340568,55.6489588,"Новочеркасский бульвар, 25",,,https://www.openstreetmap.org/way/48016369
+way,48016370,residential_building,,37.7311912,55.6495784,"улица Маршала Голованова, 7",,,https://www.openstreetmap.org/way/48016370
+way,48016371,residential_building,,37.7346386,55.6481377,"Новочеркасский бульвар, 31",,,https://www.openstreetmap.org/way/48016371
+way,48016577,residential_building,,37.7381805,55.6483208,"Новочеркасский бульвар, 43",,,https://www.openstreetmap.org/way/48016577
+way,48038245,residential_building,,37.7182580,55.6587249,"Иловайская улица, 9 с2",,,https://www.openstreetmap.org/way/48038245
+way,48038246,residential_building,Общежитие ПСТГУ,37.7178364,55.6590482,"Иловайская улица, 9 с1",,,https://www.openstreetmap.org/way/48038246
+way,48852088,residential_building,,37.7522853,55.6584476,"Мячковский бульвар, 3",,,https://www.openstreetmap.org/way/48852088
+way,51632085,residential_building,,37.7725773,55.6667544,"улица Верхние Поля, 38 к1",,,https://www.openstreetmap.org/way/51632085
+way,51632090,residential_building,,37.7698283,55.6661850,"улица Перерва, 68/35",,,https://www.openstreetmap.org/way/51632090
+way,51632100,residential_building,,37.7751946,55.6620800,"Белореченская улица, 45 к1",,,https://www.openstreetmap.org/way/51632100
+way,51632115,residential_building,,37.7771107,55.6648172,"улица Верхние Поля, 42 к1",,,https://www.openstreetmap.org/way/51632115
+way,51632128,residential_building,,37.7719176,55.6642478,"Белореченская улица, 39",,,https://www.openstreetmap.org/way/51632128
+way,51632138,residential_building,,37.7756494,55.6659250,"улица Верхние Поля, 40 к1",,,https://www.openstreetmap.org/way/51632138
+way,51676914,residential_building,,37.7564183,55.6549191,"Мячковский бульвар, 11",,,https://www.openstreetmap.org/way/51676914
+way,51676915,residential_building,,37.7566711,55.6557528,"Мячковский бульвар, 9",,,https://www.openstreetmap.org/way/51676915
+way,51683342,residential_building,,37.7192238,55.6477676,"Новочеркасский бульвар, 3",,,https://www.openstreetmap.org/way/51683342
+way,51683344,residential_building,,37.7203152,55.6475960,"Новочеркасский бульвар, 5",,,https://www.openstreetmap.org/way/51683344
+way,51683353,residential_building,,37.7261441,55.6509527,"улица Маршала Голованова, 2",,,https://www.openstreetmap.org/way/51683353
+way,51683355,residential_building,,37.7254792,55.6504007,"улица Маршала Голованова, 4",,,https://www.openstreetmap.org/way/51683355
+way,51690261,residential_building,,37.7173717,55.6515654,"Донецкая улица, 8",,,https://www.openstreetmap.org/way/51690261
+way,51690262,residential_building,,37.7165120,55.6514099,"Донецкая улица, 8",,,https://www.openstreetmap.org/way/51690262
+way,51690263,residential_building,,37.7157463,55.6516259,"Донецкая улица, 8",,,https://www.openstreetmap.org/way/51690263
+way,51690265,residential_building,,37.7161954,55.6508074,"Донецкая улица, 10 к1",,,https://www.openstreetmap.org/way/51690265
+way,51690276,residential_building,,37.7147164,55.6496793,"Донецкая улица, 18 к1",,,https://www.openstreetmap.org/way/51690276
+way,51690277,residential_building,,37.7128970,55.6498166,"Донецкая улица, 18 к3",,,https://www.openstreetmap.org/way/51690277
+way,51690280,residential_building,,37.7134988,55.6489397,"Донецкая улица, 20 к1",,,https://www.openstreetmap.org/way/51690280
+way,51690285,residential_building,,37.7138413,55.6495281,"Донецкая улица, 18 к2",,,https://www.openstreetmap.org/way/51690285
+way,51690296,residential_building,,37.7187284,55.6526135,"Донецкая улица, 2",,,https://www.openstreetmap.org/way/51690296
+way,52476991,residential_building,,37.7730820,55.6567386,"Перервинский бульвар, 21 к1",,,https://www.openstreetmap.org/way/52476991
+way,52476993,residential_building,,37.7744518,55.6556872,"Перервинский бульвар, 25",,,https://www.openstreetmap.org/way/52476993
+way,93911114,residential_building,,37.7659744,55.6582033,"Новомарьинская улица, 17",,,https://www.openstreetmap.org/way/93911114
+way,156918808,residential_building,,37.7099605,55.6435843,"Батайский проезд, 1",,,https://www.openstreetmap.org/way/156918808
+way,156918809,residential_building,,37.7128678,55.6460483,"Новочеркасский бульвар, 2",,,https://www.openstreetmap.org/way/156918809
+way,156918812,residential_building,,37.7113231,55.6454209,"Донецкая улица, 27",,,https://www.openstreetmap.org/way/156918812
+way,156918815,residential_building,,37.7105238,55.6444381,"Донецкая улица, 29",,,https://www.openstreetmap.org/way/156918815
+way,157167698,residential_building,,37.7197528,55.6510998,"Донецкая улица, 1",,,https://www.openstreetmap.org/way/157167698
+way,157167700,residential_building,,37.7249804,55.6491451,"улица Маршала Голованова, 12",,,https://www.openstreetmap.org/way/157167700
+way,157167701,residential_building,,37.7219394,55.6497475,"Донецкая улица, 13",,,https://www.openstreetmap.org/way/157167701
+way,157167703,residential_building,,37.7303683,55.6455142,"улица Маршала Голованова, 13",,,https://www.openstreetmap.org/way/157167703
+way,157167705,residential_building,,37.7177182,55.6450288,"Новочеркасский бульвар, 14",,,https://www.openstreetmap.org/way/157167705
+way,157167706,residential_building,,37.7164110,55.6427138,"Батайский проезд, 17",,,https://www.openstreetmap.org/way/157167706
+way,157167709,residential_building,,37.7264274,55.6452972,"улица Маршала Голованова, 18",,,https://www.openstreetmap.org/way/157167709
+way,157167711,residential_building,,37.7176006,55.6430044,"Батайский проезд, 19",,,https://www.openstreetmap.org/way/157167711
+way,157167714,residential_building,,37.7228138,55.6433260,"Батайский проезд, 31",,,https://www.openstreetmap.org/way/157167714
+way,157167715,residential_building,,37.7256481,55.6434716,"Батайский проезд, 33",,,https://www.openstreetmap.org/way/157167715
+way,157167716,residential_building,,37.7131331,55.6427073,"Батайский проезд, 5",,,https://www.openstreetmap.org/way/157167716
+way,157167718,residential_building,,37.7208161,55.6482617,"Новочеркасский бульвар, 9",,,https://www.openstreetmap.org/way/157167718
+way,157168939,residential_building,,37.7175509,55.6473416,"Новочеркасский бульвар, 1",,,https://www.openstreetmap.org/way/157168939
+way,157168940,residential_building,,37.7162787,55.6458475,"Новочеркасский бульвар, 10",,,https://www.openstreetmap.org/way/157168940
+way,157168941,residential_building,,37.7102565,55.6430276,"Батайский проезд, 3",,,https://www.openstreetmap.org/way/157168941
+way,157168942,residential_building,,37.7126669,55.6440120,"Батайский проезд, 9",,,https://www.openstreetmap.org/way/157168942
+way,160282230,residential_building,,37.7716830,55.6576636,"Перервинский бульвар, 17 к1",,,https://www.openstreetmap.org/way/160282230
+way,160282257,residential_building,,37.7744158,55.6633831,"Белореченская улица, 41 к2",,,https://www.openstreetmap.org/way/160282257
+way,160282259,residential_building,,37.7738206,55.6626299,"Белореченская улица, 43",,,https://www.openstreetmap.org/way/160282259
+way,160282290,residential_building,,37.7608130,55.6627107,"улица Перерва, 58",,,https://www.openstreetmap.org/way/160282290
+way,187243715,residential_building,,37.7734916,55.6611743,"Новомарьинская улица, 38",,,https://www.openstreetmap.org/way/187243715
+way,249557666,residential_building,,37.7532743,55.6640478,"Братиславская улица, 6",,,https://www.openstreetmap.org/way/249557666
+way,282219846,residential_building,,37.7478722,55.6578232,"улица Перерва, 56/2",,,https://www.openstreetmap.org/way/282219846
+way,284803092,residential_building,,37.7395415,55.6482854,"Новочеркасский бульвар, 51",,,https://www.openstreetmap.org/way/284803092
+way,425156528,residential_building,,37.7440525,55.6525697,"Люблинская улица, 161",,,https://www.openstreetmap.org/way/425156528
+way,425156529,residential_building,,37.7446780,55.6561664,"улица Перерва, 52",,,https://www.openstreetmap.org/way/425156529
+way,486733046,residential_building,,37.7486143,55.6443865,"Люблинская улица, 179/1",,,https://www.openstreetmap.org/way/486733046
+way,676327457,residential_building,,37.7624021,55.6672851,"улица Верхние Поля, 34 к2",,,https://www.openstreetmap.org/way/676327457
+way,676327474,residential_building,,37.7200089,55.6457872,"Новочеркасский бульвар, 20 к1",,,https://www.openstreetmap.org/way/676327474
+way,700224793,residential_building,,37.7729581,55.6633694,"Белореченская улица, 41 к1",,,https://www.openstreetmap.org/way/700224793
+way,710671941,residential_building,,37.7657062,55.6545079,"Братиславская улица, 27 к1",,,https://www.openstreetmap.org/way/710671941
+way,710671942,residential_building,,37.7667864,55.6536772,"Братиславская улица, 29 к1",,,https://www.openstreetmap.org/way/710671942
+way,710671944,residential_building,,37.7677453,55.6527469,"Братиславская улица, 31 к1",,,https://www.openstreetmap.org/way/710671944
+way,802326722,residential_building,,37.7438108,55.6548564,"Люблинская улица, 157",,,https://www.openstreetmap.org/way/802326722
+way,1274067499,residential_building,,37.7662775,55.6521177,"Братиславская улица, 30",,,https://www.openstreetmap.org/way/1274067499
+relation,3747355,retail_building,,37.7490399,55.6581951,"улица Перерва, 56/2",,,https://www.openstreetmap.org/relation/3747355
+way,27411001,retail_building,Место встречи Экран,37.7277456,55.6479662,"Новочеркасский бульвар, 21А",Место Встречи,,https://www.openstreetmap.org/way/27411001
+way,27761498,retail_building,,37.7511826,55.6452831,"Поречная улица, 3 к3",,,https://www.openstreetmap.org/way/27761498
+way,27780690,retail_building,,37.7481649,55.6489262,"Марьинский бульвар, 1",,,https://www.openstreetmap.org/way/27780690
+way,27780705,retail_building,,37.7552239,55.6463116,"Луговой проезд, 11",,,https://www.openstreetmap.org/way/27780705
+way,27811778,retail_building,,37.7471370,55.6594369,"улица Перерва, 41",,,https://www.openstreetmap.org/way/27811778
+way,27811813,retail_building,,37.7428519,55.6612280,"улица Верхние Поля, 2",,,https://www.openstreetmap.org/way/27811813
+way,29449548,retail_building,,37.7372008,55.6481023,"Новочеркасский бульвар, 41 к7",,,https://www.openstreetmap.org/way/29449548
+way,29450760,retail_building,,37.7244335,55.6438686,"Батайский проезд, 35",,,https://www.openstreetmap.org/way/29450760
+way,29450776,retail_building,,37.7116185,55.6445559,"Донецкая улица, 33",,,https://www.openstreetmap.org/way/29450776
+way,29463076,retail_building,,37.7164374,55.6541715,"улица Перерва, 8 с1",,,https://www.openstreetmap.org/way/29463076
+way,43203311,retail_building,,37.7156504,55.6472874,"Донецкая улица, 23 с2",,,https://www.openstreetmap.org/way/43203311
+way,46678633,retail_building,,37.7422299,55.6434714,"Батайский проезд, 69",,,https://www.openstreetmap.org/way/46678633
+way,46678634,retail_building,,37.7414338,55.6434241,"Батайский проезд, 63",,,https://www.openstreetmap.org/way/46678634
+way,46679150,retail_building,,37.7376584,55.6462090,"Новочеркасский бульвар, 44",,,https://www.openstreetmap.org/way/46679150
+way,47171789,retail_building,,37.7506348,55.6511925,,,,https://www.openstreetmap.org/way/47171789
+way,47250483,retail_building,,37.7489498,55.6511235,"Новомарьинская улица, 4",,,https://www.openstreetmap.org/way/47250483
+way,47670492,retail_building,,37.7353057,55.6461629,"Новочеркасский бульвар, 40 к1",,,https://www.openstreetmap.org/way/47670492
+way,47670704,retail_building,,37.7324252,55.6461820,"Новочеркасский бульвар, 32",,,https://www.openstreetmap.org/way/47670704
+way,47670841,retail_building,,37.7344727,55.6450328,"Новочеркасский бульвар, 36А",,,https://www.openstreetmap.org/way/47670841
+way,48016952,retail_building,,37.7356613,55.6486678,"Новочеркасский бульвар, 41 к3",,,https://www.openstreetmap.org/way/48016952
+way,48037029,retail_building,,37.7104873,55.6545856,"Подольская улица, 2",,,https://www.openstreetmap.org/way/48037029
+way,48587468,retail_building,,37.7148370,55.6426657,"Батайский проезд, 17А",,,https://www.openstreetmap.org/way/48587468
+way,48677893,retail_building,,37.7337428,55.6525305,"улица Перерва, 30",,,https://www.openstreetmap.org/way/48677893
+way,51675639,retail_building,,37.7657133,55.6563995,"Новомарьинская улица, 20",,,https://www.openstreetmap.org/way/51675639
+way,51679389,retail_building,,37.7433516,55.6492526,,,,https://www.openstreetmap.org/way/51679389
+way,51679390,retail_building,,37.7433984,55.6491166,,,,https://www.openstreetmap.org/way/51679390
+way,51679391,retail_building,,37.7435758,55.6487283,,,,https://www.openstreetmap.org/way/51679391
+way,51679392,retail_building,,37.7433204,55.6488983,,,,https://www.openstreetmap.org/way/51679392
+way,51679393,retail_building,,37.7435819,55.6489297,"Люблинская улица, вл112А с1",,,https://www.openstreetmap.org/way/51679393
+way,51679397,retail_building,,37.7529991,55.6449759,"Поречная улица, 5/14",,,https://www.openstreetmap.org/way/51679397
+way,51683345,retail_building,,37.7197167,55.6473600,"Новочеркасский бульвар, 5 с3",,,https://www.openstreetmap.org/way/51683345
+way,51683349,retail_building,,37.7192101,55.6493754,"Донецкая улица, 15 с2",,,https://www.openstreetmap.org/way/51683349
+way,51683350,retail_building,,37.7247237,55.6475231,"Новочеркасский бульвар, 13А",,,https://www.openstreetmap.org/way/51683350
+way,51683366,retail_building,,37.7342361,55.6527900,"улица Перерва, 32",,,https://www.openstreetmap.org/way/51683366
+way,51683367,retail_building,,37.7426582,55.6511171,"Люблинская улица, вл112А с3",,,https://www.openstreetmap.org/way/51683367
+way,51683368,retail_building,,37.7428455,55.6506348,,,,https://www.openstreetmap.org/way/51683368
+way,51683369,retail_building,,37.7432813,55.6506566,,,,https://www.openstreetmap.org/way/51683369
+way,51683370,retail_building,,37.7428562,55.6509084,"Люблинская улица, 112А с1",,,https://www.openstreetmap.org/way/51683370
+way,51683995,retail_building,,37.7091233,55.6435586,"Донецкая улица, 35",,,https://www.openstreetmap.org/way/51683995
+way,51684002,retail_building,,37.7217522,55.6437525,"Батайский проезд, 25",,,https://www.openstreetmap.org/way/51684002
+way,51685685,retail_building,,37.7100742,55.6538600,"Подольская улица, вл6",,,https://www.openstreetmap.org/way/51685685
+way,51685687,retail_building,,37.7099698,55.6543543,"Подольская улица, 6 с1",,,https://www.openstreetmap.org/way/51685687
+way,51701964,retail_building,,37.7229116,55.6529716,"улица Перерва, 31Б",,,https://www.openstreetmap.org/way/51701964
+way,51702030,retail_building,,37.7143104,55.6574325,"улица Перерва, 1 с6",,,https://www.openstreetmap.org/way/51702030
+way,51702065,retail_building,,37.7330157,55.6580489,"улица Нижние Поля, 29 с15",,,https://www.openstreetmap.org/way/51702065
+way,51702073,retail_building,,37.7366717,55.6581502,"улица Нижние Поля, 27 с 4",,,https://www.openstreetmap.org/way/51702073
+way,51702155,retail_building,,37.7341857,55.6588118,"улица Нижние Поля, 27 с11",,,https://www.openstreetmap.org/way/51702155
+way,51702182,retail_building,,37.7357903,55.6587801,"улица Нижние Поля, 27 с2",,,https://www.openstreetmap.org/way/51702182
+way,51702187,retail_building,,37.7373987,55.6584316,"улица Нижние Поля, 19Б с1",,,https://www.openstreetmap.org/way/51702187
+way,51702203,retail_building,,37.7388299,55.6585217,"Люблинская улица, 92 с1",,,https://www.openstreetmap.org/way/51702203
+way,51702207,retail_building,,37.7388343,55.6582746,"Люблинская улица, 92 с2",,,https://www.openstreetmap.org/way/51702207
+way,51702221,retail_building,,37.7388174,55.6592814,"улица Нижние Поля, 11а с3",,,https://www.openstreetmap.org/way/51702221
+way,51709762,retail_building,,37.7400066,55.6610766,"улица Нижние Поля, 15 c2",,,https://www.openstreetmap.org/way/51709762
+way,51709767,retail_building,,37.7484243,55.6599588,"улица Перерва, 45",,,https://www.openstreetmap.org/way/51709767
+way,51709802,retail_building,,37.7659640,55.6673984,"улица Перерва, 65 с2",,,https://www.openstreetmap.org/way/51709802
+way,107152987,retail_building,,37.7436453,55.6485924,"Люблинская улица, 116 с1",,,https://www.openstreetmap.org/way/107152987
+way,187243722,retail_building,,37.7761616,55.6610215,"Белореченская улица, 36 к3",,,https://www.openstreetmap.org/way/187243722
+way,250287690,retail_building,,37.7570772,55.6545841,"Мячковский бульвар, 13",,,https://www.openstreetmap.org/way/250287690
+way,261194368,retail_building,,37.7460901,55.6570690,"улица Перерва, 54",,,https://www.openstreetmap.org/way/261194368
+way,262556930,retail_building,,37.7440170,55.6555970,"Люблинская улица, 157 к3",,,https://www.openstreetmap.org/way/262556930
+way,284803076,retail_building,,37.7412983,55.6474271,"Новочеркасский бульвар, 57с4",,,https://www.openstreetmap.org/way/284803076
+way,450136672,retail_building,,37.7426408,55.6509330,"Люблинская улица, 112А с2",,,https://www.openstreetmap.org/way/450136672
+way,450136673,retail_building,,37.7426880,55.6508106,,,,https://www.openstreetmap.org/way/450136673
+way,460755892,retail_building,,37.7664511,55.6672876,,,,https://www.openstreetmap.org/way/460755892
+way,475944872,retail_building,,37.7398319,55.6587772,"Люблинская улица, 92 к2",,,https://www.openstreetmap.org/way/475944872
+way,487960540,retail_building,Магнит,37.7600141,55.6607929,,Магнит,,https://www.openstreetmap.org/way/487960540
+way,488481693,retail_building,,37.7592887,55.6597775,,,,https://www.openstreetmap.org/way/488481693
+way,492983353,retail_building,,37.7596733,55.6497824,,,,https://www.openstreetmap.org/way/492983353
+way,494152858,retail_building,,37.7445152,55.6513908,"Люблинская улица, 163/1",,,https://www.openstreetmap.org/way/494152858
+way,679606869,retail_building,,37.7699869,55.6498163,"Поречная улица, 10",,,https://www.openstreetmap.org/way/679606869
+way,27780732,shopping_mall,МариЭль,37.7449989,55.6490758,"Люблинская улица, 169 к2",,,https://www.openstreetmap.org/way/27780732
+way,27811776,shopping_mall,Братиславский рынок,37.7515841,55.6579315,"Мячковский бульвар, 3А",,,https://www.openstreetmap.org/way/27811776
+way,27811815,shopping_mall,Люблю Молл,37.7418927,55.6587234,"Люблинская улица, 153",,,https://www.openstreetmap.org/way/27811815
+way,29451041,shopping_mall,"Торговый корпус ""Евромаг""",37.7155893,55.6465782,"Новочеркасский бульвар, 10 к1",,,https://www.openstreetmap.org/way/29451041
+way,45016931,shopping_mall,Марьинский пассаж,37.7422122,55.6522849,"Люблинская улица, 102А",,,https://www.openstreetmap.org/way/45016931
+way,47978477,shopping_mall,Музыкальный парк,37.7354701,55.6480626,"Новочеркасский бульвар, 41 к1",,,https://www.openstreetmap.org/way/47978477
+way,160282318,shopping_mall,Бум,37.7496778,55.6596535,"улица Перерва, 43 к1",,,https://www.openstreetmap.org/way/160282318

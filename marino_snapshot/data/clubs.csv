@@ -1,0 +1,24 @@
+name,network,lon,lat,source,origin,narrow,wide,broad,in_district,distance_to_boundary_m,id,snap_m
+DDX Марьино Экран,DDX,37.7274853,55.6478128,https://www.ddxfitness.ru/clubs/ddx-marino-ekran/,ours_audited,True,True,True,True,0.0,0,13.602030632209011
+DDX Братиславская Люблю Молл,DDX,37.7415234,55.6589333,https://www.ddxfitness.ru/clubs/ddx-bratislavskaya/,ours_audited,True,True,True,True,0.0,1,15.485648784393971
+Spirit Марьино,Spirit,37.7450216,55.6490146,https://spiritfit.ru/clubs/metro-marino/,ours_audited,True,True,True,True,0.0,2,23.924048561493358
+Z Fitness Братиславская,Z Fitness,37.749632605093645,55.65963885,https://zfitness.moscow/home,ours_audited,False,True,True,True,0.0,3,19.517386320739675
+Kometa Fit Марьино,Kometa,37.7699869,55.6498163,https://trainers.kometa.fit/,ours_audited,False,False,True,True,0.0,4,107.61166620282998
+Magneto Fitness Марьино,Magneto,37.7625665,55.6521038,https://magnetofitness.ru/clubs/marino/,ours_audited,False,False,True,True,0.0,5,38.59637298851426
+СССР Марьино,СССР,37.7400757,55.6548046,https://fitness-cccp.ru/clubs/maryino/,ours_audited,False,False,True,True,0.0,6,22.448318139764087
+Академия Спорта,Академия Спорта,37.71560439434586,55.6465248,https://akadem-sport.ru/,ours_audited,False,True,True,True,0.0,7,24.706714577696705
+Территория фитнеса Братиславская,Территория фитнеса,37.76395663521823,55.6621538,https://terfit.ru/clubs/bratislavskaya/,ours_audited,False,False,True,True,0.0,8,41.65756042942616
+Территория фитнеса Люблино,Территория фитнеса,37.78358754008394,55.66483765,https://terfit.ru/clubs/lyublino/,ours_audited,False,False,True,False,157.29577399287726,9,29.355723377556235
+La Salute Люблино,La Salute,37.7653463,55.6742246,https://pro.lasalute.ru/,ours_audited,False,False,True,False,603.7959009769015,10,55.58826836522289
+XFIT Point Люблинский парк,XFIT,37.73299,55.66065,https://www.xfit.ru/club/moskva/xfit-point-lyblinskiy-park/,ours_audited,True,True,True,False,168.50195781752802,11,12.615773273160531
+DDX Братеево Браво,DDX,37.7589959,55.6387156,https://www.ddxfitness.ru/clubs/ddx-brateevo-bravo/,ours_audited,True,True,True,False,459.6070108582167,12,46.77314975688756
+DDX Кантемировская,DDX,37.656491,55.637742,https://cdn-ps.ddxfitness.ru/clubs/ddx-kantemirovskaya/,repo_segment,True,True,True,False,2390.356860775428,13,17.17767470215855
+Spirit. Каширское шоссе,Spirit,37.70892972976,55.624590159818,https://spiritfit.ru/clubs/kashirskiy/,repo_segment,True,True,True,False,1677.22967358646,14,23.793618506324428
+Fitnation Домодедовская,Fitnation,37.7166461,55.6207316,https://club.fitnation.ru/dmd,repo_segment,True,True,True,False,2094.9431421732024,15,19.660455307899976
+Арена,Арена,37.7057059,55.6141449,https://arena-fitness.ru/,repo_uncertain_price,False,True,True,False,2857.352248035029,16,22.54587230836473
+МетроFitness Борисово,MetroFitness,37.7582288,55.640078,https://metrofitness-ulitsa-borisovskie-prudy.clients.site/,repo_uncertain_price,False,True,True,False,302.6507754578867,17,38.84777689764236
+Легион Братеево,Легион,37.743407,55.6353567,https://www.fit-l.com/fitnes-brateevo/,repo_uncertain_price,False,True,True,False,516.2021301373621,18,35.212299792610054
+DorFit,DorFit,37.6591536,55.6290703,https://dorfit.ru/kontakty.html,repo_reviewed,False,False,True,False,2685.833782141633,19,20.763549918747472
+Time2Fit,Time2Fit,37.7453145,55.6154731,https://time2.fit/,repo_reviewed,False,False,True,False,2718.626793629068,20,13.332234739645353
+World Class Каширский,World Class,37.7141655,55.6220686,https://www.worldclass.ru/clubs/kashirskij,repo_reviewed,False,False,True,False,1936.1821517752933,21,40.787770709011234
+Зебра Печатники,Zebra,37.725887,55.67286,https://fitneszebra.ru/clubs/pechatniki,repo_reviewed,False,False,True,False,1439.2354473997707,22,30.431068207594443

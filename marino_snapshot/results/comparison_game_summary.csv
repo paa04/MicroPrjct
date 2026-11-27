@@ -1,0 +1,7 @@
+model,distinct,equilibria
+nearest,False,2
+nearest,True,2
+generalized,False,1
+generalized,True,1
+logit,False,1
+logit,True,2

@@ -1,0 +1,19 @@
+network,monthly_rub,status,pool_confirmed,source,note
+DDX,1900.0,lower_bound,0,https://cdn-ps.ddxfitness.ru/clubs/ddx-marino-ekran/,Headline from; both Marino clubs same advertised lower bound; entry fee separate
+Spirit,2600.0,exact,0,https://spiritfit.ru/clubs/metro-marino/,Basic unrestricted regular monthly payment until 30 Nov 2026
+Fitnation,1990.0,exact,0,https://club.fitnation.ru/dmd,Regular base renewal; joining fee 2690; excludes group classes
+Академия Спорта,2590.0,exact,0,https://akadem-sport.ru/sale/,One month all inclusive; year 11500 not used
+XFIT,2990.0,exact,0,https://www.xfit.ru/club/moskva/xfit-point-lyblinskiy-park/,Ordinary renewal 2990 first payment 3490; Black Friday renewal 2490 alternative
+Magneto,3742.0,lower_bound,1,https://magnetofitness.ru/clubs/marino/,Advertised from fitness pool spa; 4000 sqm
+Kometa,3700.0,dated_official,0,https://files.kometa.fit/Documents/Прайс_лист.pdf,"Version 6.3 dated 01.09.2026; renewal 3700, first 3600, annual 24800"
+Z Fitness,,missing,0,https://zfitness.moscow/,Quote via form; 24h
+СССР,,missing,1,https://fitness-cccp.ru/clubs/maryino/,Pool confirmed; no numeric tariff on inspected page
+Территория фитнеса,,missing,1,https://terfit.ru/clubs/bratislavskaya/,Pool confirmed Bratislavskaya; 2025 annual offer excluded
+La Salute,,missing,0,https://pro.lasalute.ru/,No usable membership price from link
+World Class,,missing,1,https://www.worldclass.ru/clubs/kashirskij,Pool 25m and 5200 sqm
+Арена,1200.0,lower_bound,0,https://arena-fitness.ru/,From 1200 per month; duration unspecified; sensitivity proxy only
+Легион,,missing,0,https://www.fit-l.com/fitnes-brateevo/,No confirmed comparable price
+Time2Fit,,missing,0,https://time2.fit/price,Group and individual session packs not comparable
+DorFit,,missing,0,https://dorfit.ru/kontakty.html/,Not reverified
+MetroFitness,,missing,0,https://metrofitness-ulitsa-borisovskie-prudy.clients.site/,Not reverified
+Zebra,,missing,0,https://fitneszebra.ru/clubs/pechatniki,No confirmed comparable price

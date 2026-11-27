@@ -1,0 +1,9 @@
+strategy,distinct,sites,equilibria
+500,False,66,2
+500,True,66,2
+1100,False,34,2
+1100,True,34,2
+1500,False,18,2
+1500,True,18,2
+1100_all,False,40,2
+1100_all,True,40,2
