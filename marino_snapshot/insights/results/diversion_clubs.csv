@@ -71,59 +71,59 @@ nearest,Magneto Fitness Марьино,Арена,0.0
 nearest,Magneto Fitness Марьино,Легион,0.0
 nearest,Magneto Fitness Марьино,СССР,0.0
 nearest,Magneto Fitness Марьино,Территория фитнеса,1.4310937422606536
-generalized,DDX Марьино Экран,DDX,-25.69944274723687
+generalized,DDX Марьино Экран,DDX,-13.830117205786676
 generalized,DDX Марьино Экран,DorFit,0.0
 generalized,DDX Марьино Экран,Fitnation,0.0
 generalized,DDX Марьино Экран,Kometa,0.0
 generalized,DDX Марьино Экран,La Salute,0.0
 generalized,DDX Марьино Экран,Magneto,0.0
 generalized,DDX Марьино Экран,MetroFitness,0.0
-generalized,DDX Марьино Экран,Spirit,7.6533392904217745
+generalized,DDX Марьино Экран,Spirit,3.782907048644539
 generalized,DDX Марьино Экран,Time2Fit,0.0
 generalized,DDX Марьино Экран,World Class,0.0
 generalized,DDX Марьино Экран,XFIT,0.0
 generalized,DDX Марьино Экран,Z Fitness,0.0
 generalized,DDX Марьино Экран,Zebra,0.0
-generalized,DDX Марьино Экран,Академия Спорта,13.998347447132652
+generalized,DDX Марьино Экран,Академия Спорта,7.128188131625574
 generalized,DDX Марьино Экран,Арена,0.0
 generalized,DDX Марьино Экран,Легион,0.0
-generalized,DDX Марьино Экран,СССР,4.04775600968245
+generalized,DDX Марьино Экран,СССР,2.9190220255165773
 generalized,DDX Марьино Экран,Территория фитнеса,0.0
-generalized,DDX Братиславская Люблю Молл,DDX,-6.325684412772489
+generalized,DDX Братиславская Люблю Молл,DDX,-0.9468634529810398
 generalized,DDX Братиславская Люблю Молл,DorFit,0.0
 generalized,DDX Братиславская Люблю Молл,Fitnation,0.0
 generalized,DDX Братиславская Люблю Молл,Kometa,0.0
 generalized,DDX Братиславская Люблю Молл,La Salute,0.0
 generalized,DDX Братиславская Люблю Молл,Magneto,0.0
 generalized,DDX Братиславская Люблю Молл,MetroFitness,0.0
-generalized,DDX Братиславская Люблю Молл,Spirit,0.6570072939052114
+generalized,DDX Братиславская Люблю Молл,Spirit,0.0
 generalized,DDX Братиславская Люблю Молл,Time2Fit,0.0
 generalized,DDX Братиславская Люблю Молл,World Class,0.0
 generalized,DDX Братиславская Люблю Молл,XFIT,0.0
-generalized,DDX Братиславская Люблю Молл,Z Fitness,4.403540236312777
+generalized,DDX Братиславская Люблю Молл,Z Fitness,0.9468634529810362
 generalized,DDX Братиславская Люблю Молл,Zebra,0.0
 generalized,DDX Братиславская Люблю Молл,Академия Спорта,0.0
 generalized,DDX Братиславская Люблю Молл,Арена,0.0
 generalized,DDX Братиславская Люблю Молл,Легион,0.0
-generalized,DDX Братиславская Люблю Молл,СССР,1.265136882554498
+generalized,DDX Братиславская Люблю Молл,СССР,0.0
 generalized,DDX Братиславская Люблю Молл,Территория фитнеса,0.0
-generalized,Spirit Марьино,DDX,10.360936823435978
+generalized,Spirit Марьино,DDX,3.666763366587638
 generalized,Spirit Марьино,DorFit,0.0
 generalized,Spirit Марьино,Fitnation,0.0
-generalized,Spirit Марьино,Kometa,0.0
+generalized,Spirit Марьино,Kometa,0.4546763279620838
 generalized,Spirit Марьино,La Salute,0.0
-generalized,Spirit Марьино,Magneto,1.7402736452748746
-generalized,Spirit Марьино,MetroFitness,0.0
-generalized,Spirit Марьино,Spirit,-13.58231860704734
+generalized,Spirit Марьино,Magneto,1.8062017128293766
+generalized,Spirit Марьино,MetroFitness,0.750053942237394
+generalized,Spirit Марьино,Spirit,-18.109758142729785
 generalized,Spirit Марьино,Time2Fit,0.0
 generalized,Spirit Марьино,World Class,0.0
 generalized,Spirit Марьино,XFIT,0.0
-generalized,Spirit Марьино,Z Fitness,0.7695396850758254
+generalized,Spirit Марьино,Z Fitness,1.0025613031563907
 generalized,Spirit Марьино,Zebra,0.0
 generalized,Spirit Марьино,Академия Спорта,0.0
 generalized,Spirit Марьино,Арена,0.0
 generalized,Spirit Марьино,Легион,0.0
-generalized,Spirit Марьино,СССР,0.7115684532606612
+generalized,Spirit Марьино,СССР,10.4295014899569
 generalized,Spirit Марьино,Территория фитнеса,0.0
 generalized,Magneto Fitness Марьино,DDX,0.0
 generalized,Magneto Fitness Марьино,DorFit,0.0
@@ -143,75 +143,75 @@ generalized,Magneto Fitness Марьино,Арена,0.0
 generalized,Magneto Fitness Марьино,Легион,0.0
 generalized,Magneto Fitness Марьино,СССР,0.0
 generalized,Magneto Fitness Марьино,Территория фитнеса,0.8400145159099495
-logit,DDX Марьино Экран,DDX,-11.226478927312787
-logit,DDX Марьино Экран,DorFit,0.0342648731231103
-logit,DDX Марьино Экран,Fitnation,0.07252744217359186
-logit,DDX Марьино Экран,Kometa,0.29021527780447354
-logit,DDX Марьино Экран,La Salute,0.2745572371352827
-logit,DDX Марьино Экран,Magneto,0.4071104684445981
-logit,DDX Марьино Экран,MetroFitness,0.5060076693346418
-logit,DDX Марьино Экран,Spirit,1.6340271764530758
-logit,DDX Марьино Экран,Time2Fit,0.06719912249181337
-logit,DDX Марьино Экран,World Class,0.04703070316837599
-logit,DDX Марьино Экран,XFIT,0.7523810170042595
-logit,DDX Марьино Экран,Z Fitness,1.0723505536096933
-logit,DDX Марьино Экран,Zebra,0.2695518643194039
-logit,DDX Марьино Экран,Академия Спорта,2.722286121965846
-logit,DDX Марьино Экран,Арена,0.04903469790621748
-logit,DDX Марьино Экран,Легион,0.5059833254829131
-logit,DDX Марьино Экран,СССР,1.6083271269089554
-logit,DDX Марьино Экран,Территория фитнеса,0.9136242499865261
-logit,DDX Братиславская Люблю Молл,DDX,-7.9439632171332235
-logit,DDX Братиславская Люблю Молл,DorFit,0.008625940673238061
-logit,DDX Братиславская Люблю Молл,Fitnation,0.036061998720575694
-logit,DDX Братиславская Люблю Молл,Kometa,0.32754290901766137
-logit,DDX Братиславская Люблю Молл,La Salute,0.45264600986356296
-logit,DDX Братиславская Люблю Молл,Magneto,0.4358596604358125
-logit,DDX Братиславская Люблю Молл,MetroFitness,0.2748878333572611
-logit,DDX Братиславская Люблю Молл,Spirit,0.9846966634398218
-logit,DDX Братиславская Люблю Молл,Time2Fit,0.03560138709235133
-logit,DDX Братиславская Люблю Молл,World Class,0.021876325551203363
-logit,DDX Братиславская Люблю Молл,XFIT,0.4749121122333153
-logit,DDX Братиславская Люблю Молл,Z Fitness,1.199372785162355
-logit,DDX Братиславская Люблю Молл,Zebra,0.16463111232599603
-logit,DDX Братиславская Люблю Молл,Академия Спорта,0.7043569349656167
-logit,DDX Братиславская Люблю Молл,Арена,0.02277405712129346
-logit,DDX Братиславская Люблю Молл,Легион,0.267106203471549
-logit,DDX Братиславская Люблю Молл,СССР,1.076297546636205
-logit,DDX Братиславская Люблю Молл,Территория фитнеса,1.4567137370654137
-logit,Spirit Марьино,DDX,2.821751137465853
-logit,Spirit Марьино,DorFit,0.007975137354271189
-logit,Spirit Марьино,Fitnation,0.04445602904944168
-logit,Spirit Марьино,Kometa,0.33534702179199716
-logit,Spirit Марьино,La Salute,0.27117011943122105
-logit,Spirit Марьино,Magneto,0.4330201749191298
-logit,Spirit Марьино,MetroFitness,0.34206338380052026
-logit,Spirit Марьино,Spirit,-8.674999310980883
-logit,Spirit Марьино,Time2Fit,0.0444347982354405
-logit,Spirit Марьино,World Class,0.026477202227916385
-logit,Spirit Марьино,XFIT,0.35827927462999876
-logit,Spirit Марьино,Z Fitness,0.8519613547966642
-logit,Spirit Марьино,Zebra,0.11262630732077406
-logit,Spirit Марьино,Академия Спорта,0.7040110879107289
-logit,Spirit Марьино,Арена,0.027551499712436006
-logit,Spirit Марьино,Легион,0.3335193620946688
-logit,Spirit Марьино,СССР,0.9353175162028755
-logit,Spirit Марьино,Территория фитнеса,1.0250379040369495
-logit,Magneto Fitness Марьино,DDX,0.952823979054525
-logit,Magneto Fitness Марьино,DorFit,0.001662382227370307
-logit,Magneto Fitness Марьино,Fitnation,0.015967918069082543
-logit,Magneto Fitness Марьино,Kometa,0.26058306200917913
-logit,Magneto Fitness Марьино,La Salute,0.21469147377422715
-logit,Magneto Fitness Марьино,Magneto,-4.204754519670044
-logit,Magneto Fitness Марьино,MetroFitness,0.12766768520740968
-logit,Magneto Fitness Марьино,Spirit,0.4227039110751267
-logit,Magneto Fitness Марьино,Time2Fit,0.01628352663797611
-logit,Magneto Fitness Марьино,World Class,0.009302678987295754
-logit,Magneto Fitness Марьино,XFIT,0.1396552760114731
-logit,Magneto Fitness Марьино,Z Fitness,0.4881540296109854
-logit,Magneto Fitness Марьино,Zebra,0.04872169862230913
-logit,Magneto Fitness Марьино,Академия Спорта,0.15801496430824535
-logit,Magneto Fitness Марьино,Арена,0.00967496663530179
-logit,Magneto Fitness Марьино,Легион,0.12189339013236822
-logit,Magneto Fitness Марьино,СССР,0.35448302217655936
-logit,Magneto Fitness Марьино,Территория фитнеса,0.8624705551306047
+logit,DDX Марьино Экран,DDX,-9.32287675155956
+logit,DDX Марьино Экран,DorFit,0.028554068276662847
+logit,DDX Марьино Экран,Fitnation,0.06056162101752649
+logit,DDX Марьино Экран,Kometa,0.2353561355041207
+logit,DDX Марьино Экран,La Salute,0.22127353513623582
+logit,DDX Марьино Экран,Magneto,0.3323062251271338
+logit,DDX Марьино Экран,MetroFitness,0.42276505814839505
+logit,DDX Марьино Экран,Spirit,1.3645784147747815
+logit,DDX Марьино Экран,Time2Fit,0.056173026821764116
+logit,DDX Марьино Экран,World Class,0.03922844531872974
+logit,DDX Марьино Экран,XFIT,0.6289722283021311
+logit,DDX Марьино Экран,Z Fitness,0.8854971116555692
+logit,DDX Марьино Экран,Zebra,0.2247597558281429
+logit,DDX Марьино Экран,Академия Спорта,2.2801200168179943
+logit,DDX Марьино Экран,Арена,0.04089906966574408
+logit,DDX Марьино Экран,Легион,0.42299173561966175
+logit,DDX Марьино Экран,СССР,1.3456990035846168
+logit,DDX Марьино Экран,Территория фитнеса,0.7331412999603568
+logit,DDX Братиславская Люблю Молл,DDX,-6.401981066124424
+logit,DDX Братиславская Люблю Молл,DorFit,0.007455305758613501
+logit,DDX Братиславская Люблю Молл,Fitnation,0.029865792286063397
+logit,DDX Братиславская Люблю Молл,Kometa,0.2569764717681382
+logit,DDX Братиславская Люблю Молл,La Salute,0.34964922713734836
+logit,DDX Братиславская Люблю Молл,Magneto,0.34397912233587213
+logit,DDX Братиславская Люблю Молл,MetroFitness,0.22673428773855964
+logit,DDX Братиславская Люблю Молл,Spirit,0.8086979156047125
+logit,DDX Братиславская Люблю Молл,Time2Fit,0.029412987779151578
+logit,DDX Братиславская Люблю Молл,World Class,0.018170153446368548
+logit,DDX Братиславская Люблю Молл,XFIT,0.3888504484277364
+logit,DDX Братиславская Люблю Молл,Z Fitness,0.9533249871529303
+logit,DDX Братиславская Люблю Молл,Zebra,0.13424491088534896
+logit,DDX Братиславская Люблю Молл,Академия Спорта,0.6095578330761615
+logit,DDX Братиславская Люблю Молл,Арена,0.018917118825045154
+logit,DDX Братиславская Люблю Молл,Легион,0.2207288928139377
+logit,DDX Братиславская Люблю Молл,СССР,0.8808607787699518
+logit,DDX Братиславская Люблю Молл,Территория фитнеса,1.124554832318486
+logit,Spirit Марьино,DDX,2.4720960757562302
+logit,Spirit Марьино,DorFit,0.010076419892398353
+logit,Spirit Марьино,Fitnation,0.05450094313309167
+logit,Spirit Марьино,Kometa,0.3886520604845427
+logit,Spirit Марьино,La Salute,0.30985990173527966
+logit,Spirit Марьино,Magneto,0.5061207692809804
+logit,Spirit Марьино,MetroFitness,0.4183496643320965
+logit,Spirit Марьино,Spirit,-9.478563382903381
+logit,Spirit Марьино,Time2Fit,0.054421412781658296
+logit,Spirit Марьино,World Class,0.03249480752283643
+logit,Spirit Марьино,XFIT,0.43829537767043814
+logit,Spirit Марьино,Z Fitness,1.0101323789286543
+logit,Spirit Марьино,Zebra,0.13708449873110506
+logit,Spirit Марьино,Академия Спорта,0.8927381771757243
+logit,Spirit Марьино,Арена,0.033814172899277795
+logit,Spirit Марьино,Легион,0.40856077865633633
+logit,Spirit Марьино,СССР,1.1440090221088486
+logit,Spirit Марьино,Территория фитнеса,1.167356921813889
+logit,Magneto Fitness Марьино,DDX,0.7889572300861083
+logit,Magneto Fitness Марьино,DorFit,0.002026121284241872
+logit,Magneto Fitness Марьино,Fitnation,0.018589673180483324
+logit,Magneto Fitness Марьино,Kometa,0.29197837362501655
+logit,Magneto Fitness Марьино,La Salute,0.23769489732178517
+logit,Magneto Fitness Марьино,Magneto,-4.488324515023472
+logit,Magneto Fitness Марьино,MetroFitness,0.14831276056021503
+logit,Magneto Fitness Марьино,Spirit,0.4897824483652542
+logit,Magneto Fitness Марьино,Time2Fit,0.01893689666653181
+logit,Magneto Fitness Марьино,World Class,0.010843438511519116
+logit,Magneto Fitness Марьино,XFIT,0.16180574904082334
+logit,Magneto Fitness Марьино,Z Fitness,0.5535136438225603
+logit,Magneto Fitness Марьино,Zebra,0.05586582299226084
+logit,Magneto Fitness Марьино,Академия Спорта,0.19184997330425446
+logit,Magneto Fitness Марьино,Арена,0.011277732386572759
+logit,Magneto Fitness Марьино,Легион,0.14177809592566648
+logit,Magneto Fitness Марьино,СССР,0.41094184924707555
+logit,Magneto Fitness Марьино,Территория фитнеса,0.9541698087031119

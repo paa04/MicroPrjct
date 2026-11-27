@@ -1,6 +1,6 @@
 network,monthly_rub,status,pool_confirmed,source,note
-DDX,1900.0,lower_bound,0,https://cdn-ps.ddxfitness.ru/clubs/ddx-marino-ekran/,Headline from; both Marino clubs same advertised lower bound; entry fee separate
-Spirit,2600.0,exact,0,https://spiritfit.ru/clubs/metro-marino/,Basic unrestricted regular monthly payment until 30 Nov 2026
+DDX,2400.0,smart_scenario,0,https://cdn-ps.ddxfitness.ru/clubs/ddx-marino-ekran/,Smart single-club unlimited with group classes; user screenshot plus official archived club pages. Current availability/price club-specific; entry fee separate.
+Spirit,2600.0,advertised_scenario,0,https://spiritfit.ru/clubs/metro-marino/,Published 2600 monthly offer; not verified for every club or after promo; services differ from Smart; user reports first payment 4000 RUB; one-time payments excluded from model
 Fitnation,1990.0,exact,0,https://club.fitnation.ru/dmd,Regular base renewal; joining fee 2690; excludes group classes
 Академия Спорта,2590.0,exact,0,https://akadem-sport.ru/sale/,One month all inclusive; year 11500 not used
 XFIT,2990.0,exact,0,https://www.xfit.ru/club/moskva/xfit-point-lyblinskiy-park/,Ordinary renewal 2990 first payment 3490; Black Friday renewal 2490 alternative

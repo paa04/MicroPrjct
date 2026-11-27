@@ -72,7 +72,7 @@ for j in mobile:
 pd.DataFrame(hr).to_csv(OUT/'history_all_clubs.csv',index=False)
 # Quality compensation: one observed amenity proxy, NOT estimated. Stress for confirmed pools only.
 qual=[]
-for bonus in [0,500,1000,1500,1842,2000]:
+for bonus in [0,500,1000,1342,1500,1842,2000]:
  for m in ['generalized','logit']:
   cc,dd,off,h=scenario(m,pool_bonus=bonus); base=shares(cc,ni,h); k=list(names).index('DDX'); g,_=add(cc,ni,dd[S]+off[k],k,h); z=g.argmax();
   for n in ['Magneto','DDX','Spirit']:
@@ -119,7 +119,7 @@ w=wi;P=p0; ex=pd.DataFrame(extrows);ex.loc[ex.best_site>=0,'best_site']=S[ex.loc
 assert np.allclose(ex.query('external_mass_ratio==0 and radius_m==500 and model=="nearest"').efficiency, hist.loc[[0,1,2],'efficiency']);checks['boundary_zero_matches']=True;(OUT/'checks.json').write_text(json.dumps(checks,indent=2))
 # Advertised lower bounds are not comparable transaction prices: vary two key prices directly.
 price_rows=[]; kp=list(names).index('Magneto');ka=list(names).index('DDX');ks=list(names).index('Spirit')
-for pdx,pmag in itertools.product([1900,2300,2800],[3742,4500,5000]):
+for pdx,pmag in itertools.product([1900,2300,2400,2800],[3742,4500,5000]):
  p=np.where(np.isfinite(known),known,2500).copy();p[ka]=pdx;p[kp]=pmag;off=p/100;cc=C+off[ni,None]
  for model,h in [('generalized',0),('logit',10)]:
   base=shares(cc,ni,h);g,_=add(cc,ni,D[S]+off[ka],ka,h);z=g.argmax();mr=assess(cc,D,off,h,5,np.flatnonzero(np.arange(len(C))!=5));sr=assess(cc,D,off,h,2,np.flatnonzero(np.arange(len(C))!=2));lr=assess(cc,D,off,h,1,np.flatnonzero(np.arange(len(C))!=1));price_rows.append(dict(model=model,ddx_price=pdx,magneto_price=pmag,ddx_share_pp=base[ka],magneto_share_pp=base[kp],spirit_share_pp=base[ks],magneto_eff=mr['efficiency'],spirit_eff=sr['efficiency'],mall_eff=lr['efficiency'],ddx_best_site=S[z],ddx_gain_pp=g[z]))
