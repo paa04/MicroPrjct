@@ -364,7 +364,16 @@ def main():
         if args.clubs or args.allow_unverified or args.network not in (None, 'DDX'):
             ap.error('economy uses the verified DDX market and its official catalogs')
         from economy_model import run
-        report = run(args.output or OUT/'economy', args.grid_step, args.buffer_m)
+        if args.command == 'run':
+            from compare_walking import run as compare
+            output = Path(args.output or OUT/'maryino_local')
+            baseline = output/'economy'
+            run(baseline, args.grid_step, args.buffer_m)
+            comparison, _ = compare(baseline, ROOT/'marino_project.zip', output)
+            report = next(row for row in comparison['scenarios']
+                          if row['method'] == 'walk' and row['market'] == 'base')
+        else:
+            report = run(args.output or OUT/'economy', args.grid_step, args.buffer_m)
         print(json.dumps(report, indent=2, ensure_ascii=False))
         return
     default_clubs = 'data/clubs.csv'

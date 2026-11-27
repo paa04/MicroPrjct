@@ -1,0 +1,92 @@
+{
+  "diagnostics": {
+    "max_archive_route_error_m": 1.8708306015469134e-09,
+    "max_club_snap_m": 53.63569166922579,
+    "max_site_snap_m": 264.43556383243657,
+    "max_demand_snap_m": 264.43556383243657,
+    "demand_mass_snap_over_100m": 0.017983345796342625,
+    "candidate_count_snap_over_100m": 38
+  },
+  "scenarios": [
+    {
+      "method": "straight",
+      "market": "base",
+      "clubs": 8,
+      "feasible_sites": 1005,
+      "positive_sites": 914,
+      "landmark": "Марьинский пассаж",
+      "address": "Люблинская улица, 102А",
+      "net_gain_pp": 6.981878221509072,
+      "gross_pp": 11.953631770738243,
+      "transfer_pp": 4.971753549229171,
+      "ddx_before_pct": 65.9966592147112,
+      "ddx_after_pct": 72.97853743622026,
+      "lon": 37.742388324692875,
+      "lat": 55.652652533237514,
+      "snap_m": 53.53860442950294
+    },
+    {
+      "method": "straight",
+      "market": "wider_market",
+      "clubs": 13,
+      "feasible_sites": 1005,
+      "positive_sites": 1005,
+      "landmark": "Братиславский рынок",
+      "address": "Мячковский бульвар, 3А",
+      "net_gain_pp": 29.600736463483297,
+      "gross_pp": 29.600736463483297,
+      "transfer_pp": 0.0,
+      "ddx_before_pct": 19.35474880591994,
+      "ddx_after_pct": 48.95548526940324,
+      "lon": 37.75194162346436,
+      "lat": 55.658042400287464,
+      "snap_m": 21.503375178831757
+    },
+    {
+      "method": "walk",
+      "market": "base",
+      "clubs": 8,
+      "feasible_sites": 1005,
+      "positive_sites": 999,
+      "landmark": "Братиславский рынок",
+      "address": "Мячковский бульвар, 3А",
+      "net_gain_pp": 19.816372174260582,
+      "gross_pp": 40.39552316893078,
+      "transfer_pp": 20.579150994670197,
+      "ddx_before_pct": 49.90698333294457,
+      "ddx_after_pct": 69.72335550720514,
+      "lon": 37.75194162346436,
+      "lat": 55.658042400287464,
+      "snap_m": 21.503375178831757
+    },
+    {
+      "method": "walk",
+      "market": "wider_market",
+      "clubs": 13,
+      "feasible_sites": 1005,
+      "positive_sites": 1005,
+      "landmark": "Братиславский рынок",
+      "address": "Мячковский бульвар, 3А",
+      "net_gain_pp": 26.65964493282143,
+      "gross_pp": 26.801962066109002,
+      "transfer_pp": 0.14231713328757278,
+      "ddx_before_pct": 17.956272595371054,
+      "ddx_after_pct": 44.61591752819248,
+      "lon": 37.75194162346436,
+      "lat": 55.658042400287464,
+      "snap_m": 21.503375178831757
+    }
+  ],
+  "local_validation": {
+    "straight": {
+      "mean_top1_m": 335.54036718400357,
+      "mean_top3_m": 335.54036718400357,
+      "hit3_300": 1
+    },
+    "walk": {
+      "mean_top1_m": 335.54036718400357,
+      "mean_top3_m": 335.54036718400357,
+      "hit3_300": 1
+    }
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "snapshot": "2026-11-27",
+  "cutoff": "2025-01-01",
+  "train": 28,
+  "train_tiles": 25,
+  "test_tiles": 14,
+  "grid_m": 100,
+  "radius_m": 3000,
+  "spatial_cv_log_loss": {
+    "0.02": 4.22070810106757,
+    "0.1": 4.190194316046485,
+    "0.5": 4.185478050688527
+  },
+  "ridge": 0.5,
+  "features": [
+    "housing_floors",
+    "office_floors",
+    "supermarkets",
+    "bus_stops",
+    "metro_access",
+    "mall_proximity",
+    "retail_building_proximity",
+    "metro_entrance_proximity",
+    "large_venue_proximity"
+  ],
+  "means": [
+    5.577466978372011,
+    1.939826138742419,
+    1.331090185380522,
+    2.1407691934428077,
+    0.28915254372401483,
+    0.07391154126392858,
+    0.1527936979862079,
+    0.09321591840842713,
+    0.11216844938270504
+  ],
+  "scales": [
+    1.1377536017124499,
+    1.330294283748169,
+    0.6899370718197255,
+    0.7004895052237397,
+    0.23328491324732875,
+    0.13519288934763293,
+    0.1914261239616753,
+    0.15687364745870092,
+    0.18473949818126026
+  ],
+  "coefficients": [
+    0.19384055317985718,
+    0.0,
+    0.31255106700219026,
+    0.002437629741100354,
+    0.20423624856240125,
+    0.636633833792543,
+    0.311353619654571,
+    0.02704306662555697,
+    0.3200240159343554
+  ],
+  "temporal": {
+    "housing": {
+      "n": 17,
+      "top_decile": 0,
+      "hit3_300": 0,
+      "median_top1_m": 2096,
+      "mean_top1_m": 1859,
+      "median_top3_m": 1260,
+      "median_top_fraction": 0.36,
+      "log_loss_n": 17,
+      "mean_log_loss": 7.016
+    },
+    "mall": {
+      "n": 17,
+      "top_decile": 10,
+      "hit3_300": 8,
+      "median_top1_m": 1450,
+      "mean_top1_m": 1608,
+      "median_top3_m": 431,
+      "median_top_fraction": 0.0482,
+      "log_loss_n": 17,
+      "mean_log_loss": 6.881
+    },
+    "site_only": {
+      "n": 17,
+      "top_decile": 12,
+      "hit3_300": 10,
+      "median_top1_m": 1804,
+      "mean_top1_m": 1597,
+      "median_top3_m": 223,
+      "median_top_fraction": 0.0235,
+      "log_loss_n": 17,
+      "mean_log_loss": 5.979
+    },
+    "density_only": {
+      "n": 17,
+      "top_decile": 5,
+      "hit3_300": 3,
+      "median_top1_m": 1690,
+      "mean_top1_m": 1709,
+      "median_top3_m": 874,
+      "median_top_fraction": 0.3569,
+      "log_loss_n": 17,
+      "mean_log_loss": 6.923
+    },
+    "joint": {
+      "n": 17,
+      "top_decile": 11,
+      "hit3_300": 10,
+      "median_top1_m": 1551,
+      "mean_top1_m": 1458,
+      "median_top3_m": 230,
+      "median_top_fraction": 0.0235,
+      "log_loss_n": 17,
+      "mean_log_loss": 5.937
+    }
+  },
+  "entry_with_current_spirit": {
+    "entry": {
+      "n": 13,
+      "top_decile": 9,
+      "hit3_300": 7,
+      "median_top1_m": 833,
+      "mean_top1_m": 1095,
+      "median_top3_m": 298,
+      "median_top_fraction": 0.0305,
+      "log_loss_n": 13,
+      "mean_log_loss": 5.802
+    },
+    "capture_only": {
+      "n": 13,
+      "top_decile": 1,
+      "hit3_300": 1,
+      "median_top1_m": 1573,
+      "mean_top1_m": 1508,
+      "median_top3_m": 1026,
+      "median_top_fraction": 0.4026,
+      "log_loss_n": 13,
+      "mean_log_loss": 6.923
+    },
+    "mall": {
+      "n": 13,
+      "top_decile": 7,
+      "hit3_300": 6,
+      "median_top1_m": 1239,
+      "mean_top1_m": 1364,
+      "median_top3_m": 431,
+      "median_top_fraction": 0.0725,
+      "log_loss_n": 13,
+      "mean_log_loss": 6.773
+    },
+    "joint": {
+      "n": 13,
+      "top_decile": 7,
+      "hit3_300": 7,
+      "median_top1_m": 1241,
+      "mean_top1_m": 1373,
+      "median_top3_m": 298,
+      "median_top_fraction": 0.0351,
+      "log_loss_n": 13,
+      "mean_log_loss": 5.97
+    }
+  },
+  "paired_hit_rate_vs_site_only": {
+    "housing": {
+      "difference": -0.5882352941176471,
+      "interval_95": [
+        -0.8235294117647058,
+        -0.3333333333333333
+      ],
+      "blocks": 14,
+      "replicates": 5000
+    },
+    "mall": {
+      "difference": -0.11764705882352941,
+      "interval_95": [
+        -0.2857142857142857,
+        0.0
+      ],
+      "blocks": 14,
+      "replicates": 5000
+    },
+    "density_only": {
+      "difference": -0.4117647058823529,
+      "interval_95": [
+        -0.625,
+        -0.2
+      ],
+      "blocks": 14,
+      "replicates": 5000
+    },
+    "joint": {
+      "difference": 0.0,
+      "interval_95": [
+        0.0,
+        0.0
+      ],
+      "blocks": 14,
+      "replicates": 5000
+    }
+  },
+  "density_top_decile_mass": 0.18644631522438154,
+  "historical_entry_skipped": [
+    {
+      "name": "DDX Бульвар Яна Райниса",
+      "reason": "no_rival_within_buffer"
+    },
+    {
+      "name": "DDX Озерная Лейкс",
+      "reason": "occupied_or_zero_capture_at_target"
+    },
+    {
+      "name": "DDX Солнцево Небо",
+      "reason": "occupied_or_zero_capture_at_target"
+    },
+    {
+      "name": "DDX Сходненская",
+      "reason": "no_rival_within_buffer"
+    }
+  ],
+  "maryino": {
+    "legacy_capture": {
+      "n": 3,
+      "top_decile": 2,
+      "hit3_300": 1,
+      "median_top1_m": 631,
+      "mean_top1_m": 685,
+      "median_top3_m": 508,
+      "median_top_fraction": 0.0701,
+      "log_loss_n": 3,
+      "mean_log_loss": 6.307
+    },
+    "learned_capture": {
+      "n": 3,
+      "top_decile": 1,
+      "hit3_300": 1,
+      "median_top1_m": 669,
+      "mean_top1_m": 705,
+      "median_top3_m": 615,
+      "median_top_fraction": 0.1114,
+      "log_loss_n": 3,
+      "mean_log_loss": 6.278
+    },
+    "legacy_capture_plus_site": {
+      "n": 3,
+      "top_decile": 3,
+      "hit3_300": 1,
+      "median_top1_m": 437,
+      "mean_top1_m": 336,
+      "median_top3_m": 437,
+      "median_top_fraction": 0.0025,
+      "log_loss_n": 3,
+      "mean_log_loss": 3.2
+    },
+    "mall": {
+      "n": 3,
+      "top_decile": 2,
+      "hit3_300": 2,
+      "median_top1_m": 1095,
+      "mean_top1_m": 1211,
+      "median_top3_m": 50,
+      "median_top_fraction": 0.0016,
+      "log_loss_n": 3,
+      "mean_log_loss": 6.398
+    },
+    "joint": {
+      "n": 3,
+      "top_decile": 3,
+      "hit3_300": 1,
+      "median_top1_m": 437,
+      "mean_top1_m": 515,
+      "median_top3_m": 437,
+      "median_top_fraction": 0.0025,
+      "log_loss_n": 3,
+      "mean_log_loss": 3.498
+    },
+    "entry": {
+      "n": 3,
+      "top_decile": 3,
+      "hit3_300": 1,
+      "median_top1_m": 437,
+      "mean_top1_m": 336,
+      "median_top3_m": 437,
+      "median_top_fraction": 0.0035,
+      "log_loss_n": 3,
+      "mean_log_loss": 3.167
+    }
+  },
+  "wider_market": {
+    "clubs": 13,
+    "winner": [
+      "Братиславский рынок",
+      "Мячковский бульвар, 3А",
+      26
+    ],
+    "distance_to_main_m": 849
+  },
+  "bootstrap_replicates": 40,
+  "recommendations": [
+    {
+      "lon": 37.742388,
+      "lat": 55.652653,
+      "landmark": "Марьинский пассаж",
+      "address": "Люблинская улица, 102А",
+      "landmark_m": 42,
+      "net_gain_pp": 6.982,
+      "gross_pp": 11.954,
+      "own_transfer_pp": 4.972,
+      "score": 3.8066,
+      "shortlist": 1,
+      "bootstrap_gain_p10_pp": 5.699,
+      "bootstrap_gain_p90_pp": 7.863,
+      "bootstrap_first_within_300m": 0.8,
+      "wider_market_gain_pp": 5.759
+    },
+    {
+      "lon": 37.751942,
+      "lat": 55.658042,
+      "landmark": "Братиславский рынок",
+      "address": "Мячковский бульвар, 3А",
+      "landmark_m": 26,
+      "net_gain_pp": 8.086,
+      "gross_pp": 36.433,
+      "own_transfer_pp": 28.347,
+      "score": 3.31774,
+      "shortlist": 2,
+      "bootstrap_gain_p10_pp": 7.59,
+      "bootstrap_gain_p90_pp": 8.802,
+      "bootstrap_first_within_300m": 0.2,
+      "wider_market_gain_pp": 29.601
+    },
+    {
+      "lon": 37.736019,
+      "lat": 55.648161,
+      "landmark": "Лента",
+      "address": "Новочеркасский бульвар, 41 к4",
+      "landmark_m": 22,
+      "net_gain_pp": 5.138,
+      "gross_pp": 10.08,
+      "own_transfer_pp": 4.942,
+      "score": 3.20348,
+      "shortlist": 3,
+      "bootstrap_gain_p10_pp": 4.287,
+      "bootstrap_gain_p90_pp": 5.665,
+      "bootstrap_first_within_300m": 0.0,
+      "wider_market_gain_pp": 4.858
+    }
+  ],
+  "local_competitors": 8,
+  "local_targets": 3
+}

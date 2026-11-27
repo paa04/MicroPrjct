@@ -1,12 +1,26 @@
 import unittest
 import numpy as np
 
-from economy_model import (DATA, DENSITY, SITE, Event, coordinates, evaluate, fit,
+from economy_model import (DATA, DENSITY, SITE, Event, coordinates, evaluate, fit, paired_hit_intervals,
                            local_market, records, zones)
 from spatial_model import geographic
 
 
 class EconomyTests(unittest.TestCase):
+    def test_paired_intervals_keep_openings_in_same_tile_together(self):
+        xy = np.zeros((1, 2))
+        events = [Event({'id': str(i)}, (i // 2, 0), xy, xy, 0, xy[0]) for i in range(4)]
+        rows = []
+        repeated_events = []
+        for event, hit in zip(events, [1, 1, 0, 0]):
+            for name, value in [('site_only', 0), ('joint', hit)]:
+                repeated_events.append(event)
+                rows.append({'model': name, 'hit3_300': value})
+        result = paired_hit_intervals(repeated_events, rows, samples=1000)['joint']
+        self.assertEqual(result['difference'], .5)
+        self.assertEqual(result['blocks'], 2)
+        self.assertEqual(result['interval_95'], [0., 1.])
+
     def test_constant_site_features_do_not_cancel_density_learning(self):
         matrix = np.zeros((3, len(DENSITY)+len(SITE)))
         matrix[:, 0] = [0, 1, 2]

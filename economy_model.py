@@ -54,7 +54,6 @@ class Features:
         venues = records(DATA/'venues.csv')
         self.venues = cKDTree(coordinates(venues))
         self.areas = np.array([float(r['footprint_m2']) for r in venues])
-        self.large_venues = cKDTree(self.venues.data[self.areas >= 1000])
 
     def measure(self, xy):
         columns = []
@@ -202,9 +201,35 @@ def summary(rows):
         result[name] = dict(n=len(subset), top_decile=sum(r['in_top_decile'] for r in subset),
                             hit3_300=sum(r['hit3_300'] for r in subset),
                             median_top1_m=round(float(np.median([r['top1_m'] for r in subset]))),
+                            mean_top1_m=round(float(np.mean([r['top1_m'] for r in subset]))),
                             median_top3_m=round(float(np.median([r['top3_m'] for r in subset]))),
                             median_top_fraction=round(float(np.median([r['top_fraction'] for r in subset])), 4),
                             log_loss_n=len(losses), mean_log_loss=round(float(np.mean(losses)), 3) if losses else None)
+    return result
+
+
+def paired_hit_intervals(events, rows, baseline='site_only', samples=5000):
+    """Bootstrap paired hit-rate differences by spatial tile, not by opening."""
+    by_model = {}
+    for event, row in zip(events, rows):
+        by_model.setdefault(row['model'], {})[event.club['id']] = (event.tile, row['hit3_300'])
+    reference = by_model[baseline]
+    rng = np.random.default_rng(2026)
+    result = {}
+    for name, values in by_model.items():
+        if name == baseline:
+            continue
+        blocks = {}
+        for key, (tile, hit) in values.items():
+            blocks.setdefault(tile, []).append(hit-reference[key][1])
+        groups = list(blocks.values())
+        differences = []
+        for _ in range(samples):
+            sample = rng.integers(len(groups), size=len(groups))
+            differences.append(np.mean([value for i in sample for value in groups[i]]))
+        result[name] = dict(difference=float(np.mean([v for group in groups for v in group])),
+                            interval_95=[float(v) for v in np.quantile(differences, [.025, .975])],
+                            blocks=len(groups), replicates=samples)
     return result
 
 
@@ -240,6 +265,14 @@ def local_market(catalog, ring, radius, uncertain=False):
         if distance <= radius:
             result.append(dict(r, scope='inside' if distance==0 else 'buffer', boundary_m=round(distance)))
     return result
+
+
+def other_gym_mask(market, sites):
+    # Avoid suggesting premises occupied by a reviewed gym of another format.
+    reviewed = [r for r in records(ROOT/'data/clubs_reviewed.csv') if r['eligible']=='yes']
+    market_tree = cKDTree(coordinates(market))
+    other = [r for r, dist in zip(reviewed, market_tree.query(coordinates(reviewed))[0]) if dist > MIN_DISTANCE]
+    return cKDTree(coordinates(other)).query(sites)[0] < MIN_DISTANCE if other else np.zeros(len(sites), bool)
 
 
 def entry_scores(cells, rho, sites, site_log, clubs, network):
@@ -332,26 +365,17 @@ def run(output, step=100, radius=3000):
     model = fit(train, ridge)
     density_only = fit(train, ridge, range(N))
     site_only = fit(train, ridge, range(N, N+len(SITE)))
-    temporal, commercial, uncovered = [], [], []
+    temporal = []
+    temporal_events = []
     for e in test:
         for name, score in [('housing', e.x[:, 0]), ('mall', e.x[:, N]), ('site_only', site_only.scores(e.x)),
                             ('density_only', density_only.scores(e.x)), ('joint', model.scores(e.x))]:
             temporal.append(evaluate(name, e, score))
-        viable = features.large_venues.query(e.xy)[0] <= 150
-        if viable[e.target]:
-            for name, scores in [('mall', e.x[:, N]), ('site_only', site_only.scores(e.x)),
-                                 ('joint', model.scores(e.x))]:
-                commercial.append(evaluate(name, e, np.where(viable, scores, -np.inf)))
-        else:
-            uncovered.append(e.club['name'])
+            temporal_events.append(e)
     retrospective, skipped = historical_entry(test, catalog, model)
     market = local_market(catalog, ring, radius)
     wide_market = local_market(catalog, ring, radius, uncertain=True)
-    # Avoid suggesting premises occupied by a reviewed gym of another format.
-    reviewed = [r for r in records(ROOT/'data/clubs_reviewed.csv') if r['eligible']=='yes']
-    market_tree = cKDTree(coordinates(market))
-    other = [r for r, dist in zip(reviewed, market_tree.query(coordinates(reviewed))[0]) if dist > MIN_DISTANCE]
-    other_occupied = cKDTree(coordinates(other)).query(sites)[0] < MIN_DISTANCE if other else np.zeros(len(sites), bool)
+    other_occupied = other_gym_mask(market, sites)
     save_csv(output/'competition.csv', market)
     x = features.measure(cells)
     terms = model.terms(x)
@@ -417,10 +441,10 @@ def run(output, step=100, radius=3000):
         equilibrium.append(dict(network=chain, max_unilateral_gain_pp=worst['max_regret_pp'],
                                 club=worst['name']))
     save_csv(output/'equilibrium_networks.csv', equilibrium)
-    for group, subset in [('temporal', temporal), ('commercial', commercial), ('temporal_current_rivals', retrospective), ('district', local)]:
+    for group, subset in [('temporal', temporal), ('temporal_current_rivals', retrospective), ('district', local)]:
         for row in subset:
             row['evaluation'] = group
-    save_csv(output/'historical_validation.csv', temporal+commercial+retrospective+local)
+    save_csv(output/'historical_validation.csv', temporal+retrospective+local)
     spatial = [dict(type='Feature', geometry=dict(type='Point', coordinates=ll.tolist()),
                     properties=dict(demand_share=float(p), allowed=bool(a)))
                for ll, p, a in zip(geographic(cells), rho, allowed)]
@@ -436,7 +460,7 @@ def run(output, step=100, radius=3000):
                   radius_m=radius, spatial_cv_log_loss=cv, ridge=ridge, features=list(DENSITY+SITE),
                   means=model.mean.tolist(), scales=model.scale.tolist(), coefficients=model.coef.tolist(),
                   temporal=summary(temporal), entry_with_current_spirit=summary(retrospective),
-                  commercial=summary(commercial), commercial_outside_support=uncovered,
+                  paired_hit_rate_vs_site_only=paired_hit_intervals(temporal_events, temporal),
                   density_top_decile_mass=float(np.sort(rho)[-int(np.ceil(len(rho)/10)):].sum()),
                   historical_entry_skipped=skipped, maryino=summary(local),
                   wider_market=dict(clubs=len(wide_market), winner=labels[wide_best],

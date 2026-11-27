@@ -1,0 +1,9 @@
+﻿network,id,name,opened,lon,lat,address,url,scope,boundary_m
+DDX,24,DDX Братеево Браво,2022-09-27,37.7593,55.639,"ул. Борисовские Пруды, 26 стр. 2, ТЦ «БраVo!», этаж 2",https://cdn-ps.ddxfitness.ru/clubs/ddx-brateevo-bravo/,buffer,440
+DDX,237,DDX Братиславская Люблю Молл,2025-01-20,37.741699,55.65871,"ул. Люблинская, 153, ТЦ «Люблю Молл», этаж 4",https://cdn-ps.ddxfitness.ru/clubs/ddx-bratislavskaya/,inside,0
+DDX,239,DDX Кантемировская,2025-01-29,37.656491,55.637742,"ул. Кантемировская, 47, ТЦ «Кантемировский», этаж 2",https://cdn-ps.ddxfitness.ru/clubs/ddx-kantemirovskaya/,buffer,2385
+DDX,20,DDX Марьино Экран,2022-12-26,37.727769,55.647925,"Новочеркасский бульвар, 21А, РЦ «Экран», этаж -1",https://cdn-ps.ddxfitness.ru/clubs/ddx-marino-ekran/,inside,0
+Spirit,483,Spirit. Каширское шоссе,,37.70892972976,55.624590159818,"Каширское ш., д. 80, ТЦ ""Борисовский""",https://spiritfit.ru/clubs/kashirskiy/,buffer,1677
+Spirit,787,Spirit. Марьино,,37.7450216,55.6490146,"Люблинская улица, 169 к2 ТРЦ ""Мариэль"", 4 этаж",https://spiritfit.ru/clubs/metro-marino/,inside,0
+X-Fit,node/14388646601,XFIT Point Люблинский парк,,37.73299,55.66065,"Люблинская улица, 80 к4",https://www.xfit.ru/club/moskva/xfit-point-lyblinskiy-park/,buffer,168
+Fitnation,node/8591440923,Fitnation Домодедовская,,37.7166461,55.6207316,"улица Генерала Белова, 8",https://club.fitnation.ru/dmd,buffer,2095
