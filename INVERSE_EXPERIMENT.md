@@ -40,3 +40,31 @@ None demonstrates better historical prediction than the original joint model. Do
 - Compromise: 55.658042, 37.753534, Bratislavsky market, gain 8.32–18.14 pp, worst regret 45.42%.
 
 These are normalized potential-demand shares with a scenario outside option, not sales or profit. Neither availability, actual usable floor space, lease, capacity, service quality, nor walking routes are verified in this experiment. Keep main unchanged; recommend checking the eastern candidate and Bratislavsky market in the existing pedestrian-graph model and obtaining verified premises data before making a business decision.
+
+
+## Dynamic Moscow-only regime adaptation
+
+```bash
+node dynamic_experiment.js
+node expert_experiment.js
+node dynamic_maryino.js
+node test_dynamic.js
+```
+
+Audit using a consistent spatial feature instead of address text: nearest mapped mall POI within 150m of the opening's 100m grid cell is 21/28 in train and 7/17 in test; within 300m it is 24/28 vs 11/17. Address text gives 27/28 vs 9/17 but is not a verified building category. This confirms a shift in the observed feature, not necessarily causal strategy change. Moscow only; no geographic expansion. Maryino and guard tiles remain excluded.
+
+Each historical prediction is made using parameters fitted before the start of its six-month period. Compare static, expanding, recency weighted (half-life 1.5 years), class-balanced and hierarchical regime-specific models. The two regimes are proximity to a mapped mall (150m) and other cells, not literal commercial/residential zoning. Gate uses only past opening locations; address text is audit-only. Regime coefficients shrink toward a shared model with penalty 1.5. No future target labels enter the fit.
+
+| Model/rule | Hit1 | Hit3 | Median top1 m | Median top3 m | NLL |
+|---|---:|---:|---:|---:|---:|
+| Original joint (repository baseline) | 4/17 | 10/17 | 1551 | 230 | 5.937 |
+| Matched static joint/mode | 4/17 | 8/17 | 1551 | 317 | 5.755 |
+| Recent joint/mode | 4/17 | 8/17 | 1551 | 313 | 5.626 |
+| Recent experts/mode | 4/17 | 10/17 | 1062 | 223 | 5.536 |
+| Recent experts/mass | 5/17 | 9/17 | 1118 | 231 | 5.536 |
+| Structural experts/mode | 4/17 | 8/17 | 989 | 431 | 5.595 |
+| Structural experts/mass | 5/17 | 8/17 | 997 | 315 | 5.595 |
+
+The matched static reference uses the same candidate mask and feature pipeline as the dynamic variants; original repository baseline differs in features and mask. These are exploratory retrospective comparisons on previously examined outcomes, not fresh test estimates. 2026 subset has only 3 observations; none of the new variants hits a first prediction within 300m there. Remaining difficulty: recent experts/mode finds 7/7 mall-near openings in top3, but only 3/10 other openings. Do not claim domain shift fully eliminated. Full historical snapshots, property owner, vacancy and rent not recovered; current OSM is used. Closed clubs absent from catalogs may bias evaluation. No historical claim of economic profit optimality.
+
+Local reconstruction (45 outside-holdout Moscow openings up to 2026-11-27; current market; not a historical backtest): static first distances 50m (Люблю Молл) and 1058m (Экран), recent experts/mode 50m and 519m. Local recommendations from recent experts/mode are 55.648161,37.736019; 55.652653,37.742388; 55.658042,37.751942. Their scenario net network gains are 6.47, 8.36, 12.54 pp respectively at tau=800 and housing proxy. Predictive mode is distinct from robust economic recommendation. For current local planning preserve the robust scenario analysis and consider the market location as a compromise. Test assertions verified against committed reports (chronology, probability normalization, market accounting). Main branch unchanged.
