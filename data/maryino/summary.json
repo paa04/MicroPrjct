@@ -1,0 +1,25 @@
+{
+  "generated_utc": "2026-11-27T12:14:18.486642+00:00",
+  "source": "OpenStreetMap API 0.6",
+  "boundary_relation": 455222,
+  "tiles": 12,
+  "counts": {
+    "bus_stop": 188,
+    "commercial": 42,
+    "education": 106,
+    "fitness_club": 15,
+    "healthcare": 44,
+    "large_store": 61,
+    "metro_entrance": 14,
+    "metro_platform": 2,
+    "metro_station": 2,
+    "office_building": 13,
+    "office_service": 45,
+    "outdoor_fitness": 42,
+    "residential_area": 19,
+    "residential_building": 365,
+    "retail_building": 71,
+    "shopping_mall": 7
+  },
+  "total": 1036
+}

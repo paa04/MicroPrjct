@@ -1,0 +1,2 @@
+network,id,lon,lat,source,building,reason
+Spirit,787,37.7450216,55.6490146,https://www.openstreetmap.org/node/10046657528,https://www.openstreetmap.org/way/27780732,Адрес оператора Люблинская 169 к2 совпадает с ТРЦ Мариэль. Маркер общего каталога смещён за пределы здания.

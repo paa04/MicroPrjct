@@ -1,0 +1,839 @@
+{
+  "source": "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
+  "osm_timestamp": "2026-11-27T12:35:50Z",
+  "boundary_relation": 455222,
+  "buffer_m": 3000,
+  "features": [
+    {
+      "osm_type": "node",
+      "osm_id": 2452280489,
+      "name": "Мисс фитнес",
+      "brand": "",
+      "lon": 37.680677,
+      "lat": 55.632402,
+      "scope": "buffer",
+      "distance_to_boundary_m": 1486,
+      "tags": {
+        "entrance": "yes",
+        "leisure": "fitness_centre",
+        "name": "Мисс фитнес",
+        "opening_hours": "Mo-Fr 08:00-23:00; Sa-Su 09:00-22:00"
+      },
+      "source": "https://www.openstreetmap.org/node/2452280489"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3380928019,
+      "name": "Альфа-фитнес",
+      "brand": "",
+      "lon": 37.7092846,
+      "lat": 55.6246775,
+      "scope": "buffer",
+      "distance_to_boundary_m": 1664,
+      "tags": {
+        "contact:phone": "+7 495 2237575",
+        "contact:website": "http://www.alfafitness.ru",
+        "leisure": "fitness_centre",
+        "name": "Альфа-фитнес",
+        "opening_hours": "Mo-Fr 07:00-24:00; Sa,Su 08:00-24:00",
+        "sport": "fitness"
+      },
+      "source": "https://www.openstreetmap.org/node/3380928019"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 3936520757,
+      "name": "DorFit",
+      "brand": "",
+      "lon": 37.6591536,
+      "lat": 55.6290703,
+      "scope": "buffer",
+      "distance_to_boundary_m": 2682,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "DorFit",
+        "opening_hours": "Mo-Fr 09:00-00:00; Sa-Su 07:00-22:00"
+      },
+      "source": "https://www.openstreetmap.org/node/3936520757"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4368540724,
+      "name": "Адреналин",
+      "brand": "",
+      "lon": 37.7410742,
+      "lat": 55.629086,
+      "scope": "buffer",
+      "distance_to_boundary_m": 1226,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Адреналин",
+        "phone": "+7 499 7254067;+7 926 2165665",
+        "website": "https://adrenalin-sport.ru"
+      },
+      "source": "https://www.openstreetmap.org/node/4368540724"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5202544821,
+      "name": "ЮВ-Спорт",
+      "brand": "",
+      "lon": 37.738642,
+      "lat": 55.6737026,
+      "scope": "buffer",
+      "distance_to_boundary_m": 1125,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "ЮВ-Спорт"
+      },
+      "source": "https://www.openstreetmap.org/node/5202544821"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5566602727,
+      "name": "Фитнес Файв",
+      "brand": "",
+      "lon": 37.6634623,
+      "lat": 55.6438609,
+      "scope": "buffer",
+      "distance_to_boundary_m": 1849,
+      "tags": {
+        "contact:email": "fitness.five@yandex.ru",
+        "contact:phone": "+7 499 4902660",
+        "contact:website": "https://prizfit.ru",
+        "leisure": "fitness_centre",
+        "name": "Фитнес Файв",
+        "opening_hours": "24/7"
+      },
+      "source": "https://www.openstreetmap.org/node/5566602727"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5600319068,
+      "name": "",
+      "brand": "",
+      "lon": 37.7030195,
+      "lat": 55.6159109,
+      "scope": "buffer",
+      "distance_to_boundary_m": 2699,
+      "tags": {
+        "leisure": "fitness_centre"
+      },
+      "source": "https://www.openstreetmap.org/node/5600319068"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5648017222,
+      "name": "Force factory",
+      "brand": "",
+      "lon": 37.7453145,
+      "lat": 55.6154731,
+      "scope": "buffer",
+      "distance_to_boundary_m": 2719,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Force factory"
+      },
+      "source": "https://www.openstreetmap.org/node/5648017222"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5777656197,
+      "name": "Олимпик",
+      "brand": "",
+      "lon": 37.7458179,
+      "lat": 55.6212671,
+      "scope": "buffer",
+      "distance_to_boundary_m": 2074,
+      "tags": {
+        "contact:phone": "+7 495 5177300",
+        "contact:website": "https://olimpic-fit.ru",
+        "leisure": "fitness_centre",
+        "name": "Олимпик",
+        "opening_hours": "Mo-Fr 07:00-23:00; Sa,Su 08:00-22:00"
+      },
+      "source": "https://www.openstreetmap.org/node/5777656197"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5780292780,
+      "name": "СССР",
+      "brand": "",
+      "lon": 37.6744609,
+      "lat": 55.633036,
+      "scope": "buffer",
+      "distance_to_boundary_m": 1669,
+      "tags": {
+        "contact:email": "director@fitness-cccp.ru",
+        "contact:phone": "+7 495 2661334",
+        "contact:website": "https://fitness-cccp.ru",
+        "leisure": "fitness_centre",
+        "name": "СССР",
+        "opening_hours": "24/7"
+      },
+      "source": "https://www.openstreetmap.org/node/5780292780"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6112088785,
+      "name": "Ла Салюте",
+      "brand": "",
+      "lon": 37.7653463,
+      "lat": 55.6742246,
+      "scope": "buffer",
+      "distance_to_boundary_m": 604,
+      "tags": {
+        "addr:postcode": "109559",
+        "addr:street": "Белореченская улица",
+        "leisure": "fitness_centre",
+        "name": "Ла Салюте",
+        "name:en": "La Salute sports & relax club",
+        "opening_hours": "Mo-Su 06:00-23:00"
+      },
+      "source": "https://www.openstreetmap.org/node/6112088785"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6205282486,
+      "name": "",
+      "brand": "",
+      "lon": 37.7311718,
+      "lat": 55.6832972,
+      "scope": "buffer",
+      "distance_to_boundary_m": 2268,
+      "tags": {
+        "leisure": "fitness_centre"
+      },
+      "source": "https://www.openstreetmap.org/node/6205282486"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6342032085,
+      "name": "World Class",
+      "brand": "World Class",
+      "lon": 37.7141655,
+      "lat": 55.6220686,
+      "scope": "buffer",
+      "distance_to_boundary_m": 1937,
+      "tags": {
+        "addr:city": "Москва",
+        "addr:housenumber": "61 с2",
+        "addr:street": "Каширское шоссе",
+        "brand": "World Class",
+        "brand:wikidata": "Q102350852",
+        "contact:email": "ya@worldclass.ru",
+        "contact:phone": "+7 495 7880000",
+        "contact:website": "https://www.worldclass.ru/",
+        "fee": "yes",
+        "leisure": "fitness_centre",
+        "name": "World Class",
+        "opening_hours": "Mo-Fr 7:00-24:00;Sa-Su 9:00-24:00",
+        "operator": "«Спорт Форум»",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "payment:visa_electron": "yes",
+        "sport": "athletics;exercise;fitness;gymnastics;multi;swimming;yoga",
+        "start_date": "2018"
+      },
+      "source": "https://www.openstreetmap.org/node/6342032085"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6779229526,
+      "name": "Территория Фитнеса",
+      "brand": "",
+      "lon": 37.7160403,
+      "lat": 55.6804321,
+      "scope": "buffer",
+      "distance_to_boundary_m": 2254,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Территория Фитнеса",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "phone": "+7 499 7050606",
+        "sport": "swimming;Gym",
+        "website": "https://music-service.ru/"
+      },
+      "source": "https://www.openstreetmap.org/node/6779229526"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6967587917,
+      "name": "Территория фитнеса",
+      "brand": "",
+      "lon": 37.7834603,
+      "lat": 55.6646667,
+      "scope": "buffer",
+      "distance_to_boundary_m": 138,
+      "tags": {
+        "contact:phone": "+7 499 5888013",
+        "contact:website": "https://www.terfit.ru",
+        "leisure": "fitness_centre",
+        "name": "Территория фитнеса"
+      },
+      "source": "https://www.openstreetmap.org/node/6967587917"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7271728288,
+      "name": "Зебра",
+      "brand": "",
+      "lon": 37.725887,
+      "lat": 55.67286,
+      "scope": "buffer",
+      "distance_to_boundary_m": 1439,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Зебра"
+      },
+      "source": "https://www.openstreetmap.org/node/7271728288"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 8591440923,
+      "name": "Fitnation",
+      "brand": "",
+      "lon": 37.7166461,
+      "lat": 55.6207316,
+      "scope": "buffer",
+      "distance_to_boundary_m": 2095,
+      "tags": {
+        "addr:city": "Москва",
+        "addr:housenumber": "8",
+        "addr:postcode": "115563",
+        "addr:street": "улица Генерала Белова",
+        "leisure": "fitness_centre",
+        "name": "Fitnation",
+        "opening_hours": "24/7",
+        "sport": "fitness;yoga;pilates;cycling",
+        "website": "https://fitnation.ru/ru/"
+      },
+      "source": "https://www.openstreetmap.org/node/8591440923"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9223626287,
+      "name": "",
+      "brand": "",
+      "lon": 37.6952721,
+      "lat": 55.678991,
+      "scope": "buffer",
+      "distance_to_boundary_m": 2540,
+      "tags": {
+        "leisure": "fitness_centre"
+      },
+      "source": "https://www.openstreetmap.org/node/9223626287"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9223626292,
+      "name": "Студия йоги Элемента",
+      "brand": "",
+      "lon": 37.6965103,
+      "lat": 55.6809189,
+      "scope": "buffer",
+      "distance_to_boundary_m": 2703,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Студия йоги Элемента"
+      },
+      "source": "https://www.openstreetmap.org/node/9223626292"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 9421035059,
+      "name": "СДЦ Люблино",
+      "brand": "",
+      "lon": 37.7503109,
+      "lat": 55.6748643,
+      "scope": "buffer",
+      "distance_to_boundary_m": 931,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "СДЦ Люблино",
+        "phone": "+74997845370",
+        "website": "https://www.lublino-sport.ru/"
+      },
+      "source": "https://www.openstreetmap.org/node/9421035059"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10046657518,
+      "name": "Spirit Fitness",
+      "brand": "",
+      "lon": 37.708973,
+      "lat": 55.62458,
+      "scope": "buffer",
+      "distance_to_boundary_m": 1678,
+      "tags": {
+        "contact:email": "kashirskiy@spiritfit.ru",
+        "contact:phone": "+7 495 1059797;+7 495 1533782",
+        "contact:website": "https://spiritfit.ru/clubs/kashirskiy/",
+        "leisure": "fitness_centre",
+        "name": "Spirit Fitness",
+        "opening_hours": "24/7"
+      },
+      "source": "https://www.openstreetmap.org/node/10046657518"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10655436164,
+      "name": "Ddx",
+      "brand": "",
+      "lon": 37.7589959,
+      "lat": 55.6387156,
+      "scope": "buffer",
+      "distance_to_boundary_m": 459,
+      "tags": {
+        "contact:phone": "+7 495 2555000",
+        "contact:website": "https://www.ddxfitness.ru/clubs/ddx-brateevo-bravo/",
+        "leisure": "fitness_centre",
+        "name": "Ddx",
+        "opening_hours": "Mo-Su 06:00-00:00"
+      },
+      "source": "https://www.openstreetmap.org/node/10655436164"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 13267754245,
+      "name": "МетроFitness",
+      "brand": "",
+      "lon": 37.7582288,
+      "lat": 55.640078,
+      "scope": "buffer",
+      "distance_to_boundary_m": 303,
+      "tags": {
+        "contact:phone": "+7 495 3748834;+7 915 4060426",
+        "contact:website": "https://msk.metrofitness.ru",
+        "leisure": "fitness_centre",
+        "name": "МетроFitness",
+        "opening_hours": "24/7"
+      },
+      "source": "https://www.openstreetmap.org/node/13267754245"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14270903143,
+      "name": "Арена",
+      "brand": "",
+      "lon": 37.7057059,
+      "lat": 55.6141449,
+      "scope": "buffer",
+      "distance_to_boundary_m": 2858,
+      "tags": {
+        "addr:floor": "1",
+        "addr:housenumber": "12",
+        "addr:street": "Домодедовская улица",
+        "check_date": "2026-10-10",
+        "leisure": "fitness_centre",
+        "level": "0",
+        "name": "Арена",
+        "name:ru": "Арена",
+        "opening_hours": "Mo-Fr 07:00-24:00; Sa-Su 09:00-22:00",
+        "phone": "+7 499 444-35-01",
+        "wheelchair": "no"
+      },
+      "source": "https://www.openstreetmap.org/node/14270903143"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14368419601,
+      "name": "DDX Fitness",
+      "brand": "",
+      "lon": 37.65649,
+      "lat": 55.63774,
+      "scope": "buffer",
+      "distance_to_boundary_m": 2385,
+      "tags": {
+        "contact:phone": "+7 495 3745507",
+        "contact:telegram": "https://t.me/ddxfitness_official",
+        "contact:vk": "https://vk.com/ddx_fitness",
+        "contact:website": "https://www.ddxfitness.ru/clubs/ddx-kantemirovskaya/",
+        "leisure": "fitness_centre",
+        "name": "DDX Fitness",
+        "official_name": "DDX Кантемировская",
+        "opening_hours": "Mo-Su 06:00-24:00"
+      },
+      "source": "https://www.openstreetmap.org/node/14368419601"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14388646601,
+      "name": "Xfit Point",
+      "brand": "",
+      "lon": 37.73299,
+      "lat": 55.66065,
+      "scope": "buffer",
+      "distance_to_boundary_m": 168,
+      "tags": {
+        "contact:max": "https://max.ru/u/id772882833656_biz",
+        "contact:phone": "+7 495 2923488",
+        "contact:telegram": "https://t.me/xfit_point_marino",
+        "contact:website": "https://www.xfit.ru/club/moskva/xfit-point-lyblinskiy-park/",
+        "leisure": "fitness_centre",
+        "name": "Xfit Point",
+        "official_name": "XFIT Point Люблинский парк",
+        "opening_hours": "Mo-Su 06:00-24:00"
+      },
+      "source": "https://www.openstreetmap.org/node/14388646601"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 14389220601,
+      "name": "Xfit",
+      "brand": "",
+      "lon": 37.71849,
+      "lat": 55.62303,
+      "scope": "buffer",
+      "distance_to_boundary_m": 1857,
+      "tags": {
+        "contact:phone": "+7 499 6887231",
+        "contact:telegram": "https://t.me/xfitmfua",
+        "contact:vk": "https://vk.com/xfitofficial;https://vk.com/xfit_mfua;https://vk.com/public220612082",
+        "contact:website": "https://domodedovskaya.xfit.ru/",
+        "contact:youtube": "https://www.youtube.com/user/xfitrussia",
+        "leisure": "fitness_centre",
+        "name": "Xfit",
+        "official_name": "XFIT Генерала Белова",
+        "opening_hours": "Mo-Fr 07:00-23:00; Sa,Su 08:00-22:00"
+      },
+      "source": "https://www.openstreetmap.org/node/14389220601"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 118200257,
+      "name": "",
+      "brand": "",
+      "lon": 37.7259556,
+      "lat": 55.6728294,
+      "scope": "buffer",
+      "distance_to_boundary_m": 1437,
+      "tags": {
+        "barrier": "fence",
+        "leisure": "fitness_centre",
+        "source": "Bing"
+      },
+      "source": "https://www.openstreetmap.org/way/118200257"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 377761720,
+      "name": "",
+      "brand": "",
+      "lon": 37.6777637,
+      "lat": 55.6346665,
+      "scope": "buffer",
+      "distance_to_boundary_m": 1395,
+      "tags": {
+        "leisure": "fitness_centre"
+      },
+      "source": "https://www.openstreetmap.org/way/377761720"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 651766124,
+      "name": "",
+      "brand": "",
+      "lon": 37.7283158,
+      "lat": 55.6269458,
+      "scope": "buffer",
+      "distance_to_boundary_m": 1522,
+      "tags": {
+        "leisure": "fitness_centre"
+      },
+      "source": "https://www.openstreetmap.org/way/651766124"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 612135396,
+      "name": "Мисс Фитнес",
+      "brand": "",
+      "lon": 37.7376109,
+      "lat": 55.6462052,
+      "scope": "inside",
+      "distance_to_boundary_m": 0,
+      "tags": {
+        "contact:phone": "+7 495 3746893",
+        "contact:website": "http://missfitness.ru/marino/",
+        "leisure": "fitness_centre",
+        "name": "Мисс Фитнес"
+      },
+      "source": "https://www.openstreetmap.org/node/612135396"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 922268647,
+      "name": "DDX Fitness",
+      "brand": "",
+      "lon": 37.7415234,
+      "lat": 55.6589333,
+      "scope": "inside",
+      "distance_to_boundary_m": 0,
+      "tags": {
+        "contact:phone": "+7 495 3745507;+7 495 3745603;+7 495 3745911",
+        "contact:telegram": "https://t.me/ddxfitness_official",
+        "contact:vk": "https://vk.com/ddx_fitness",
+        "contact:website": "https://www.ddxfitness.ru/clubs/ddx-bratislavskaya/",
+        "leisure": "fitness_centre",
+        "name": "DDX Fitness",
+        "official_name": "DDX Братиславская Люблю Молл",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "sport": "fitness"
+      },
+      "source": "https://www.openstreetmap.org/node/922268647"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 1932813099,
+      "name": "",
+      "brand": "",
+      "lon": 37.7770195,
+      "lat": 55.658564,
+      "scope": "inside",
+      "distance_to_boundary_m": 0,
+      "tags": {
+        "leisure": "fitness_centre"
+      },
+      "source": "https://www.openstreetmap.org/node/1932813099"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4728871689,
+      "name": "",
+      "brand": "",
+      "lon": 37.7534342,
+      "lat": 55.6507652,
+      "scope": "inside",
+      "distance_to_boundary_m": 0,
+      "tags": {
+        "addr:street": "Луговой проезд",
+        "leisure": "fitness_centre",
+        "opening_hours": "24/7"
+      },
+      "source": "https://www.openstreetmap.org/node/4728871689"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4809717114,
+      "name": "Zebra",
+      "brand": "",
+      "lon": 37.7491831,
+      "lat": 55.6593449,
+      "scope": "inside",
+      "distance_to_boundary_m": 0,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Zebra"
+      },
+      "source": "https://www.openstreetmap.org/node/4809717114"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 4948358721,
+      "name": "Ньюфит Братиславская",
+      "brand": "",
+      "lon": 37.7595576,
+      "lat": 55.657741,
+      "scope": "inside",
+      "distance_to_boundary_m": 0,
+      "tags": {
+        "female": "yes",
+        "internet_access": "wlan",
+        "leisure": "fitness_centre",
+        "male": "no",
+        "name": "Ньюфит Братиславская",
+        "name:en": "Newfit Bratislavskaya",
+        "opening_hours": "Mo-Su 07:30-18:00",
+        "phone": "+7 495 7989842",
+        "website": "http://www.new-fit.ru"
+      },
+      "source": "https://www.openstreetmap.org/node/4948358721"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5290442711,
+      "name": "Акробат",
+      "brand": "",
+      "lon": 37.7310781,
+      "lat": 55.655441,
+      "scope": "inside",
+      "distance_to_boundary_m": 0,
+      "tags": {
+        "contact:email": "info@akrobatclub.ru",
+        "contact:phone": "+7 495 0210340",
+        "contact:website": "https://akrobat-marino.ru/",
+        "leisure": "fitness_centre",
+        "name": "Акробат",
+        "opening_hours": "Mo-Fr 10:00-22:00;Sa-Su 09:00-21:00",
+        "operator": "Акробат",
+        "sport": "gymnastics"
+      },
+      "source": "https://www.openstreetmap.org/node/5290442711"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 5720941924,
+      "name": "Ледифит",
+      "brand": "",
+      "lon": 37.7646605,
+      "lat": 55.6535866,
+      "scope": "inside",
+      "distance_to_boundary_m": 0,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Ледифит",
+        "name:en": "Ladyfit",
+        "opening_hours": "Mo-Fr 09:00-22:00; Sa-Su 09:00-20:00",
+        "phone": "+7 495 3464001",
+        "website": "http://www.fs-ladyfit.ru"
+      },
+      "source": "https://www.openstreetmap.org/node/5720941924"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6542725086,
+      "name": "Magneto fitness",
+      "brand": "",
+      "lon": 37.7625665,
+      "lat": 55.6521038,
+      "scope": "inside",
+      "distance_to_boundary_m": 0,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Magneto fitness",
+        "opening_hours": "Mo-Fr 06:30-01:00; Sa-Su 08:00-01:00",
+        "phone": "+7 495 5855000",
+        "website": "https://marino.magneto.fit/"
+      },
+      "source": "https://www.openstreetmap.org/node/6542725086"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 6545743487,
+      "name": "Спорт & Лайф",
+      "brand": "",
+      "lon": 37.764709,
+      "lat": 55.652907,
+      "scope": "inside",
+      "distance_to_boundary_m": 0,
+      "tags": {
+        "leisure": "fitness_centre",
+        "name": "Спорт & Лайф"
+      },
+      "source": "https://www.openstreetmap.org/node/6545743487"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 7966686810,
+      "name": "X-Fit Марьино",
+      "brand": "",
+      "lon": 37.7663515,
+      "lat": 55.6520423,
+      "scope": "inside",
+      "distance_to_boundary_m": 0,
+      "tags": {
+        "addr:city": "Москва",
+        "addr:housenumber": "30",
+        "addr:street": "Братиславская улица",
+        "contact:phone": "+7 495 1537162",
+        "contact:website": "https://marino1.xfit.ru",
+        "leisure": "fitness_centre",
+        "name": "X-Fit Марьино",
+        "opening_hours": "Mo-Fr 07:00-24:00; Sa-Su 08:00-23:00"
+      },
+      "source": "https://www.openstreetmap.org/node/7966686810"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10046657528,
+      "name": "Spirit Fitness",
+      "brand": "",
+      "lon": 37.7450216,
+      "lat": 55.6490146,
+      "scope": "inside",
+      "distance_to_boundary_m": 0,
+      "tags": {
+        "check_date": "2026-11-18",
+        "contact:email": "mariyno@spiritfit.ru",
+        "contact:phone": "+7 495 9811752;+7 495 8379721",
+        "contact:telegram": "https://t.me/spiritfitness_official",
+        "contact:vk": "https://vk.com/spiritfitness_official",
+        "contact:website": "https://spiritfit.ru/clubs/metro-marino/",
+        "contact:youtube": "https://www.youtube.com/channel/UCGtb7SPwehRPG5XOBmtJbLA",
+        "leisure": "fitness_centre",
+        "level": "3",
+        "name": "Spirit Fitness",
+        "official_name": "Spirit Fitness Марьино",
+        "opening_hours": "Mo-Su 07:00-24:00"
+      },
+      "source": "https://www.openstreetmap.org/node/10046657528"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 10655436162,
+      "name": "Ddx",
+      "brand": "",
+      "lon": 37.7274853,
+      "lat": 55.6478128,
+      "scope": "inside",
+      "distance_to_boundary_m": 0,
+      "tags": {
+        "contact:phone": "+7 495 2555000",
+        "contact:website": "https://www.ddxfitness.ru/clubs/ddx-marino-ekran/",
+        "leisure": "fitness_centre",
+        "name": "Ddx",
+        "opening_hours": "Mo-Su 06:00-24:00"
+      },
+      "source": "https://www.openstreetmap.org/node/10655436162"
+    },
+    {
+      "osm_type": "node",
+      "osm_id": 12238139363,
+      "name": "СССР",
+      "brand": "",
+      "lon": 37.7400757,
+      "lat": 55.6548046,
+      "scope": "inside",
+      "distance_to_boundary_m": 0,
+      "tags": {
+        "contact:email": "director@fitness-cccp.ru",
+        "contact:phone": "+7 495 1169574",
+        "contact:website": "https://fitness-cccp.ru",
+        "leisure": "fitness_centre",
+        "name": "СССР",
+        "opening_hours": "24/7"
+      },
+      "source": "https://www.openstreetmap.org/node/12238139363"
+    },
+    {
+      "osm_type": "way",
+      "osm_id": 311827546,
+      "name": "Территория Фитнеса",
+      "brand": "",
+      "lon": 37.7639492,
+      "lat": 55.6621607,
+      "scope": "inside",
+      "distance_to_boundary_m": 0,
+      "tags": {
+        "addr:housenumber": "4 к1",
+        "addr:postcode": "109451",
+        "addr:street": "Перервинский бульвар",
+        "building": "yes",
+        "building:levels": "2",
+        "internet_access": "wlan",
+        "leisure": "fitness_centre",
+        "name": "Территория Фитнеса",
+        "opening_hours": "Mo-Fr 07:00-00:00; Sa-Su 09:00-23:00",
+        "website": "https://www.terfit.ru/"
+      },
+      "source": "https://www.openstreetmap.org/way/311827546"
+    }
+  ]
+}

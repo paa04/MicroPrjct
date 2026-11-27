@@ -1,0 +1,84 @@
+{
+  "club_catalog": "data/clubs_reviewed.csv",
+  "grid_step_m": 100,
+  "buffer_m": 3000,
+  "clubs": 25,
+  "inside_clubs": 10,
+  "buffer_clubs": 15,
+  "unverified": 0,
+  "cells": 1177,
+  "candidates": 1065,
+  "feature_sources": {
+    "housing": 523,
+    "metro": 2,
+    "retail": 11,
+    "office": 35
+  },
+  "weights": {
+    "housing": 0.6,
+    "metro": 0.15,
+    "retail": 0.15,
+    "office": 0.1
+  },
+  "calibration": {
+    "status": "scenario_fallback",
+    "reasons": [
+      "fewer than 12 verified clubs inside Maryino",
+      "less than 5% improvement in nested validation"
+    ],
+    "observations": 9,
+    "networks": 8,
+    "validation": "nested leave-one-network-out; competitors remain fixed in each relocation",
+    "lambda_l1": 0.1,
+    "baseline_regret": 0.020328503211691957,
+    "cv_regret": 0.020534638378806196,
+    "fitted_regret": 0.020328503211691957,
+    "unregularized_weights": {
+      "housing": 0.6214834487878319,
+      "metro": 0.08586245620492498,
+      "retail": 0.18467976428809874,
+      "office": 0.10797433071914436
+    },
+    "unregularized_fitted_regret": 0.019616596518034924,
+    "unregularized_cv_regret": 0.0245176250497035,
+    "relative_cv_improvement": -0.010140203878644638,
+    "held_out_clubs_improved": 1,
+    "cv_weight_min": {
+      "housing": 0.6,
+      "metro": 0.13748194446083475,
+      "retail": 0.15,
+      "office": 0.09999999999999998
+    },
+    "cv_weight_max": {
+      "housing": 0.6,
+      "metro": 0.15000000000000002,
+      "retail": 0.15,
+      "office": 0.11251805553916523
+    },
+    "median_held_out_distance_m": 459.1338565731072,
+    "median_baseline_distance_m": 459.1338565731072,
+    "fitted_weights": {
+      "housing": 0.6,
+      "metro": 0.15000000000000002,
+      "retail": 0.15,
+      "office": 0.1
+    }
+  },
+  "target_network": "DDX",
+  "best_opening": {
+    "lon": 37.7503494,
+    "lat": 55.659839,
+    "incremental_share": 0.09120726,
+    "net_at_cost_0_5pct": 0.08620726,
+    "net_at_cost_1pct": 0.08120726,
+    "net_at_cost_2pct": 0.07120726
+  },
+  "new_club_gross_share": 0.09120726150903807,
+  "from_competitors_share": 0.09120726150903807,
+  "cannibalized_own_share": 0.0,
+  "baseline_share_served_by_buffer_clubs": 0.06926792865103595,
+  "break_even_F_over_mM": 0.09120726150903807,
+  "max_relocation_regret_share": 0.04489942,
+  "approximate_relocation_equilibrium": false,
+  "note": "Normalized market M=1, m=1. Confirmed competitors in the selected buffer are included, but demand is modeled only inside Maryino. Opening location is a search cell, not a confirmed premise. Relocation regret covers inside clubs only and assumes fixed club count and costs that cancel."
+}

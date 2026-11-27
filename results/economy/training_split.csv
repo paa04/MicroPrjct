@@ -1,0 +1,63 @@
+﻿id,name,opened,split,url
+26,DDX Авиапарк,2022-11-15,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-aviapark/
+357,DDX Алтуфьево Марс,2025-11-25,time_test,https://cdn-ps.ddxfitness.ru/clubs/ddx-altufevo-mars/
+431,DDX Алтуфьевская Весна,2025-11-18,coverage_edge,https://cdn-ps.ddxfitness.ru/clubs/ddx-altufevskaya-vesna/
+199,DDX Аэропорт,2025-01-22,time_test,https://cdn-ps.ddxfitness.ru/clubs/ddx-aeroport/
+52,DDX Бабушкинская Орион,2024-04-12,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-babushkinskaya-orion/
+5,DDX Беляево,2019-12-25,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-belyaevo/
+518,DDX Бибирево,2026-06-26,time_test,https://cdn-ps.ddxfitness.ru/clubs/ddx-bibirevo/
+18,DDX Бибирево Будапешт,2022-03-25,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-bibirevo-budapesht/
+32,DDX Бирюлево Бирюсинка,2023-03-30,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-biryulevo-biryusinka/
+345,DDX Бирюлево Восточное Среда,2025-07-15,district_holdout,https://cdn-ps.ddxfitness.ru/clubs/ddx-biryulevo-vostochnoe-sreda/
+24,DDX Братеево Браво,2022-09-27,district_holdout,https://cdn-ps.ddxfitness.ru/clubs/ddx-brateevo-bravo/
+237,DDX Братиславская Люблю Молл,2025-01-20,district_holdout,https://cdn-ps.ddxfitness.ru/clubs/ddx-bratislavskaya/
+334,DDX Бульвар Яна Райниса,2025-06-07,time_test,https://cdn-ps.ddxfitness.ru/clubs/ddx-bulvar-yana-rajnisa/
+1,DDX Бутово,2018-06-15,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-butovo/
+17,DDX Варшавская Ангара,2022-06-16,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-varshavskaya-angara/
+46,DDX Вешняки,2024-01-19,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-veshnyaki/
+3,DDX Водный Стадион,2019-10-15,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-vodnyy-stadion/
+397,DDX Грис Молл,2026-04-30,coverage_edge,https://cdn-ps.ddxfitness.ru/clubs/ddx-gris-moll/
+440,DDX Домодедовская,2025-12-17,district_holdout,https://cdn-ps.ddxfitness.ru/clubs/ddx-domodedovskaya/
+9,DDX Жулебино,2021-05-25,district_holdout,https://cdn-ps.ddxfitness.ru/clubs/ddx-zhulebino/
+441,DDX Ивановское Ассортида,2025-12-27,time_test,https://cdn-ps.ddxfitness.ru/clubs/ddx-ivanovskoe-assortida/
+239,DDX Кантемировская,2025-01-29,district_holdout,https://cdn-ps.ddxfitness.ru/clubs/ddx-kantemirovskaya/
+29,DDX Коломенская Орбита,2023-03-10,district_holdout,https://cdn-ps.ddxfitness.ru/clubs/ddx-kolomenskaya-orbita/
+13,DDX Коньково,2021-11-08,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-konkovo/
+238,DDX Красносельская,2025-01-28,time_test,https://cdn-ps.ddxfitness.ru/clubs/ddx-krasnoselskaya/
+42,DDX Кузьминки,2023-11-30,district_holdout,https://cdn-ps.ddxfitness.ru/clubs/ddx-kuzminki/
+202,DDX Лефортово Город,2024-08-28,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-lefortovo/
+20,DDX Марьино Экран,2022-12-26,district_holdout,https://cdn-ps.ddxfitness.ru/clubs/ddx-marino-ekran/
+145,DDX Матвеевское Планета,2024-10-15,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-matveevskoe-planeta/
+34,DDX Митино,2023-05-31,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-mitino/
+33,DDX Мозаика,2023-04-30,district_holdout,https://cdn-ps.ddxfitness.ru/clubs/ddx-mozaika/
+12,DDX Москворечье,2021-09-27,district_holdout,https://cdn-ps.ddxfitness.ru/clubs/ddx-moskvoreche/
+254,DDX Нахимовский Проспект,2025-11-25,time_test,https://cdn-ps.ddxfitness.ru/clubs/ddx-nahimovskij-prospekt/
+35,DDX Некрасовка Атлант,2023-05-30,coverage_edge,https://cdn-ps.ddxfitness.ru/clubs/ddx-nekrasovka-atlant/
+23,DDX Новогиреево Киргизия,2022-11-25,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-novogireevo-kirgiziya/
+30,DDX Новокузнецкая Аркадия,2023-02-15,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-novokuznetskaya/
+43,DDX Новые Ватутинки,2024-02-19,coverage_edge,https://cdn-ps.ddxfitness.ru/clubs/ddx-novye-vatutinki/
+195,DDX Новый Арбат,2025-01-20,time_test,https://cdn-ps.ddxfitness.ru/clubs/ddx-novyj-arbat/
+38,DDX Озерная,2023-08-31,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-ozernaya/
+566,DDX Озерная Лейкс,2026-10-30,time_test,https://cdn-ps.ddxfitness.ru/clubs/ddx-ozernaya-lejks/
+16,DDX Отрадное Байконур,2022-06-15,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-otradnoe-baykonur/
+49,DDX Парк Сокольники,2023-12-22,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-park-sokolniki/
+434,DDX Патриот,2025-12-11,time_test,https://cdn-ps.ddxfitness.ru/clubs/ddx-patriot/
+44,DDX Первомайский,2024-08-07,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-pervomayskiy/
+37,DDX Полежаевская,2023-08-03,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-polezhaevskaya/
+31,DDX Преображенское Янтарь,2023-03-24,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-preobrazhenskoe-yantar/
+8,DDX Ростокино,2021-05-15,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-rostokino/
+253,DDX Румянцево,2025-01-24,time_test,https://cdn-ps.ddxfitness.ru/clubs/ddx-rumyancevo/
+4,DDX Саларис,2019-12-31,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-salaris/
+22,DDX Северное Сияние,2022-08-05,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-severnoe-siyanie/
+289,DDX Солнцево Небо,2025-06-26,time_test,https://cdn-ps.ddxfitness.ru/clubs/ddx-solntsevo-nebo/
+14,DDX София,2021-12-10,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-sofiya/
+146,DDX Страстной,2025-04-17,time_test,https://cdn-ps.ddxfitness.ru/clubs/ddx-strastnoy/
+396,DDX Сходненская,2025-09-26,time_test,https://cdn-ps.ddxfitness.ru/clubs/ddx-skhodnenskaya/
+336,DDX Технопарк,2025-05-15,district_holdout,https://cdn-ps.ddxfitness.ru/clubs/ddx-tekhnopark/
+187,DDX Чертановская Авентура,2024-06-20,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-chertanovo-aventura/
+148,DDX Шаболовка Алмаз,2025-06-20,time_test,https://cdn-ps.ddxfitness.ru/clubs/ddx-shabolovka-almaz/
+105,DDX Шелепиха,2025-03-11,time_test,https://cdn-ps.ddxfitness.ru/clubs/ddx-shelepiha/
+203,DDX Щелково Аструм-Сити,2024-07-26,coverage_edge,https://cdn-ps.ddxfitness.ru/clubs/ddx-shchelkovo/
+15,DDX Щука,2022-02-22,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-shchuka/
+25,DDX Ясенево,2022-10-20,train,https://cdn-ps.ddxfitness.ru/clubs/ddx-yasenevo/
+576,DDX Яхромская,2026-11-09,time_test,https://cdn-ps.ddxfitness.ru/clubs/ddx-yakhromskaya/
