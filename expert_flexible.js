@@ -33,7 +33,7 @@ function fit(events,c,cut){
  for(let i=0;i<e.n;i++){let p=ew*s[i]/den;for(let h=0;h<k;h++)g[h]+=p*e.z[i*k+h];}}
  for(let h=0;h<k;h++){let v=b[h]-(prior?prior[h]:0),lambda=prior?(c.shrink??1.5):(c.ridge??.5);loss+=lambda*v*v/2;g[h]+=lambda*v;}return {loss,g};}
  function solve(group=-1,prior=null){let b=prior?[...prior]:Array(k).fill(0),o=objective(b,group,prior);
- for(let it=0;it<50;it++){let rate=1,ok=false;for(let j=0;j<15;j++){let v=b.map((x,h)=>Math.max(group<0?0:-6,Math.min(6,x-rate*o.g[h]))),norm=sum(v.map((x,h)=>(x-b[h])**2));if(norm<1e-12){it=50;break;}let q=objective(v,group,prior),slope=sum(v.map((x,h)=>(x-b[h])*o.g[h]));if(q.loss<=o.loss+.0001*slope){b=v;o=q;ok=true;break;}rate*=.5;}if(!ok)break;}return b;}
+ for(let it=0;it<22;it++){let rate=1,ok=false;for(let j=0;j<15;j++){let v=b.map((x,h)=>Math.max(group<0?0:-6,Math.min(6,x-rate*o.g[h]))),norm=sum(v.map((x,h)=>(x-b[h])**2));if(norm<1e-12){it=22;break;}let q=objective(v,group,prior),slope=sum(v.map((x,h)=>(x-b[h])*o.g[h]));if(q.loss<=o.loss+.0001*slope){b=v;o=q;ok=true;break;}rate*=.5;}if(!ok)break;}return b;}
  let b=solve(),expert=c.experts?[solve(0,b),solve(1,b)]:null;
  // Group prior uses only observed locations of earlier openings, not target address text.
  let gate=(2+sum(es.map((e,i)=>w[i]*e.group[e.target])))/(4+W);
