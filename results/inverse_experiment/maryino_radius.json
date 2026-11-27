@@ -1,0 +1,388 @@
+{
+  "eligible": 1005,
+  "predictive_mse": {
+    "lon": 37.742388324692875,
+    "lat": 55.652652533237514,
+    "p_300": 0.28337834890084784,
+    "worst_relative_regret": 0.783108304056512,
+    "scenarios": [
+      {
+        "prior": "proxy",
+        "tau": 400,
+        "net_gain_pp": 6.190984752153417,
+        "gross_pp": 10.722111133422283,
+        "own_transfer_pp": 4.531126381268865
+      },
+      {
+        "prior": "proxy",
+        "tau": 800,
+        "net_gain_pp": 8.361662483580089,
+        "gross_pp": 14.35702487705989,
+        "own_transfer_pp": 5.995362393479802
+      },
+      {
+        "prior": "proxy",
+        "tau": 1200,
+        "net_gain_pp": 9.021745902214354,
+        "gross_pp": 15.407983441548831,
+        "own_transfer_pp": 6.386237539334477
+      },
+      {
+        "prior": "uniform",
+        "tau": 400,
+        "net_gain_pp": 5.365477120576235,
+        "gross_pp": 9.089556034376754,
+        "own_transfer_pp": 3.7240789138005193
+      },
+      {
+        "prior": "uniform",
+        "tau": 800,
+        "net_gain_pp": 7.560098944652266,
+        "gross_pp": 12.994969363232833,
+        "own_transfer_pp": 5.434870418580568
+      },
+      {
+        "prior": "uniform",
+        "tau": 1200,
+        "net_gain_pp": 8.539817667236381,
+        "gross_pp": 14.582049092091104,
+        "own_transfer_pp": 6.042231424854723
+      },
+      {
+        "prior": "legacy_housing_mix",
+        "tau": 400,
+        "net_gain_pp": 8.037177648188816,
+        "gross_pp": 14.13971806652845,
+        "own_transfer_pp": 6.102540418339634
+      },
+      {
+        "prior": "legacy_housing_mix",
+        "tau": 800,
+        "net_gain_pp": 9.690431778274133,
+        "gross_pp": 16.649514764876876,
+        "own_transfer_pp": 6.959082986602744
+      },
+      {
+        "prior": "legacy_housing_mix",
+        "tau": 1200,
+        "net_gain_pp": 9.522435652537336,
+        "gross_pp": 16.491403185878305,
+        "own_transfer_pp": 6.96896753334097
+      }
+    ]
+  },
+  "predictive_top3": [
+    {
+      "lon": 37.742388324692875,
+      "lat": 55.650855910887536,
+      "p_300": 0.289123307803572,
+      "worst_relative_regret": 0.7652543065086058,
+      "scenarios": [
+        {
+          "prior": "proxy",
+          "tau": 400,
+          "net_gain_pp": 6.494299500910526,
+          "gross_pp": 10.37209488821979,
+          "own_transfer_pp": 3.8777953873092628
+        },
+        {
+          "prior": "proxy",
+          "tau": 800,
+          "net_gain_pp": 7.946112699232248,
+          "gross_pp": 13.844987049247672,
+          "own_transfer_pp": 5.898874350015425
+        },
+        {
+          "prior": "proxy",
+          "tau": 1200,
+          "net_gain_pp": 8.742878684321688,
+          "gross_pp": 15.026169075534963,
+          "own_transfer_pp": 6.283290391213274
+        },
+        {
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 5.80715016360078,
+          "gross_pp": 9.151221807215872,
+          "own_transfer_pp": 3.3440716436150932
+        },
+        {
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 7.363293872888571,
+          "gross_pp": 12.844967467337867,
+          "own_transfer_pp": 5.481673594449296
+        },
+        {
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 8.395945994543588,
+          "gross_pp": 14.41828193199206,
+          "own_transfer_pp": 6.022335937448473
+        },
+        {
+          "prior": "legacy_housing_mix",
+          "tau": 400,
+          "net_gain_pp": 8.23172088726811,
+          "gross_pp": 13.052223593387403,
+          "own_transfer_pp": 4.820502706119291
+        },
+        {
+          "prior": "legacy_housing_mix",
+          "tau": 800,
+          "net_gain_pp": 9.163922318407048,
+          "gross_pp": 15.873093390547302,
+          "own_transfer_pp": 6.709171072140255
+        },
+        {
+          "prior": "legacy_housing_mix",
+          "tau": 1200,
+          "net_gain_pp": 9.21944739875775,
+          "gross_pp": 16.04318054277265,
+          "own_transfer_pp": 6.823733144014901
+        }
+      ]
+    },
+    {
+      "lon": 37.75194162346436,
+      "lat": 55.658940711462456,
+      "p_300": 0.2433427625376065,
+      "worst_relative_regret": 0.5389663047378334,
+      "scenarios": [
+        {
+          "prior": "proxy",
+          "tau": 400,
+          "net_gain_pp": 14.530081859767385,
+          "gross_pp": 24.05646184933402,
+          "own_transfer_pp": 9.526379989566635
+        },
+        {
+          "prior": "proxy",
+          "tau": 800,
+          "net_gain_pp": 12.474610282009547,
+          "gross_pp": 18.588245768707797,
+          "own_transfer_pp": 6.113635486698252
+        },
+        {
+          "prior": "proxy",
+          "tau": 1200,
+          "net_gain_pp": 10.134395762571963,
+          "gross_pp": 16.456948535023457,
+          "own_transfer_pp": 6.322552772451495
+        },
+        {
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 11.405073545961827,
+          "gross_pp": 18.31801212950934,
+          "own_transfer_pp": 6.912938583547517
+        },
+        {
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 10.551645321768275,
+          "gross_pp": 15.574968498013567,
+          "own_transfer_pp": 5.023323176245291
+        },
+        {
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 9.153321581991618,
+          "gross_pp": 14.846075102113982,
+          "own_transfer_pp": 5.692753520122364
+        },
+        {
+          "prior": "legacy_housing_mix",
+          "tau": 400,
+          "net_gain_pp": 14.273945457468978,
+          "gross_pp": 26.321612366935256,
+          "own_transfer_pp": 12.047666909466276
+        },
+        {
+          "prior": "legacy_housing_mix",
+          "tau": 800,
+          "net_gain_pp": 12.926184169199193,
+          "gross_pp": 20.128753293524678,
+          "own_transfer_pp": 7.202569124325486
+        },
+        {
+          "prior": "legacy_housing_mix",
+          "tau": 1200,
+          "net_gain_pp": 10.391749038135282,
+          "gross_pp": 17.355328457834247,
+          "own_transfer_pp": 6.963579419698966
+        }
+      ]
+    },
+    {
+      "lon": 37.734427242383305,
+      "lat": 55.64726266618757,
+      "p_300": 0.20199029681162792,
+      "worst_relative_regret": 0.8631609017669986,
+      "scenarios": [
+        {
+          "prior": "proxy",
+          "tau": 400,
+          "net_gain_pp": 3.4898510266302454,
+          "gross_pp": 9.142270277113054,
+          "own_transfer_pp": 5.652419250482809
+        },
+        {
+          "prior": "proxy",
+          "tau": 800,
+          "net_gain_pp": 6.175175988031607,
+          "gross_pp": 11.751988134806716,
+          "own_transfer_pp": 5.576812146775109
+        },
+        {
+          "prior": "proxy",
+          "tau": 1200,
+          "net_gain_pp": 7.2365581315725835,
+          "gross_pp": 12.728375814228132,
+          "own_transfer_pp": 5.491817682655549
+        },
+        {
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 3.414414581095357,
+          "gross_pp": 8.950289019811354,
+          "own_transfer_pp": 5.5358744387159975
+        },
+        {
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 6.262171943367337,
+          "gross_pp": 11.836711477351955,
+          "own_transfer_pp": 5.574539533984618
+        },
+        {
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 7.352638272795773,
+          "gross_pp": 12.855013800006985,
+          "own_transfer_pp": 5.5023755272112105
+        },
+        {
+          "prior": "legacy_housing_mix",
+          "tau": 400,
+          "net_gain_pp": 3.7378030148539456,
+          "gross_pp": 8.684874656586233,
+          "own_transfer_pp": 4.947071641732288
+        },
+        {
+          "prior": "legacy_housing_mix",
+          "tau": 800,
+          "net_gain_pp": 6.152259305087656,
+          "gross_pp": 11.49534246351977,
+          "own_transfer_pp": 5.343083158432113
+        },
+        {
+          "prior": "legacy_housing_mix",
+          "tau": 1200,
+          "net_gain_pp": 7.21724211444989,
+          "gross_pp": 12.794627294162797,
+          "own_transfer_pp": 5.577385179712907
+        }
+      ]
+    }
+  ],
+  "economic_minimax": {
+    "lon": 37.76467935515967,
+    "lat": 55.65714408911247,
+    "p_300": 0.004095731678043468,
+    "worst_relative_regret": 0.06251932859028578,
+    "scenarios": [
+      {
+        "prior": "proxy",
+        "tau": 400,
+        "net_gain_pp": 24.755088527081718,
+        "gross_pp": 30.29612847349852,
+        "own_transfer_pp": 5.5410399464168005
+      },
+      {
+        "prior": "proxy",
+        "tau": 800,
+        "net_gain_pp": 15.38492765289266,
+        "gross_pp": 21.04291741726254,
+        "own_transfer_pp": 5.657989764369881
+      },
+      {
+        "prior": "proxy",
+        "tau": 1200,
+        "net_gain_pp": 10.415859046336424,
+        "gross_pp": 16.43211976857896,
+        "own_transfer_pp": 6.016260722242539
+      },
+      {
+        "prior": "uniform",
+        "tau": 400,
+        "net_gain_pp": 23.191441569721803,
+        "gross_pp": 27.65848046744287,
+        "own_transfer_pp": 4.467038897721068
+      },
+      {
+        "prior": "uniform",
+        "tau": 800,
+        "net_gain_pp": 14.637796387544208,
+        "gross_pp": 19.653218812268733,
+        "own_transfer_pp": 5.015422424724525
+      },
+      {
+        "prior": "uniform",
+        "tau": 1200,
+        "net_gain_pp": 9.899872323204619,
+        "gross_pp": 15.539062507378915,
+        "own_transfer_pp": 5.639190184174296
+      },
+      {
+        "prior": "legacy_housing_mix",
+        "tau": 400,
+        "net_gain_pp": 23.527222819998315,
+        "gross_pp": 30.08949614250612,
+        "own_transfer_pp": 6.562273322507808
+      },
+      {
+        "prior": "legacy_housing_mix",
+        "tau": 800,
+        "net_gain_pp": 14.45958800641247,
+        "gross_pp": 20.85120954905241,
+        "own_transfer_pp": 6.391621542639939
+      },
+      {
+        "prior": "legacy_housing_mix",
+        "tau": 1200,
+        "net_gain_pp": 10.180368751718133,
+        "gross_pp": 16.653470409773533,
+        "own_transfer_pp": 6.473101658055399
+      }
+    ]
+  },
+  "loo": [
+    {
+      "name": "DDX Братиславская Люблю Молл",
+      "date": "2025-01-20",
+      "tile": "Maryino",
+      "masked": false,
+      "mse_m": 495.4894606544984,
+      "mode_m": 50.338106615227346,
+      "nll": 1.800221109574567,
+      "top1_m": 254.39089264871936,
+      "top3_m": 254.39089264871936,
+      "hit1_300": 1,
+      "hit3_300": 1
+    },
+    {
+      "name": "DDX Марьино Экран",
+      "date": "2022-12-26",
+      "tile": "Maryino",
+      "masked": false,
+      "mse_m": 1058.3021191177263,
+      "mode_m": 1890.3268266697928,
+      "nll": 7.365738977899439,
+      "top1_m": 974.4207383512264,
+      "top3_m": 424.62469124352697,
+      "hit1_300": 0,
+      "hit3_300": 0
+    }
+  ]
+}
