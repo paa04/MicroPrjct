@@ -83,7 +83,7 @@ function fit(es,c){
     return {loss:loss/z.length+c.ridge*dot(b,b)/2,grad:grad.map((g,h)=>g/z.length+c.ridge*b[h])};
   }
   let b=Array(k).fill(0),o=objective(b);
-  for(let it=0;it<100;it++){let step=1,accepted=false;for(let j=0;j<20;j++){let b2=b.map((v,h)=>Math.max(0,Math.min(6,v-step*o.grad[h]))),change=b2.map((v,h)=>v-b[h]);if(dot(change,change)<1e-12)return {mu,sd,b};let o2=objective(b2);if(o2.loss<=o.loss+1e-4*dot(o.grad,change)){b=b2;o=o2;accepted=true;break;}step*=.5;}if(!accepted)break;}
+  for(let it=0;it<35;it++){let step=1,accepted=false;for(let j=0;j<20;j++){let b2=b.map((v,h)=>Math.max(0,Math.min(6,v-step*o.grad[h]))),change=b2.map((v,h)=>v-b[h]);if(dot(change,change)<1e-12)return {mu,sd,b};let o2=objective(b2);if(o2.loss<=o.loss+1e-4*dot(o.grad,change)){b=b2;o=o2;accepted=true;break;}step*=.5;}if(!accepted)break;}
   return {mu,sd,b};
 }
 function score(f,g,allowed,c,m){return design(f,g,c).map((a,i)=>allowed[i]?dot(a.map((v,h)=>(v-m.mu[h])/m.sd[h]),m.b):-Infinity);}
