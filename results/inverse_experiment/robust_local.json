@@ -1,0 +1,2854 @@
+{
+  "eligible": 1005,
+  "venue_adjacent": 144,
+  "base_competitors": 8,
+  "wide_competitors": 13,
+  "scenarios": 18,
+  "robust": {
+    "lon": 37.76467935515967,
+    "lat": 55.65714408911247,
+    "nearest_venue": "51675639",
+    "venue_osm_id": "51675639",
+    "venue_footprint_m2": 1500,
+    "venue_distance_m": 105.29595042510404,
+    "historical_model_mass_300": 0.004095731678043468,
+    "worst_relative_regret": 0.04573734963139712,
+    "min_gain_pp": 8.818933089892385,
+    "max_gain_pp": 24.76460740956288,
+    "scenarios": [
+      {
+        "market": "base",
+        "prior": "housing",
+        "tau": 400,
+        "net_gain_pp": 24.755088527081718,
+        "gross_pp": 30.29612847349852,
+        "own_transfer_pp": 5.5410399464168005
+      },
+      {
+        "market": "base",
+        "prior": "uniform",
+        "tau": 400,
+        "net_gain_pp": 23.191441569721803,
+        "gross_pp": 27.65848046744287,
+        "own_transfer_pp": 4.467038897721068
+      },
+      {
+        "market": "base",
+        "prior": "legacy",
+        "tau": 400,
+        "net_gain_pp": 23.527222819998315,
+        "gross_pp": 30.08949614250612,
+        "own_transfer_pp": 6.562273322507808
+      },
+      {
+        "market": "wide",
+        "prior": "housing",
+        "tau": 400,
+        "net_gain_pp": 24.76460740956288,
+        "gross_pp": 25.632502439000127,
+        "own_transfer_pp": 0.8678950294372462
+      },
+      {
+        "market": "wide",
+        "prior": "uniform",
+        "tau": 400,
+        "net_gain_pp": 23.235210877351122,
+        "gross_pp": 24.078872360400695,
+        "own_transfer_pp": 0.8436614830495737
+      },
+      {
+        "market": "wide",
+        "prior": "legacy",
+        "tau": 400,
+        "net_gain_pp": 24.034299830203672,
+        "gross_pp": 25.274694868245827,
+        "own_transfer_pp": 1.240395038042158
+      },
+      {
+        "market": "base",
+        "prior": "housing",
+        "tau": 800,
+        "net_gain_pp": 15.38492765289266,
+        "gross_pp": 21.04291741726254,
+        "own_transfer_pp": 5.657989764369881
+      },
+      {
+        "market": "base",
+        "prior": "uniform",
+        "tau": 800,
+        "net_gain_pp": 14.637796387544208,
+        "gross_pp": 19.653218812268733,
+        "own_transfer_pp": 5.015422424724525
+      },
+      {
+        "market": "base",
+        "prior": "legacy",
+        "tau": 800,
+        "net_gain_pp": 14.459588006412469,
+        "gross_pp": 20.85120954905241,
+        "own_transfer_pp": 6.391621542639942
+      },
+      {
+        "market": "wide",
+        "prior": "housing",
+        "tau": 800,
+        "net_gain_pp": 13.8785308470732,
+        "gross_pp": 16.646105613885894,
+        "own_transfer_pp": 2.7675747668126944
+      },
+      {
+        "market": "wide",
+        "prior": "uniform",
+        "tau": 800,
+        "net_gain_pp": 13.290446940059914,
+        "gross_pp": 15.80093788663528,
+        "own_transfer_pp": 2.5104909465753664
+      },
+      {
+        "market": "wide",
+        "prior": "legacy",
+        "tau": 800,
+        "net_gain_pp": 13.061569307092386,
+        "gross_pp": 16.195518046631847,
+        "own_transfer_pp": 3.1339487395394605
+      },
+      {
+        "market": "base",
+        "prior": "housing",
+        "tau": 1200,
+        "net_gain_pp": 10.415859046336424,
+        "gross_pp": 16.43211976857896,
+        "own_transfer_pp": 6.016260722242539
+      },
+      {
+        "market": "base",
+        "prior": "uniform",
+        "tau": 1200,
+        "net_gain_pp": 9.899872323204619,
+        "gross_pp": 15.539062507378915,
+        "own_transfer_pp": 5.639190184174296
+      },
+      {
+        "market": "base",
+        "prior": "legacy",
+        "tau": 1200,
+        "net_gain_pp": 10.180368751718133,
+        "gross_pp": 16.653470409773533,
+        "own_transfer_pp": 6.473101658055399
+      },
+      {
+        "market": "wide",
+        "prior": "housing",
+        "tau": 1200,
+        "net_gain_pp": 9.279865105838159,
+        "gross_pp": 12.319657908062307,
+        "own_transfer_pp": 3.039792802224149
+      },
+      {
+        "market": "wide",
+        "prior": "uniform",
+        "tau": 1200,
+        "net_gain_pp": 8.818933089892385,
+        "gross_pp": 11.656441765766278,
+        "own_transfer_pp": 2.8375086758738925
+      },
+      {
+        "market": "wide",
+        "prior": "legacy",
+        "tau": 1200,
+        "net_gain_pp": 9.107024593825013,
+        "gross_pp": 12.340558400724571,
+        "own_transfer_pp": 3.233533806899558
+      }
+    ]
+  },
+  "maximin": {
+    "lon": 37.76467935515967,
+    "lat": 55.65624577793748,
+    "nearest_venue": "51675639",
+    "venue_osm_id": "51675639",
+    "venue_footprint_m2": 1500,
+    "venue_distance_m": 67.15433847362017,
+    "historical_model_mass_300": 0.004126000473332067,
+    "worst_relative_regret": 0.05449933429910945,
+    "min_gain_pp": 8.832069664647642,
+    "max_gain_pp": 24.026740869150107,
+    "scenarios": [
+      {
+        "market": "base",
+        "prior": "housing",
+        "tau": 400,
+        "net_gain_pp": 24.026740869150107,
+        "gross_pp": 29.370874554236003,
+        "own_transfer_pp": 5.344133685085898
+      },
+      {
+        "market": "base",
+        "prior": "uniform",
+        "tau": 400,
+        "net_gain_pp": 22.978499089601094,
+        "gross_pp": 27.432873199148172,
+        "own_transfer_pp": 4.454374109547077
+      },
+      {
+        "market": "base",
+        "prior": "legacy",
+        "tau": 400,
+        "net_gain_pp": 23.377113465078146,
+        "gross_pp": 29.815811172296936,
+        "own_transfer_pp": 6.438697707218788
+      },
+      {
+        "market": "wide",
+        "prior": "housing",
+        "tau": 400,
+        "net_gain_pp": 23.795814308004516,
+        "gross_pp": 24.70505808501571,
+        "own_transfer_pp": 0.9092437770111927
+      },
+      {
+        "market": "wide",
+        "prior": "uniform",
+        "tau": 400,
+        "net_gain_pp": 22.88878182934274,
+        "gross_pp": 23.816484100294463,
+        "own_transfer_pp": 0.9277022709517246
+      },
+      {
+        "market": "wide",
+        "prior": "legacy",
+        "tau": 400,
+        "net_gain_pp": 23.729277011854236,
+        "gross_pp": 25.060406518369692,
+        "own_transfer_pp": 1.3311295065154578
+      },
+      {
+        "market": "base",
+        "prior": "housing",
+        "tau": 800,
+        "net_gain_pp": 15.161495713608241,
+        "gross_pp": 20.814193472318752,
+        "own_transfer_pp": 5.652697758710512
+      },
+      {
+        "market": "base",
+        "prior": "uniform",
+        "tau": 800,
+        "net_gain_pp": 14.593716067708026,
+        "gross_pp": 19.678489105600384,
+        "own_transfer_pp": 5.084773037892357
+      },
+      {
+        "market": "base",
+        "prior": "legacy",
+        "tau": 800,
+        "net_gain_pp": 14.428705032055053,
+        "gross_pp": 20.878013504882674,
+        "own_transfer_pp": 6.449308472827623
+      },
+      {
+        "market": "wide",
+        "prior": "housing",
+        "tau": 800,
+        "net_gain_pp": 13.638964781632476,
+        "gross_pp": 16.40248759061879,
+        "own_transfer_pp": 2.7635228089863157
+      },
+      {
+        "market": "wide",
+        "prior": "uniform",
+        "tau": 800,
+        "net_gain_pp": 13.234806449139603,
+        "gross_pp": 15.781020456577016,
+        "own_transfer_pp": 2.546214007437414
+      },
+      {
+        "market": "wide",
+        "prior": "legacy",
+        "tau": 800,
+        "net_gain_pp": 13.024071768736547,
+        "gross_pp": 16.192619186875067,
+        "own_transfer_pp": 3.1685474181385205
+      },
+      {
+        "market": "base",
+        "prior": "housing",
+        "tau": 1200,
+        "net_gain_pp": 10.365946527694405,
+        "gross_pp": 16.40289323693987,
+        "own_transfer_pp": 6.036946709245465
+      },
+      {
+        "market": "base",
+        "prior": "uniform",
+        "tau": 1200,
+        "net_gain_pp": 9.917529685140272,
+        "gross_pp": 15.615505260347396,
+        "own_transfer_pp": 5.697975575207123
+      },
+      {
+        "market": "base",
+        "prior": "legacy",
+        "tau": 1200,
+        "net_gain_pp": 10.190968605150893,
+        "gross_pp": 16.714948829060905,
+        "own_transfer_pp": 6.523980223910013
+      },
+      {
+        "market": "wide",
+        "prior": "housing",
+        "tau": 1200,
+        "net_gain_pp": 9.22723434233304,
+        "gross_pp": 12.267095417497337,
+        "own_transfer_pp": 3.0398610751642976
+      },
+      {
+        "market": "wide",
+        "prior": "uniform",
+        "tau": 1200,
+        "net_gain_pp": 8.832069664647642,
+        "gross_pp": 11.690318265934883,
+        "own_transfer_pp": 2.85824860128724
+      },
+      {
+        "market": "wide",
+        "prior": "legacy",
+        "tau": 1200,
+        "net_gain_pp": 9.115070595313075,
+        "gross_pp": 12.366164257651624,
+        "own_transfer_pp": 3.2510936623385502
+      }
+    ]
+  },
+  "historical": {
+    "lon": 37.742388324692875,
+    "lat": 55.650855910887536,
+    "nearest_venue": "Пятёрочка",
+    "venue_osm_id": "29449543",
+    "venue_footprint_m2": 1291,
+    "venue_distance_m": 84.7365574743819,
+    "historical_model_mass_300": 0.289123307803572,
+    "worst_relative_regret": 0.7786214662426754,
+    "min_gain_pp": 5.283423723637345,
+    "max_gain_pp": 9.21944739875775,
+    "scenarios": [
+      {
+        "market": "base",
+        "prior": "housing",
+        "tau": 400,
+        "net_gain_pp": 6.494299500910526,
+        "gross_pp": 10.37209488821979,
+        "own_transfer_pp": 3.8777953873092628
+      },
+      {
+        "market": "base",
+        "prior": "uniform",
+        "tau": 400,
+        "net_gain_pp": 5.80715016360078,
+        "gross_pp": 9.151221807215872,
+        "own_transfer_pp": 3.3440716436150932
+      },
+      {
+        "market": "base",
+        "prior": "legacy",
+        "tau": 400,
+        "net_gain_pp": 8.23172088726811,
+        "gross_pp": 13.052223593387403,
+        "own_transfer_pp": 4.820502706119291
+      },
+      {
+        "market": "wide",
+        "prior": "housing",
+        "tau": 400,
+        "net_gain_pp": 5.959465888339413,
+        "gross_pp": 8.429151537066057,
+        "own_transfer_pp": 2.469685648726644
+      },
+      {
+        "market": "wide",
+        "prior": "uniform",
+        "tau": 400,
+        "net_gain_pp": 5.283423723637345,
+        "gross_pp": 7.418407764978518,
+        "own_transfer_pp": 2.134984041341174
+      },
+      {
+        "market": "wide",
+        "prior": "legacy",
+        "tau": 400,
+        "net_gain_pp": 7.678945073809586,
+        "gross_pp": 10.696650142221316,
+        "own_transfer_pp": 3.01770506841173
+      },
+      {
+        "market": "base",
+        "prior": "housing",
+        "tau": 800,
+        "net_gain_pp": 7.946112699232248,
+        "gross_pp": 13.844987049247672,
+        "own_transfer_pp": 5.898874350015425
+      },
+      {
+        "market": "base",
+        "prior": "uniform",
+        "tau": 800,
+        "net_gain_pp": 7.363293872888571,
+        "gross_pp": 12.844967467337867,
+        "own_transfer_pp": 5.481673594449296
+      },
+      {
+        "market": "base",
+        "prior": "legacy",
+        "tau": 800,
+        "net_gain_pp": 9.163922318407048,
+        "gross_pp": 15.873093390547302,
+        "own_transfer_pp": 6.709171072140255
+      },
+      {
+        "market": "wide",
+        "prior": "housing",
+        "tau": 800,
+        "net_gain_pp": 7.063269954233952,
+        "gross_pp": 10.01650248855403,
+        "own_transfer_pp": 2.953232534320077
+      },
+      {
+        "market": "wide",
+        "prior": "uniform",
+        "tau": 800,
+        "net_gain_pp": 6.53797781071654,
+        "gross_pp": 9.248631726214025,
+        "own_transfer_pp": 2.710653915497485
+      },
+      {
+        "market": "wide",
+        "prior": "legacy",
+        "tau": 800,
+        "net_gain_pp": 8.200308159010396,
+        "gross_pp": 11.66335941923238,
+        "own_transfer_pp": 3.4630512602219845
+      },
+      {
+        "market": "base",
+        "prior": "housing",
+        "tau": 1200,
+        "net_gain_pp": 8.742878684321688,
+        "gross_pp": 15.026169075534963,
+        "own_transfer_pp": 6.283290391213274
+      },
+      {
+        "market": "base",
+        "prior": "uniform",
+        "tau": 1200,
+        "net_gain_pp": 8.395945994543588,
+        "gross_pp": 14.41828193199206,
+        "own_transfer_pp": 6.022335937448473
+      },
+      {
+        "market": "base",
+        "prior": "legacy",
+        "tau": 1200,
+        "net_gain_pp": 9.21944739875775,
+        "gross_pp": 16.04318054277265,
+        "own_transfer_pp": 6.823733144014901
+      },
+      {
+        "market": "wide",
+        "prior": "housing",
+        "tau": 1200,
+        "net_gain_pp": 7.6899245028953525,
+        "gross_pp": 10.715851353094347,
+        "own_transfer_pp": 3.025926850198994
+      },
+      {
+        "market": "wide",
+        "prior": "uniform",
+        "tau": 1200,
+        "net_gain_pp": 7.355217968640251,
+        "gross_pp": 10.221649305395616,
+        "own_transfer_pp": 2.8664313367553635
+      },
+      {
+        "market": "wide",
+        "prior": "legacy",
+        "tau": 1200,
+        "net_gain_pp": 8.188738231392902,
+        "gross_pp": 11.516471718842256,
+        "own_transfer_pp": 3.327733487449354
+      }
+    ]
+  },
+  "compromise": {
+    "lon": 37.75353383992627,
+    "lat": 55.658042400287464,
+    "nearest_venue": "Братиславский рынок",
+    "venue_osm_id": "27811776",
+    "venue_footprint_m2": 2230,
+    "venue_distance_m": 123.07518820173304,
+    "historical_model_mass_300": 0.2266176312749157,
+    "worst_relative_regret": 0.4542339487877152,
+    "min_gain_pp": 8.323489761138449,
+    "max_gain_pp": 18.143407919015882,
+    "scenarios": [
+      {
+        "market": "base",
+        "prior": "housing",
+        "tau": 400,
+        "net_gain_pp": 16.42209310471426,
+        "gross_pp": 25.578636354893074,
+        "own_transfer_pp": 9.156543250178814
+      },
+      {
+        "market": "base",
+        "prior": "uniform",
+        "tau": 400,
+        "net_gain_pp": 13.263750270995562,
+        "gross_pp": 19.9851560544956,
+        "own_transfer_pp": 6.72140578350004
+      },
+      {
+        "market": "base",
+        "prior": "legacy",
+        "tau": 400,
+        "net_gain_pp": 16.547110363767032,
+        "gross_pp": 28.023238105305282,
+        "own_transfer_pp": 11.47612774153825
+      },
+      {
+        "market": "wide",
+        "prior": "housing",
+        "tau": 400,
+        "net_gain_pp": 17.091398485031036,
+        "gross_pp": 18.791945000057343,
+        "own_transfer_pp": 1.7005465150263048
+      },
+      {
+        "market": "wide",
+        "prior": "uniform",
+        "tau": 400,
+        "net_gain_pp": 13.647813726712513,
+        "gross_pp": 14.956205921337338,
+        "own_transfer_pp": 1.3083921946248245
+      },
+      {
+        "market": "wide",
+        "prior": "legacy",
+        "tau": 400,
+        "net_gain_pp": 18.143407919015882,
+        "gross_pp": 20.517943825347388,
+        "own_transfer_pp": 2.374535906331504
+      },
+      {
+        "market": "base",
+        "prior": "housing",
+        "tau": 800,
+        "net_gain_pp": 13.173112912999743,
+        "gross_pp": 19.462708595916908,
+        "own_transfer_pp": 6.289595682917165
+      },
+      {
+        "market": "base",
+        "prior": "uniform",
+        "tau": 800,
+        "net_gain_pp": 11.383139210570857,
+        "gross_pp": 16.635857612827067,
+        "own_transfer_pp": 5.252718402256211
+      },
+      {
+        "market": "base",
+        "prior": "legacy",
+        "tau": 800,
+        "net_gain_pp": 13.608967226333743,
+        "gross_pp": 21.02169001678331,
+        "own_transfer_pp": 7.412722790449569
+      },
+      {
+        "market": "wide",
+        "prior": "housing",
+        "tau": 800,
+        "net_gain_pp": 11.60237660447852,
+        "gross_pp": 14.673302805751215,
+        "own_transfer_pp": 3.0709262012726946
+      },
+      {
+        "market": "wide",
+        "prior": "uniform",
+        "tau": 800,
+        "net_gain_pp": 10.020780919011186,
+        "gross_pp": 12.604775652508557,
+        "own_transfer_pp": 2.583994733497372
+      },
+      {
+        "market": "wide",
+        "prior": "legacy",
+        "tau": 800,
+        "net_gain_pp": 12.107146295621304,
+        "gross_pp": 15.793891900988527,
+        "own_transfer_pp": 3.686745605367224
+      },
+      {
+        "market": "base",
+        "prior": "housing",
+        "tau": 1200,
+        "net_gain_pp": 10.359045700093585,
+        "gross_pp": 16.80141425431477,
+        "own_transfer_pp": 6.442368554221188
+      },
+      {
+        "market": "base",
+        "prior": "uniform",
+        "tau": 1200,
+        "net_gain_pp": 9.449667642960392,
+        "gross_pp": 15.300592351840194,
+        "own_transfer_pp": 5.850924708879803
+      },
+      {
+        "market": "base",
+        "prior": "legacy",
+        "tau": 1200,
+        "net_gain_pp": 10.607671915837065,
+        "gross_pp": 17.70615400995303,
+        "own_transfer_pp": 7.098482094115964
+      },
+      {
+        "market": "wide",
+        "prior": "housing",
+        "tau": 1200,
+        "net_gain_pp": 9.161269436688023,
+        "gross_pp": 12.382561524949706,
+        "own_transfer_pp": 3.2212920882616833
+      },
+      {
+        "market": "wide",
+        "prior": "uniform",
+        "tau": 1200,
+        "net_gain_pp": 8.323489761138449,
+        "gross_pp": 11.221000875606151,
+        "own_transfer_pp": 2.8975111144677017
+      },
+      {
+        "market": "wide",
+        "prior": "legacy",
+        "tau": 1200,
+        "net_gain_pp": 9.458963760972821,
+        "gross_pp": 13.008435148866448,
+        "own_transfer_pp": 3.549471387893627
+      }
+    ]
+  },
+  "pareto": [
+    {
+      "lon": 37.76467935515967,
+      "lat": 55.65714408911247,
+      "nearest_venue": "51675639",
+      "venue_osm_id": "51675639",
+      "venue_footprint_m2": 1500,
+      "venue_distance_m": 105.29595042510404,
+      "historical_model_mass_300": 0.004095731678043468,
+      "worst_relative_regret": 0.04573734963139712,
+      "min_gain_pp": 8.818933089892385,
+      "max_gain_pp": 24.76460740956288,
+      "scenarios": [
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 24.755088527081718,
+          "gross_pp": 30.29612847349852,
+          "own_transfer_pp": 5.5410399464168005
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 23.191441569721803,
+          "gross_pp": 27.65848046744287,
+          "own_transfer_pp": 4.467038897721068
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 23.527222819998315,
+          "gross_pp": 30.08949614250612,
+          "own_transfer_pp": 6.562273322507808
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 24.76460740956288,
+          "gross_pp": 25.632502439000127,
+          "own_transfer_pp": 0.8678950294372462
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 23.235210877351122,
+          "gross_pp": 24.078872360400695,
+          "own_transfer_pp": 0.8436614830495737
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 24.034299830203672,
+          "gross_pp": 25.274694868245827,
+          "own_transfer_pp": 1.240395038042158
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 15.38492765289266,
+          "gross_pp": 21.04291741726254,
+          "own_transfer_pp": 5.657989764369881
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 14.637796387544208,
+          "gross_pp": 19.653218812268733,
+          "own_transfer_pp": 5.015422424724525
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 14.459588006412469,
+          "gross_pp": 20.85120954905241,
+          "own_transfer_pp": 6.391621542639942
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 13.8785308470732,
+          "gross_pp": 16.646105613885894,
+          "own_transfer_pp": 2.7675747668126944
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 13.290446940059914,
+          "gross_pp": 15.80093788663528,
+          "own_transfer_pp": 2.5104909465753664
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 13.061569307092386,
+          "gross_pp": 16.195518046631847,
+          "own_transfer_pp": 3.1339487395394605
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 10.415859046336424,
+          "gross_pp": 16.43211976857896,
+          "own_transfer_pp": 6.016260722242539
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 9.899872323204619,
+          "gross_pp": 15.539062507378915,
+          "own_transfer_pp": 5.639190184174296
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 10.180368751718133,
+          "gross_pp": 16.653470409773533,
+          "own_transfer_pp": 6.473101658055399
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 9.279865105838159,
+          "gross_pp": 12.319657908062307,
+          "own_transfer_pp": 3.039792802224149
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 8.818933089892385,
+          "gross_pp": 11.656441765766278,
+          "own_transfer_pp": 2.8375086758738925
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 9.107024593825013,
+          "gross_pp": 12.340558400724571,
+          "own_transfer_pp": 3.233533806899558
+        }
+      ]
+    },
+    {
+      "lon": 37.76467935515967,
+      "lat": 55.65624577793748,
+      "nearest_venue": "51675639",
+      "venue_osm_id": "51675639",
+      "venue_footprint_m2": 1500,
+      "venue_distance_m": 67.15433847362017,
+      "historical_model_mass_300": 0.004126000473332067,
+      "worst_relative_regret": 0.05449933429910945,
+      "min_gain_pp": 8.832069664647642,
+      "max_gain_pp": 24.026740869150107,
+      "scenarios": [
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 24.026740869150107,
+          "gross_pp": 29.370874554236003,
+          "own_transfer_pp": 5.344133685085898
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 22.978499089601094,
+          "gross_pp": 27.432873199148172,
+          "own_transfer_pp": 4.454374109547077
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 23.377113465078146,
+          "gross_pp": 29.815811172296936,
+          "own_transfer_pp": 6.438697707218788
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 23.795814308004516,
+          "gross_pp": 24.70505808501571,
+          "own_transfer_pp": 0.9092437770111927
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 22.88878182934274,
+          "gross_pp": 23.816484100294463,
+          "own_transfer_pp": 0.9277022709517246
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 23.729277011854236,
+          "gross_pp": 25.060406518369692,
+          "own_transfer_pp": 1.3311295065154578
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 15.161495713608241,
+          "gross_pp": 20.814193472318752,
+          "own_transfer_pp": 5.652697758710512
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 14.593716067708026,
+          "gross_pp": 19.678489105600384,
+          "own_transfer_pp": 5.084773037892357
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 14.428705032055053,
+          "gross_pp": 20.878013504882674,
+          "own_transfer_pp": 6.449308472827623
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 13.638964781632476,
+          "gross_pp": 16.40248759061879,
+          "own_transfer_pp": 2.7635228089863157
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 13.234806449139603,
+          "gross_pp": 15.781020456577016,
+          "own_transfer_pp": 2.546214007437414
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 13.024071768736547,
+          "gross_pp": 16.192619186875067,
+          "own_transfer_pp": 3.1685474181385205
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 10.365946527694405,
+          "gross_pp": 16.40289323693987,
+          "own_transfer_pp": 6.036946709245465
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 9.917529685140272,
+          "gross_pp": 15.615505260347396,
+          "own_transfer_pp": 5.697975575207123
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 10.190968605150893,
+          "gross_pp": 16.714948829060905,
+          "own_transfer_pp": 6.523980223910013
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 9.22723434233304,
+          "gross_pp": 12.267095417497337,
+          "own_transfer_pp": 3.0398610751642976
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 8.832069664647642,
+          "gross_pp": 11.690318265934883,
+          "own_transfer_pp": 2.85824860128724
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 9.115070595313075,
+          "gross_pp": 12.366164257651624,
+          "own_transfer_pp": 3.2510936623385502
+        }
+      ]
+    },
+    {
+      "lon": 37.76627157162159,
+      "lat": 55.65534746676249,
+      "nearest_venue": "51675639",
+      "venue_osm_id": "51675639",
+      "venue_footprint_m2": 1500,
+      "venue_distance_m": 122.24844488925613,
+      "historical_model_mass_300": 0.004161815617942545,
+      "worst_relative_regret": 0.0849134719420091,
+      "min_gain_pp": 8.75628482132942,
+      "max_gain_pp": 23.317965018811687,
+      "scenarios": [
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 23.317965018811687,
+          "gross_pp": 27.88608340198383,
+          "own_transfer_pp": 4.568118383172143
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 23.234356703512958,
+          "gross_pp": 27.254810718026377,
+          "own_transfer_pp": 4.020454014513419
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 22.921079690058498,
+          "gross_pp": 28.532313168689576,
+          "own_transfer_pp": 5.611233478631078
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 22.711242375339534,
+          "gross_pp": 23.573473701869624,
+          "own_transfer_pp": 0.8622313265300913
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 22.90602918483616,
+          "gross_pp": 23.853035075726865,
+          "own_transfer_pp": 0.9470058908907064
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 22.88239963768744,
+          "gross_pp": 24.193268937394468,
+          "own_transfer_pp": 1.3108692997070293
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 14.787648889782211,
+          "gross_pp": 20.168371179137633,
+          "own_transfer_pp": 5.380722289355422
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 14.575652727212066,
+          "gross_pp": 19.53151922390224,
+          "own_transfer_pp": 4.9558664966901755
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 14.055347852944164,
+          "gross_pp": 20.216657633111513,
+          "own_transfer_pp": 6.161309780167349
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 13.286901712820667,
+          "gross_pp": 15.917813245744977,
+          "own_transfer_pp": 2.63091153292431
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 13.240836558510786,
+          "gross_pp": 15.732874357210488,
+          "own_transfer_pp": 2.4920377986997035
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 12.685882140578597,
+          "gross_pp": 15.714844476093676,
+          "own_transfer_pp": 3.0289623355150788
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 10.139559132219922,
+          "gross_pp": 16.023446954350927,
+          "own_transfer_pp": 5.8838878221310065
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 9.826310149821952,
+          "gross_pp": 15.446893376984006,
+          "own_transfer_pp": 5.620583227162054
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 9.942227719028633,
+          "gross_pp": 16.29556186367932,
+          "own_transfer_pp": 6.353334144650689
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 9.019570065699378,
+          "gross_pp": 11.97590355241203,
+          "own_transfer_pp": 2.9563334867126505
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 8.75628482132942,
+          "gross_pp": 11.57360735991352,
+          "own_transfer_pp": 2.817322538584102
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 8.887628742533058,
+          "gross_pp": 12.044428440069831,
+          "own_transfer_pp": 3.156799697536772
+        }
+      ]
+    },
+    {
+      "lon": 37.76149492223584,
+      "lat": 55.65983902263744,
+      "nearest_venue": "488481693",
+      "venue_osm_id": "488481693",
+      "venue_footprint_m2": 1548,
+      "venue_distance_m": 138.73210936385752,
+      "historical_model_mass_300": 0.005607571900741745,
+      "worst_relative_regret": 0.1921214909333647,
+      "min_gain_pp": 8.534502868239104,
+      "max_gain_pp": 24.67864015039454,
+      "scenarios": [
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 23.25086586854618,
+          "gross_pp": 30.217885300157043,
+          "own_transfer_pp": 6.9670194316108605
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 19.63386833930442,
+          "gross_pp": 24.762660736528154,
+          "own_transfer_pp": 5.128792397223733
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 21.018936309600715,
+          "gross_pp": 29.004678249070054,
+          "own_transfer_pp": 7.985741939469337
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 24.67864015039454,
+          "gross_pp": 25.64250075162537,
+          "own_transfer_pp": 0.9638606012308287
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 20.580965064916544,
+          "gross_pp": 21.34295174541254,
+          "own_transfer_pp": 0.7619866804959963
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 22.619955087082975,
+          "gross_pp": 23.80607013355697,
+          "own_transfer_pp": 1.1861150464739985
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 15.182367871005978,
+          "gross_pp": 20.964132628975637,
+          "own_transfer_pp": 5.781764757969659
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 13.621532255838808,
+          "gross_pp": 18.460108620414793,
+          "own_transfer_pp": 4.838576364575986
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 14.123421270234173,
+          "gross_pp": 20.547700564496854,
+          "own_transfer_pp": 6.42427929426268
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 13.704537240503464,
+          "gross_pp": 16.526789077274127,
+          "own_transfer_pp": 2.8222518367706644
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 12.301260455758017,
+          "gross_pp": 14.69905146263506,
+          "own_transfer_pp": 2.3977910068770427
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 12.723425863991226,
+          "gross_pp": 15.860033358414263,
+          "own_transfer_pp": 3.136607494423038
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 10.430747512204425,
+          "gross_pp": 16.444475502196106,
+          "own_transfer_pp": 6.013727989991679
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 9.612513681240276,
+          "gross_pp": 15.084993348385215,
+          "own_transfer_pp": 5.472479667144939
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 10.180595029975635,
+          "gross_pp": 16.62890011271761,
+          "own_transfer_pp": 6.448305082741975
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 9.288367147509287,
+          "gross_pp": 12.343351236938094,
+          "own_transfer_pp": 3.0549840894288067
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 8.534502868239104,
+          "gross_pp": 11.296060778190363,
+          "own_transfer_pp": 2.7615579099512595
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 9.097077925720171,
+          "gross_pp": 12.338290962470166,
+          "own_transfer_pp": 3.241213036749996
+        }
+      ]
+    },
+    {
+      "lon": 37.75990270577393,
+      "lat": 55.658940711462456,
+      "nearest_venue": "488481693",
+      "venue_osm_id": "488481693",
+      "venue_footprint_m2": 1548,
+      "venue_distance_m": 100.81798679905707,
+      "historical_model_mass_300": 0.008419176994527086,
+      "worst_relative_regret": 0.22138182769758807,
+      "min_gain_pp": 8.618806240865814,
+      "max_gain_pp": 23.910576291312204,
+      "scenarios": [
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 22.472310902046637,
+          "gross_pp": 29.999214988567648,
+          "own_transfer_pp": 7.526904086521011
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 18.92275448598977,
+          "gross_pp": 24.50547303206887,
+          "own_transfer_pp": 5.582718546079099
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 21.035909367694664,
+          "gross_pp": 29.887359720872304,
+          "own_transfer_pp": 8.85145035317764
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 23.910576291312204,
+          "gross_pp": 25.044894083552684,
+          "own_transfer_pp": 1.1343177922404775
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 19.896624887162808,
+          "gross_pp": 20.805690100506318,
+          "own_transfer_pp": 0.9090652133435101
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 22.853869533099573,
+          "gross_pp": 24.307399279041032,
+          "own_transfer_pp": 1.4535297459414593
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 15.027972006088197,
+          "gross_pp": 21.05059432723042,
+          "own_transfer_pp": 6.022622321142224
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 13.464390122441483,
+          "gross_pp": 18.53785421913188,
+          "own_transfer_pp": 5.073464096690397
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 14.380398948361389,
+          "gross_pp": 21.20558315896251,
+          "own_transfer_pp": 6.825184210601123
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 13.496295921123409,
+          "gross_pp": 16.43658224377092,
+          "own_transfer_pp": 2.9402863226475144
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 12.101202739160845,
+          "gross_pp": 14.61194734109952,
+          "own_transfer_pp": 2.510744601938676
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 12.93097377120573,
+          "gross_pp": 16.280774887994358,
+          "own_transfer_pp": 3.3498011167886284
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 10.535630246708207,
+          "gross_pp": 16.732382213278562,
+          "own_transfer_pp": 6.196751966570356
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 9.71960987552103,
+          "gross_pp": 15.37533590909723,
+          "own_transfer_pp": 5.655726033576198
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 10.431264607897102,
+          "gross_pp": 17.140660688179036,
+          "own_transfer_pp": 6.709396080281933
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 9.370061854455944,
+          "gross_pp": 12.503730413143233,
+          "own_transfer_pp": 3.1336685586872886
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 8.618806240865814,
+          "gross_pp": 11.458102996949208,
+          "own_transfer_pp": 2.8392967560833924
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 9.322312787926865,
+          "gross_pp": 12.688499432073696,
+          "own_transfer_pp": 3.3661866441468304
+        }
+      ]
+    },
+    {
+      "lon": 37.75831048931202,
+      "lat": 55.658940711462456,
+      "nearest_venue": "488481693",
+      "venue_osm_id": "488481693",
+      "venue_footprint_m2": 1548,
+      "venue_distance_m": 111.58707253095196,
+      "historical_model_mass_300": 0.013049569794725921,
+      "worst_relative_regret": 0.28034781952018567,
+      "min_gain_pp": 8.546681782435156,
+      "max_gain_pp": 22.743224579879495,
+      "scenarios": [
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 21.165845047770386,
+          "gross_pp": 29.218165076429088,
+          "own_transfer_pp": 8.052320028658702
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 17.48970421054806,
+          "gross_pp": 23.4193540709934,
+          "own_transfer_pp": 5.929649860445344
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 19.973788976416127,
+          "gross_pp": 29.570450047605632,
+          "own_transfer_pp": 9.596661071189509
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 22.743224579879495,
+          "gross_pp": 24.013638598861885,
+          "own_transfer_pp": 1.270414018982391
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 18.549655506134084,
+          "gross_pp": 19.544890401136186,
+          "own_transfer_pp": 0.9952348950021034
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 22.022624955583503,
+          "gross_pp": 23.663661926480863,
+          "own_transfer_pp": 1.641036970897361
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 14.675527338193541,
+          "gross_pp": 20.78789171225889,
+          "own_transfer_pp": 6.112364374065349
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 12.9838412715057,
+          "gross_pp": 18.09942712652168,
+          "own_transfer_pp": 5.115585855015981
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 14.260690891598749,
+          "gross_pp": 21.245802476212006,
+          "own_transfer_pp": 6.985111584613257
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 13.126173388196133,
+          "gross_pp": 16.10862100662717,
+          "own_transfer_pp": 2.982447618431039
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 11.613368666008421,
+          "gross_pp": 14.138486459825195,
+          "own_transfer_pp": 2.525117793816774
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 12.792226207005466,
+          "gross_pp": 16.228792859818427,
+          "own_transfer_pp": 3.436566652812961
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 10.518502792091805,
+          "gross_pp": 16.77762734529464,
+          "own_transfer_pp": 6.2591245532028355
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 9.654795899886654,
+          "gross_pp": 15.347023338301558,
+          "own_transfer_pp": 5.6922274384149025
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 10.49596645182264,
+          "gross_pp": 17.30324763551618,
+          "own_transfer_pp": 6.807281183693538
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 9.34300691670167,
+          "gross_pp": 12.501915371932373,
+          "own_transfer_pp": 3.1589084552307036
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 8.546681782435156,
+          "gross_pp": 11.396565083981555,
+          "own_transfer_pp": 2.849883301546399
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 9.375348299364548,
+          "gross_pp": 12.790016731638612,
+          "own_transfer_pp": 3.4146684322740635
+        }
+      ]
+    },
+    {
+      "lon": 37.75353383992627,
+      "lat": 55.658042400287464,
+      "nearest_venue": "Братиславский рынок",
+      "venue_osm_id": "27811776",
+      "venue_footprint_m2": 2230,
+      "venue_distance_m": 123.07518820173304,
+      "historical_model_mass_300": 0.2266176312749157,
+      "worst_relative_regret": 0.4542339487877152,
+      "min_gain_pp": 8.323489761138449,
+      "max_gain_pp": 18.143407919015882,
+      "scenarios": [
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 16.42209310471426,
+          "gross_pp": 25.578636354893074,
+          "own_transfer_pp": 9.156543250178814
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 13.263750270995562,
+          "gross_pp": 19.9851560544956,
+          "own_transfer_pp": 6.72140578350004
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 16.547110363767032,
+          "gross_pp": 28.023238105305282,
+          "own_transfer_pp": 11.47612774153825
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 17.091398485031036,
+          "gross_pp": 18.791945000057343,
+          "own_transfer_pp": 1.7005465150263048
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 13.647813726712513,
+          "gross_pp": 14.956205921337338,
+          "own_transfer_pp": 1.3083921946248245
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 18.143407919015882,
+          "gross_pp": 20.517943825347388,
+          "own_transfer_pp": 2.374535906331504
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 13.173112912999743,
+          "gross_pp": 19.462708595916908,
+          "own_transfer_pp": 6.289595682917165
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 11.383139210570857,
+          "gross_pp": 16.635857612827067,
+          "own_transfer_pp": 5.252718402256211
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 13.608967226333743,
+          "gross_pp": 21.02169001678331,
+          "own_transfer_pp": 7.412722790449569
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 11.60237660447852,
+          "gross_pp": 14.673302805751215,
+          "own_transfer_pp": 3.0709262012726946
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 10.020780919011186,
+          "gross_pp": 12.604775652508557,
+          "own_transfer_pp": 2.583994733497372
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 12.107146295621304,
+          "gross_pp": 15.793891900988527,
+          "own_transfer_pp": 3.686745605367224
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 10.359045700093585,
+          "gross_pp": 16.80141425431477,
+          "own_transfer_pp": 6.442368554221188
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 9.449667642960392,
+          "gross_pp": 15.300592351840194,
+          "own_transfer_pp": 5.850924708879803
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 10.607671915837065,
+          "gross_pp": 17.70615400995303,
+          "own_transfer_pp": 7.098482094115964
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 9.161269436688023,
+          "gross_pp": 12.382561524949706,
+          "own_transfer_pp": 3.2212920882616833
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 8.323489761138449,
+          "gross_pp": 11.221000875606151,
+          "own_transfer_pp": 2.8975111144677017
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 9.458963760972821,
+          "gross_pp": 13.008435148866448,
+          "own_transfer_pp": 3.549471387893627
+        }
+      ]
+    },
+    {
+      "lon": 37.75194162346436,
+      "lat": 55.65714408911247,
+      "nearest_venue": "Братиславский рынок",
+      "venue_osm_id": "27811776",
+      "venue_footprint_m2": 2230,
+      "venue_distance_m": 90.48495876122065,
+      "historical_model_mass_300": 0.22888408825966142,
+      "worst_relative_regret": 0.5110886125814267,
+      "min_gain_pp": 8.273917151824744,
+      "max_gain_pp": 16.364603128858484,
+      "scenarios": [
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 14.567717628906019,
+          "gross_pp": 23.643857697495783,
+          "own_transfer_pp": 9.076140068589764
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 11.901338644878665,
+          "gross_pp": 18.623080008326344,
+          "own_transfer_pp": 6.721741363447677
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 15.542001515361495,
+          "gross_pp": 27.17260403280782,
+          "own_transfer_pp": 11.630602517446324
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 14.387541238826579,
+          "gross_pp": 16.19795320086648,
+          "own_transfer_pp": 1.8104119620398984
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 11.66836720436212,
+          "gross_pp": 13.081856413692025,
+          "own_transfer_pp": 1.4134892093299045
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 16.364603128858484,
+          "gross_pp": 18.98178148317656,
+          "own_transfer_pp": 2.617178354318081
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 12.515343306921775,
+          "gross_pp": 18.855666365732617,
+          "own_transfer_pp": 6.340323058810843
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 10.836160106633766,
+          "gross_pp": 16.184310850372885,
+          "own_transfer_pp": 5.348150743739119
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 13.306759138595359,
+          "gross_pp": 20.867086213269328,
+          "own_transfer_pp": 7.56032707467397
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 10.962022708403337,
+          "gross_pp": 14.06381055888502,
+          "own_transfer_pp": 3.1017878504816827
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 9.4916849764244,
+          "gross_pp": 12.124588324624575,
+          "own_transfer_pp": 2.6329033482001747
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 11.806021659335382,
+          "gross_pp": 15.586113665341323,
+          "own_transfer_pp": 3.7800920060059404
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 10.276200940694858,
+          "gross_pp": 16.80074710115592,
+          "own_transfer_pp": 6.52454616046106
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 9.406958225246521,
+          "gross_pp": 15.362622743056075,
+          "own_transfer_pp": 5.955664517809554
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 10.628420431246356,
+          "gross_pp": 17.84567374058424,
+          "own_transfer_pp": 7.217253309337883
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 9.074054658911338,
+          "gross_pp": 12.319562290793524,
+          "own_transfer_pp": 3.2455076318821843
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 8.273917151824744,
+          "gross_pp": 11.206872046238379,
+          "own_transfer_pp": 2.9329548944136348
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 9.472486875554388,
+          "gross_pp": 13.071444287328124,
+          "own_transfer_pp": 3.598957411773736
+        }
+      ]
+    },
+    {
+      "lon": 37.75194162346436,
+      "lat": 55.658042400287464,
+      "nearest_venue": "Братиславский рынок",
+      "venue_osm_id": "27811776",
+      "venue_footprint_m2": 2230,
+      "venue_distance_m": 25.624436816710165,
+      "historical_model_mass_300": 0.22983811054268127,
+      "worst_relative_regret": 0.5182728205055178,
+      "min_gain_pp": 8.176936056094974,
+      "max_gain_pp": 16.20141294765707,
+      "scenarios": [
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 14.632175090969646,
+          "gross_pp": 24.022949442316836,
+          "own_transfer_pp": 9.390774351347192
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 11.707413814716297,
+          "gross_pp": 18.582289700947445,
+          "own_transfer_pp": 6.8748758862311465
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 14.970626302829881,
+          "gross_pp": 26.921905206679813,
+          "own_transfer_pp": 11.951278903849932
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 14.849013789116414,
+          "gross_pp": 16.671481809765815,
+          "own_transfer_pp": 1.822468020649401
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 11.743616113846855,
+          "gross_pp": 13.136601079600755,
+          "own_transfer_pp": 1.3929849657538989
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 16.20141294765707,
+          "gross_pp": 18.814927010611086,
+          "own_transfer_pp": 2.613514062954017
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 12.538652855062088,
+          "gross_pp": 18.783986291771594,
+          "own_transfer_pp": 6.245333436709507
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 10.728912531056235,
+          "gross_pp": 15.927312666295181,
+          "own_transfer_pp": 5.198400135238947
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 13.163483237018262,
+          "gross_pp": 20.56935516803343,
+          "own_transfer_pp": 7.4058719310151675
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 10.997063980903663,
+          "gross_pp": 14.04940250889371,
+          "own_transfer_pp": 3.0523385279900466
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 9.402738318016032,
+          "gross_pp": 11.960694871758463,
+          "own_transfer_pp": 2.5579565537424314
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 11.684341314790274,
+          "gross_pp": 15.380722270558294,
+          "own_transfer_pp": 3.6963809557680207
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 10.22611913227793,
+          "gross_pp": 16.66213377024352,
+          "own_transfer_pp": 6.436014637965591
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 9.29839386099705,
+          "gross_pp": 15.133250872381918,
+          "own_transfer_pp": 5.834857011384867
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 10.532433831835434,
+          "gross_pp": 17.637474208087482,
+          "own_transfer_pp": 7.105040376252047
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 9.031017329791077,
+          "gross_pp": 12.242111366151471,
+          "own_transfer_pp": 3.2110940363603944
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 8.176936056094974,
+          "gross_pp": 11.059063495717716,
+          "own_transfer_pp": 2.882127439622743
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 9.384479560476855,
+          "gross_pp": 12.935343027424443,
+          "own_transfer_pp": 3.5508634669475874
+        }
+      ]
+    },
+    {
+      "lon": 37.75194162346436,
+      "lat": 55.658940711462456,
+      "nearest_venue": "Братиславский рынок",
+      "venue_osm_id": "27811776",
+      "venue_footprint_m2": 2230,
+      "venue_distance_m": 114.56742888939833,
+      "historical_model_mass_300": 0.24334276253760648,
+      "worst_relative_regret": 0.5307132729589554,
+      "min_gain_pp": 8.046821791776908,
+      "max_gain_pp": 15.843859594128423,
+      "scenarios": [
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 14.530081859767385,
+          "gross_pp": 24.05646184933402,
+          "own_transfer_pp": 9.526379989566635
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 11.405073545961827,
+          "gross_pp": 18.31801212950934,
+          "own_transfer_pp": 6.912938583547517
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 14.273945457468978,
+          "gross_pp": 26.321612366935256,
+          "own_transfer_pp": 12.047666909466276
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 15.143321472119986,
+          "gross_pp": 16.948118040474927,
+          "own_transfer_pp": 1.804796568354941
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 11.702305371192818,
+          "gross_pp": 13.05622200931355,
+          "own_transfer_pp": 1.3539166381207335
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 15.843859594128423,
+          "gross_pp": 18.4044440691092,
+          "own_transfer_pp": 2.560584474980776
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 12.474610282009547,
+          "gross_pp": 18.588245768707797,
+          "own_transfer_pp": 6.113635486698252
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 10.551645321768275,
+          "gross_pp": 15.574968498013567,
+          "own_transfer_pp": 5.023323176245291
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 12.926184169199193,
+          "gross_pp": 20.128753293524678,
+          "own_transfer_pp": 7.202569124325486
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 10.953957061380262,
+          "gross_pp": 13.937614432692827,
+          "own_transfer_pp": 2.9836573713125647
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 9.251636667326926,
+          "gross_pp": 11.720815563211954,
+          "own_transfer_pp": 2.469178895885027
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 11.476357611203039,
+          "gross_pp": 15.063118800055594,
+          "own_transfer_pp": 3.586761188852555
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 10.134395762571963,
+          "gross_pp": 16.456948535023457,
+          "own_transfer_pp": 6.322552772451495
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 9.153321581991618,
+          "gross_pp": 14.846075102113982,
+          "own_transfer_pp": 5.692753520122364
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 10.39174903813528,
+          "gross_pp": 17.355328457834247,
+          "own_transfer_pp": 6.963579419698967
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 8.949852290196397,
+          "gross_pp": 12.113231710865163,
+          "own_transfer_pp": 3.163379420668766
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 8.046821791776908,
+          "gross_pp": 10.866793928057202,
+          "own_transfer_pp": 2.8199721362802936
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 9.255121772386799,
+          "gross_pp": 12.742368534475702,
+          "own_transfer_pp": 3.4872467620889025
+        }
+      ]
+    },
+    {
+      "lon": 37.7455727576167,
+      "lat": 55.650855910887536,
+      "nearest_venue": "494152858",
+      "venue_osm_id": "494152858",
+      "venue_footprint_m2": 1033,
+      "venue_distance_m": 89.2028546774183,
+      "historical_model_mass_300": 0.2558735599495858,
+      "worst_relative_regret": 0.7208666492448541,
+      "min_gain_pp": 6.661801134950044,
+      "max_gain_pp": 10.613682537122358,
+      "scenarios": [
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 8.351929308866918,
+          "gross_pp": 12.37523255300804,
+          "own_transfer_pp": 4.023303244141122
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 7.577668976756962,
+          "gross_pp": 11.051249956742645,
+          "own_transfer_pp": 3.473580979985684
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 10.613682537122358,
+          "gross_pp": 15.773447114366448,
+          "own_transfer_pp": 5.15976457724409
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 7.378189339415757,
+          "gross_pp": 9.347652040219248,
+          "own_transfer_pp": 1.9694627008034913
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 6.661801134950044,
+          "gross_pp": 8.371792571399805,
+          "own_transfer_pp": 1.7099914364497621
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 9.520671112668277,
+          "gross_pp": 12.056070810345856,
+          "own_transfer_pp": 2.53539969767758
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 8.633566064356957,
+          "gross_pp": 14.564344600758183,
+          "own_transfer_pp": 5.930778536401227
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 7.988072959035214,
+          "gross_pp": 13.47493822041149,
+          "own_transfer_pp": 5.486865261376275
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 10.055113793770758,
+          "gross_pp": 16.99276972803187,
+          "own_transfer_pp": 6.937655934261112
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 7.599846917566293,
+          "gross_pp": 10.547557507788024,
+          "own_transfer_pp": 2.9477105902217318
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 7.037700903695289,
+          "gross_pp": 9.73949254650473,
+          "own_transfer_pp": 2.701791642809441
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 8.929812338000879,
+          "gross_pp": 12.476473446611166,
+          "own_transfer_pp": 3.546661108610288
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 9.035797048168984,
+          "gross_pp": 15.408922540224305,
+          "own_transfer_pp": 6.373125492055321
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 8.644558281043212,
+          "gross_pp": 14.733356936374035,
+          "own_transfer_pp": 6.088798655330822
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 9.583109947677357,
+          "gross_pp": 16.586420273249146,
+          "own_transfer_pp": 7.003310325571789
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 7.943649641929953,
+          "gross_pp": 11.018261736923622,
+          "own_transfer_pp": 3.0746120949936673
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 7.573871069477915,
+          "gross_pp": 10.47792224428439,
+          "own_transfer_pp": 2.904051174806474
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 8.512528794074472,
+          "gross_pp": 11.929516655912769,
+          "own_transfer_pp": 3.416987861838297
+        }
+      ]
+    },
+    {
+      "lon": 37.7455727576167,
+      "lat": 55.65175422206253,
+      "nearest_venue": "494152858",
+      "venue_osm_id": "494152858",
+      "venue_footprint_m2": 1033,
+      "venue_distance_m": 77.77131915201525,
+      "historical_model_mass_300": 0.2650967056174106,
+      "worst_relative_regret": 0.7259733743371309,
+      "min_gain_pp": 6.539923950000367,
+      "max_gain_pp": 10.70976171931701,
+      "scenarios": [
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 8.356420404722186,
+          "gross_pp": 12.844752473336952,
+          "own_transfer_pp": 4.488332068614764
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 7.448611067737583,
+          "gross_pp": 11.190034277563761,
+          "own_transfer_pp": 3.741423209826178
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 10.70976171931701,
+          "gross_pp": 16.68061466862854,
+          "own_transfer_pp": 5.970852949311528
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 7.376875209976625,
+          "gross_pp": 9.404175367712812,
+          "own_transfer_pp": 2.027300157736188
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 6.539923950000367,
+          "gross_pp": 8.26777511788137,
+          "own_transfer_pp": 1.7278511678810031
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 9.64349928529669,
+          "gross_pp": 12.346739476229143,
+          "own_transfer_pp": 2.7032401909324544
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 8.95778811002104,
+          "gross_pp": 14.99671904925863,
+          "own_transfer_pp": 6.03893093923759
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 8.182782253667357,
+          "gross_pp": 13.695545854905308,
+          "own_transfer_pp": 5.512763601237951
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 10.422360016081642,
+          "gross_pp": 17.543114633589973,
+          "own_transfer_pp": 7.1207546175083305
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 7.8645781294636095,
+          "gross_pp": 10.868664671461756,
+          "own_transfer_pp": 3.004086541998147
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 7.190618079463038,
+          "gross_pp": 9.913886637474018,
+          "own_transfer_pp": 2.72326855801098
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 9.248636694641853,
+          "gross_pp": 12.89059429330472,
+          "own_transfer_pp": 3.6419575986628665
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 9.222706416068272,
+          "gross_pp": 15.674980890211495,
+          "own_transfer_pp": 6.452274474143224
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 8.760850253858633,
+          "gross_pp": 14.884959555745446,
+          "own_transfer_pp": 6.124109301886814
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 9.77558351051582,
+          "gross_pp": 16.87739492021196,
+          "own_transfer_pp": 7.101811409696138
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 8.109393499013642,
+          "gross_pp": 11.233324563784103,
+          "own_transfer_pp": 3.1239310647704617
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 7.676243703453423,
+          "gross_pp": 10.607763122088953,
+          "own_transfer_pp": 2.9315194186355296
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 8.687091759542323,
+          "gross_pp": 12.163333884019625,
+          "own_transfer_pp": 3.4762421244773023
+        }
+      ]
+    },
+    {
+      "lon": 37.74398054115479,
+      "lat": 55.65175422206253,
+      "nearest_venue": "494152858",
+      "venue_osm_id": "494152858",
+      "venue_footprint_m2": 1033,
+      "venue_distance_m": 52.57646426061587,
+      "historical_model_mass_300": 0.2857021765048462,
+      "worst_relative_regret": 0.7589542397328696,
+      "min_gain_pp": 5.7528020746294235,
+      "max_gain_pp": 9.941202239583058,
+      "scenarios": [
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 7.314517708739883,
+          "gross_pp": 11.607642824326783,
+          "own_transfer_pp": 4.2931251155869
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 6.467476305056594,
+          "gross_pp": 10.04739245697422,
+          "own_transfer_pp": 3.579916151917627
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 9.382039703408351,
+          "gross_pp": 15.05874505117824,
+          "own_transfer_pp": 5.676705347769889
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 6.555641512122834,
+          "gross_pp": 8.79875085827412,
+          "own_transfer_pp": 2.2431093461512868
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 5.7528020746294235,
+          "gross_pp": 7.661661664653045,
+          "own_transfer_pp": 1.9088595900236218
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 8.58439118841432,
+          "gross_pp": 11.50865160309694,
+          "own_transfer_pp": 2.9242604146826183
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 8.552850090568054,
+          "gross_pp": 14.556219778948718,
+          "own_transfer_pp": 6.003369688380664
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 7.810798461072242,
+          "gross_pp": 13.30167062342705,
+          "own_transfer_pp": 5.490872162354808
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 9.941202239583058,
+          "gross_pp": 16.940133009772506,
+          "own_transfer_pp": 6.998930770189449
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 7.5405031525750195,
+          "gross_pp": 10.539776264954366,
+          "own_transfer_pp": 2.9992731123793472
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 6.887021532291643,
+          "gross_pp": 9.607462947656243,
+          "own_transfer_pp": 2.720441415364601
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 8.849395775219937,
+          "gross_pp": 12.4476524448383,
+          "own_transfer_pp": 3.5982566696183618
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 9.067259990807145,
+          "gross_pp": 15.474337025382248,
+          "own_transfer_pp": 6.407077034575104
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 8.62459286517435,
+          "gross_pp": 14.71371828984136,
+          "own_transfer_pp": 6.089125424667009
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 9.594953505666753,
+          "gross_pp": 16.61206040744433,
+          "own_transfer_pp": 7.017106901777575
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 7.973044765117597,
+          "gross_pp": 11.07172510617398,
+          "own_transfer_pp": 3.098680341056384
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 7.555109021359947,
+          "gross_pp": 10.466242163453051,
+          "own_transfer_pp": 2.9111331420931044
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 8.525122142663491,
+          "gross_pp": 11.958767405649423,
+          "own_transfer_pp": 3.433645262985932
+        }
+      ]
+    },
+    {
+      "lon": 37.742388324692875,
+      "lat": 55.650855910887536,
+      "nearest_venue": "Пятёрочка",
+      "venue_osm_id": "29449543",
+      "venue_footprint_m2": 1291,
+      "venue_distance_m": 84.7365574743819,
+      "historical_model_mass_300": 0.289123307803572,
+      "worst_relative_regret": 0.7786214662426754,
+      "min_gain_pp": 5.283423723637345,
+      "max_gain_pp": 9.21944739875775,
+      "scenarios": [
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 6.494299500910526,
+          "gross_pp": 10.37209488821979,
+          "own_transfer_pp": 3.8777953873092628
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 5.80715016360078,
+          "gross_pp": 9.151221807215872,
+          "own_transfer_pp": 3.3440716436150932
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 8.23172088726811,
+          "gross_pp": 13.052223593387403,
+          "own_transfer_pp": 4.820502706119291
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 400,
+          "net_gain_pp": 5.959465888339413,
+          "gross_pp": 8.429151537066057,
+          "own_transfer_pp": 2.469685648726644
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 400,
+          "net_gain_pp": 5.283423723637345,
+          "gross_pp": 7.418407764978518,
+          "own_transfer_pp": 2.134984041341174
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 400,
+          "net_gain_pp": 7.678945073809586,
+          "gross_pp": 10.696650142221316,
+          "own_transfer_pp": 3.01770506841173
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 7.946112699232248,
+          "gross_pp": 13.844987049247672,
+          "own_transfer_pp": 5.898874350015425
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 7.363293872888571,
+          "gross_pp": 12.844967467337867,
+          "own_transfer_pp": 5.481673594449296
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 9.163922318407048,
+          "gross_pp": 15.873093390547302,
+          "own_transfer_pp": 6.709171072140255
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 800,
+          "net_gain_pp": 7.063269954233952,
+          "gross_pp": 10.01650248855403,
+          "own_transfer_pp": 2.953232534320077
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 800,
+          "net_gain_pp": 6.53797781071654,
+          "gross_pp": 9.248631726214025,
+          "own_transfer_pp": 2.710653915497485
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 800,
+          "net_gain_pp": 8.200308159010396,
+          "gross_pp": 11.66335941923238,
+          "own_transfer_pp": 3.4630512602219845
+        },
+        {
+          "market": "base",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 8.742878684321688,
+          "gross_pp": 15.026169075534963,
+          "own_transfer_pp": 6.283290391213274
+        },
+        {
+          "market": "base",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 8.395945994543588,
+          "gross_pp": 14.41828193199206,
+          "own_transfer_pp": 6.022335937448473
+        },
+        {
+          "market": "base",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 9.21944739875775,
+          "gross_pp": 16.04318054277265,
+          "own_transfer_pp": 6.823733144014901
+        },
+        {
+          "market": "wide",
+          "prior": "housing",
+          "tau": 1200,
+          "net_gain_pp": 7.6899245028953525,
+          "gross_pp": 10.715851353094347,
+          "own_transfer_pp": 3.025926850198994
+        },
+        {
+          "market": "wide",
+          "prior": "uniform",
+          "tau": 1200,
+          "net_gain_pp": 7.355217968640251,
+          "gross_pp": 10.221649305395616,
+          "own_transfer_pp": 2.8664313367553635
+        },
+        {
+          "market": "wide",
+          "prior": "legacy",
+          "tau": 1200,
+          "net_gain_pp": 8.188738231392902,
+          "gross_pp": 11.516471718842256,
+          "own_transfer_pp": 3.327733487449354
+        }
+      ]
+    }
+  ],
+  "limitations": "Commercial footprint >=1000 m2 within 150 m is not verified vacant floor area. 50% of peak historical mass is illustrative, not estimated. Euclidean distances, potential market within Maryino, scenario elasticities and outside option, not profit."
+}
