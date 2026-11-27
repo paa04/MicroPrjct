@@ -21,9 +21,7 @@ const base=[0,1,2,3,4,5,6],struct=[...base,7],commercial=[...base,8,9,10,11,12,1
 const specs=[
  {name:'reference',indices:base,ridge:.5,shrink:1.5,half:1.5},
  {name:'commercial',indices:commercial,ridge:.5,shrink:1.5,half:1.5},
- {name:'commercial_strong',indices:commercial,ridge:1,shrink:3,half:1.5},
- {name:'commercial_structural',indices:full,ridge:.5,shrink:1.5,half:1.5},
- {name:'commercial_recent',indices:commercial,ridge:.5,shrink:1.5,half:.75}
+ {name:'commercial_structural',indices:full,ridge:.5,shrink:1.5,half:1.5}
 ].map(c=>({...c,mix:true,experts:true,structural:false,dynamic:true}));
 function metrics(rows,expert){return expert.stats(rows);}
 function fitModel(es,c,cut,expert){let m=expert.fit(es.map(e=>project(e,c.indices)),c,cut);m.cut=es.map(e=>e.c.opened).sort().at(-1);return m;}
@@ -32,7 +30,7 @@ function run(raw,lib,expert){
  const d=Object.fromEntries(Object.keys(lib.paths).map(k=>[k,lib.csv(raw[k])])),measure=featureFactory(d,lib),es=lib.prepare(d,measure).map(decorate),base=es.filter(e=>e.split==='train'),test=es.filter(e=>e.split==='time_test');
  // Select by forward validation on pre-2025 openings only; initial 2018–2021 period supplies training.
  let validation=[],models={},rows=[];
- for(let cut of ['2022-01-01','2023-01-01','2024-01-01']){
+ for(let cut of ['2023-01-01','2024-01-01']){
    let end=(+cut.slice(0,4)+1)+'-01-01',train=base.filter(e=>e.c.opened<cut),val=base.filter(e=>e.c.opened>=cut&&e.c.opened<end);if(train.length<4||!val.length)continue;
    for(let c of specs){let m=fitModel(train,c,cut,expert);for(let e of val)for(let rule of ['mode','mass'])validation.push(evaluate(e,c,m,rule,expert));}
  }
